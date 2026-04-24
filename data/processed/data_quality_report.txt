@@ -1,0 +1,107 @@
+========== DATA QUALITY REPORT ==========
+
+1. Dataset Size
+- clean_jobs rows: 2516
+- clean_jobs columns: 17
+- job_skills rows: 13486
+- job_skills columns: 2
+
+2. Missing Values in clean_jobs
+- job_id: 0
+- job_title: 0
+- clean_company_name: 0
+- location: 0
+- city: 0
+- state: 0
+- salary_estimate: 0
+- salary_min: 0
+- salary_max: 0
+- salary_avg: 0
+- rating: 0
+- industry: 0
+- sector: 0
+- revenue: 0
+- easy_apply_bool: 0
+- num_skills: 0
+- job_description: 0
+
+3. Duplicate Checks
+- Duplicate job_id count: 0
+- Exact duplicate rows in clean_jobs: 0
+- Duplicate job_id + skill pairs: 0
+
+4. Salary Checks
+- Missing salary_min: 0
+- Missing salary_max: 0
+- Missing salary_avg: 0
+- Rows where salary_min > salary_max: 0
+- Rows with salary_avg < 30000: 0
+- Rows with salary_avg > 300000: 0
+
+Salary Summary:
+          salary_min     salary_max     salary_avg
+count    2516.000000    2516.000000    2516.000000
+mean    77240.063593  124440.779014  100840.421304
+std     28454.777358   39429.591859   32194.819973
+min     27000.000000   50000.000000   38500.000000
+25%     57000.000000  100000.000000   80500.000000
+50%     74000.000000  120000.000000   97000.000000
+75%     93000.000000  146000.000000  116500.000000
+max    191000.000000  281000.000000  217500.000000
+
+5. Required Text Field Checks
+- Missing job_title: 0
+- Missing clean_company_name: 0
+- Missing job_description: 0
+
+6. Location Checks
+- Missing city: 0
+- Missing state: 0
+- Unknown city: 0
+- Unknown state: 0
+
+7. Skill Extraction Checks
+- Jobs with zero extracted skills: 390
+- Jobs with at least one extracted skill: 2126
+- Skill coverage rate: 84.50%
+
+Skill Count Summary:
+count    2516.000000
+mean        5.360095
+std         4.321372
+min         0.000000
+25%         2.000000
+50%         5.000000
+75%         8.000000
+max        24.000000
+Name: num_skills, dtype: float64
+
+Top 20 Skills:
+skill
+Python              1373
+SQL                 1212
+Java                 846
+AWS                  799
+Spark                787
+Hadoop               609
+ETL                  607
+Machine Learning     455
+Scala                444
+Kafka                443
+NoSQL                421
+Linux                417
+Azure                379
+Hive                 372
+Data Warehouse       356
+R                    287
+Git                  286
+Tableau              279
+Docker               278
+Data Modeling        268
+Name: count, dtype: int64
+
+8. Referential Integrity Checks
+- job_id values in job_skills but not in clean_jobs: 0
+- jobs in clean_jobs without matching rows in job_skills: 390
+
+========== END OF REPORT ==========

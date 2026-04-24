@@ -1,0 +1,13487 @@
+job_id,skill
+1,AWS
+1,Azure
+1,Data Modeling
+1,ETL
+1,MongoDB
+1,MySQL
+1,NoSQL
+1,Oracle
+1,PostgreSQL
+1,SQL
+1,SQL Server
+1,Tableau
+2,Azure
+2,ETL
+2,Hadoop
+2,Java
+2,NoSQL
+2,Power BI
+2,Python
+2,SQL
+2,Snowflake
+2,Spark
+2,Tableau
+3,AWS
+3,Airflow
+3,Azure
+3,Data Modeling
+3,Data Warehouse
+3,ELT
+3,ETL
+3,Git
+3,Hadoop
+3,Hive
+3,Java
+3,Python
+3,R
+3,Scala
+3,Spark
+5,ETL
+5,Python
+5,R
+5,SQL
+6,Python
+6,SQL
+7,Hadoop
+7,Machine Learning
+7,NoSQL
+7,Python
+7,Redshift
+7,SQL
+7,Spark
+7,Tableau
+8,Linux
+8,Python
+8,SQL
+9,Data Modeling
+9,Docker
+9,ETL
+9,Hadoop
+9,Java
+9,NumPy
+9,Pandas
+9,Python
+9,SQL
+9,Spark
+10,AWS
+10,Data Warehouse
+10,ETL
+10,Java
+10,Python
+10,R
+10,Scala
+10,Snowflake
+11,Python
+12,Machine Learning
+13,Azure
+13,Git
+13,SQL
+14,AWS
+14,Data Modeling
+14,Redshift
+14,Tableau
+15,AWS
+15,Java
+15,Linux
+15,Machine Learning
+15,MongoDB
+15,NoSQL
+15,SQL
+15,Scala
+15,Spark
+16,AWS
+16,Airflow
+16,Azure
+16,Docker
+16,Hadoop
+16,Java
+16,Kafka
+16,Kubernetes
+16,NoSQL
+16,Python
+16,SQL
+16,Snowflake
+16,Spark
+17,Airflow
+17,Data Warehouse
+17,Docker
+17,Hadoop
+17,Hive
+17,Java
+17,Kafka
+17,Kubernetes
+17,Linux
+17,Python
+17,SQL
+17,SQL Server
+17,Scala
+17,Spark
+19,Git
+19,Linux
+19,Python
+19,SQL
+20,Hadoop
+20,Hive
+20,Java
+20,Machine Learning
+20,MongoDB
+20,NoSQL
+20,Python
+20,R
+20,SQL
+20,Spark
+20,Tableau
+21,ETL
+21,Hadoop
+21,Hive
+21,Java
+21,Machine Learning
+21,MySQL
+21,NoSQL
+21,Python
+22,AWS
+22,Airflow
+22,GCP
+22,Hadoop
+22,Java
+22,Kafka
+22,MongoDB
+22,NoSQL
+22,Python
+22,SQL
+22,Spark
+23,AWS
+23,Airflow
+23,Data Modeling
+23,Data Warehouse
+23,Hadoop
+23,Hive
+23,Java
+23,Kafka
+23,Machine Learning
+23,NoSQL
+23,Python
+23,Redshift
+23,SQL
+23,Spark
+24,BigQuery
+24,Data Modeling
+24,Hadoop
+24,Hive
+24,SQL
+24,Spark
+25,AWS
+25,Airflow
+25,Data Modeling
+25,Data Warehouse
+25,GCP
+25,Java
+25,Looker
+25,Python
+25,SQL
+25,Scala
+25,Tableau
+26,Python
+26,R
+26,SQL
+27,Data Warehouse
+27,ETL
+27,Java
+27,Looker
+27,Python
+27,SQL
+27,Snowflake
+28,AWS
+28,Java
+28,MySQL
+28,PostgreSQL
+28,Redshift
+28,SQL
+28,SQL Server
+28,Spark
+29,Airflow
+29,BigQuery
+29,Docker
+29,Hadoop
+29,Kafka
+29,Kubernetes
+29,SQL
+29,Spark
+30,AWS
+30,Hadoop
+30,Java
+30,Machine Learning
+30,Python
+30,Spark
+31,AWS
+31,Airflow
+31,Azure
+31,Data Modeling
+31,Data Warehouse
+31,ELT
+31,ETL
+31,Git
+31,Hadoop
+31,Hive
+31,Java
+31,Python
+31,R
+31,Scala
+31,Spark
+32,ETL
+32,Python
+32,R
+32,SQL
+33,Airflow
+33,BigQuery
+33,Docker
+33,ETL
+33,Git
+33,Looker
+33,Python
+33,SQL
+33,dbt
+34,Java
+34,Machine Learning
+34,NoSQL
+34,Python
+34,Redshift
+34,SQL
+35,Java
+35,Python
+35,SQL
+35,SQL Server
+36,Java
+36,Oracle
+36,SQL
+37,R
+38,AWS
+38,Airflow
+38,BigQuery
+38,Data Lake
+38,Data Warehouse
+38,ETL
+38,GCP
+38,Kubernetes
+38,Looker
+38,PostgreSQL
+38,Python
+39,Airflow
+39,BigQuery
+39,Data Warehouse
+39,ELT
+39,ETL
+39,GCP
+39,Hadoop
+39,Hive
+39,Java
+39,Machine Learning
+39,NoSQL
+39,Python
+39,Scala
+39,Snowflake
+39,Spark
+40,Airflow
+40,Docker
+40,Git
+40,Python
+40,SQL
+41,AWS
+41,Data Modeling
+41,Data Warehouse
+41,ETL
+41,Git
+41,Hadoop
+41,Hive
+41,Java
+41,Linux
+41,PostgreSQL
+41,Python
+41,Redshift
+41,SQL
+41,Spark
+42,AWS
+42,Python
+42,Scala
+42,Spark
+43,ETL
+43,Java
+43,NoSQL
+43,Python
+43,SQL
+43,Scala
+44,AWS
+44,Airflow
+44,Kubernetes
+44,Python
+44,Redshift
+44,SQL
+45,Azure
+45,Machine Learning
+46,Airflow
+46,BigQuery
+46,Data Modeling
+46,ETL
+46,Java
+46,Python
+46,SQL
+46,Spark
+47,Hadoop
+47,Hive
+47,Java
+47,Kafka
+47,Machine Learning
+47,NoSQL
+47,SQL
+47,Scala
+47,Spark
+48,AWS
+48,Docker
+48,Linux
+48,Looker
+48,Python
+48,Redshift
+48,SQL
+48,Snowflake
+48,dbt
+49,Linux
+49,Pandas
+49,Python
+49,SQL
+50,Docker
+50,Git
+50,Java
+50,Kubernetes
+50,Linux
+50,Python
+52,AWS
+52,Airflow
+52,ETL
+52,Hadoop
+52,Hive
+52,Kubernetes
+52,Machine Learning
+52,MongoDB
+52,Python
+52,Redshift
+52,Scala
+52,Spark
+53,AWS
+53,Data Warehouse
+53,Kafka
+53,MySQL
+53,SQL
+53,SQL Server
+54,Data Warehouse
+54,Docker
+54,Looker
+54,Machine Learning
+54,Python
+54,Redshift
+54,SQL
+54,Tableau
+55,Airflow
+55,Docker
+55,ETL
+55,Kafka
+55,Kubernetes
+55,Pandas
+55,PostgreSQL
+55,Python
+55,Snowflake
+56,AWS
+56,Airflow
+56,Data Modeling
+56,ELT
+56,ETL
+56,Hadoop
+56,Java
+56,Kafka
+56,NoSQL
+56,NumPy
+56,Pandas
+56,Python
+56,R
+56,Redshift
+56,Scala
+56,Spark
+57,ETL
+57,Hadoop
+57,Java
+57,Machine Learning
+57,SQL
+57,Spark
+58,AWS
+58,BigQuery
+58,Data Modeling
+58,ETL
+58,Looker
+58,Python
+58,R
+58,Redshift
+58,SQL
+58,Tableau
+59,AWS
+59,Airflow
+59,ETL
+59,Git
+59,Hadoop
+59,Kafka
+59,Linux
+59,Pandas
+59,Python
+59,R
+59,Redshift
+59,SQL
+59,Snowflake
+59,Spark
+60,Python
+61,AWS
+61,Data Modeling
+61,ETL
+61,Hadoop
+61,Hive
+61,Machine Learning
+61,Redshift
+61,SQL
+61,Spark
+61,Tableau
+62,AWS
+62,Docker
+62,GCP
+62,Git
+62,Linux
+62,NoSQL
+62,Python
+63,Hadoop
+63,Machine Learning
+63,NoSQL
+63,Python
+63,Redshift
+63,SQL
+63,Spark
+63,Tableau
+64,Linux
+64,Python
+64,SQL
+65,Machine Learning
+65,MongoDB
+66,AWS
+66,Airflow
+66,Azure
+66,GCP
+66,Hadoop
+66,Java
+66,Kafka
+66,Linux
+66,MySQL
+66,NoSQL
+66,NumPy
+66,Pandas
+66,Python
+66,Redshift
+66,SQL
+66,SQL Server
+66,Scala
+66,Spark
+67,Data Modeling
+67,ETL
+67,Machine Learning
+67,NoSQL
+67,Python
+67,SQL
+68,AWS
+68,MongoDB
+68,Power BI
+68,Redshift
+68,SQL
+68,Spark
+68,Tableau
+69,AWS
+69,Java
+69,Python
+69,SQL
+69,Scala
+70,AWS
+70,Azure
+70,ELT
+70,ETL
+70,Kafka
+70,Machine Learning
+70,NoSQL
+70,Python
+70,R
+70,SQL
+71,Data Modeling
+71,Data Warehouse
+71,ETL
+71,MySQL
+71,Python
+71,Redshift
+71,SQL
+71,Snowflake
+71,Spark
+72,AWS
+72,Airflow
+72,BigQuery
+72,Data Warehouse
+72,ELT
+72,ETL
+72,Git
+72,Kubernetes
+72,Looker
+72,Python
+72,SQL
+72,dbt
+73,AWS
+73,ETL
+73,Hadoop
+73,PostgreSQL
+73,Python
+73,R
+73,Redshift
+73,SQL
+73,Scala
+73,Spark
+74,AWS
+74,Hadoop
+74,Java
+74,Kafka
+74,Linux
+74,NumPy
+74,Pandas
+74,PostgreSQL
+74,Python
+74,Redshift
+74,SQL
+74,SQL Server
+74,Spark
+75,Azure
+75,BigQuery
+75,ETL
+75,GCP
+75,Linux
+75,Python
+75,R
+75,SQL
+76,Linux
+76,Python
+76,SQL
+77,Data Modeling
+77,Data Warehouse
+77,ETL
+77,Java
+77,Python
+77,SQL
+78,Data Warehouse
+78,Python
+79,AWS
+79,Looker
+79,PostgreSQL
+79,Python
+80,SQL
+80,Tableau
+81,AWS
+81,Airflow
+81,Data Warehouse
+81,ETL
+81,Java
+81,Looker
+81,Python
+81,Redshift
+81,SQL
+81,Snowflake
+82,Azure
+82,PostgreSQL
+82,Python
+82,SQL
+82,Scala
+83,AWS
+83,Airflow
+83,Kafka
+83,NumPy
+83,Pandas
+83,Python
+83,Redshift
+83,Snowflake
+83,Spark
+84,AWS
+84,Azure
+84,Data Warehouse
+84,ETL
+84,Machine Learning
+84,Python
+84,SQL
+84,Spark
+85,AWS
+85,Airflow
+85,Azure
+85,Docker
+85,GCP
+85,Java
+85,Kafka
+85,Kubernetes
+85,Machine Learning
+85,NoSQL
+85,Python
+86,ETL
+86,Java
+86,NoSQL
+86,Python
+86,SQL
+86,Scala
+87,ETL
+87,Hadoop
+87,Java
+87,Kafka
+87,NoSQL
+87,Python
+87,Scala
+87,Spark
+88,BigQuery
+88,Docker
+88,Java
+88,Linux
+88,Machine Learning
+88,Scala
+88,Tableau
+89,ETL
+89,Hadoop
+89,Hive
+89,Java
+89,Machine Learning
+89,MySQL
+89,NoSQL
+89,Python
+91,Airflow
+91,BigQuery
+91,Data Warehouse
+91,ELT
+91,ETL
+91,GCP
+91,Git
+91,Python
+91,SQL
+92,Airflow
+92,Azure
+92,Data Lake
+92,ETL
+92,Hadoop
+92,Machine Learning
+92,Python
+92,SQL
+92,Spark
+93,AWS
+93,Git
+93,Java
+93,Linux
+93,Oracle
+93,Python
+93,R
+93,SQL
+93,SQL Server
+93,Scala
+93,Spark
+94,Azure
+94,Kubernetes
+94,Machine Learning
+94,Power BI
+94,SQL
+95,AWS
+95,Data Warehouse
+95,ETL
+95,Java
+95,Python
+95,R
+95,Scala
+95,Snowflake
+96,Machine Learning
+97,AWS
+97,Data Modeling
+97,ETL
+97,MySQL
+97,PostgreSQL
+97,Python
+97,Redshift
+97,SQL
+97,SQL Server
+98,Data Modeling
+98,ETL
+98,Java
+98,Python
+99,Python
+99,SQL
+99,Tableau
+100,AWS
+100,Data Modeling
+100,ETL
+100,Oracle
+100,SQL
+101,AWS
+101,Airflow
+101,Azure
+101,GCP
+101,Hadoop
+101,Java
+101,Kafka
+101,Linux
+101,MySQL
+101,NoSQL
+101,NumPy
+101,Pandas
+101,Python
+101,Redshift
+101,SQL
+101,SQL Server
+101,Scala
+101,Spark
+102,AWS
+102,Airflow
+102,Data Modeling
+102,ELT
+102,ETL
+102,Hadoop
+102,Java
+102,Kafka
+102,NoSQL
+102,NumPy
+102,Pandas
+102,Python
+102,R
+102,Redshift
+102,Scala
+102,Spark
+103,Data Warehouse
+103,ETL
+103,Hadoop
+103,SQL
+103,SQL Server
+103,Scala
+103,Spark
+103,Tableau
+104,ETL
+104,Python
+104,R
+104,SQL
+104,Spark
+105,AWS
+105,Airflow
+105,Azure
+105,ETL
+105,Linux
+105,Python
+105,R
+105,SQL
+105,Tableau
+105,dbt
+106,AWS
+106,Data Warehouse
+106,Hive
+106,Machine Learning
+106,Python
+106,Redshift
+106,SQL
+106,Spark
+107,Azure
+107,Kubernetes
+107,Machine Learning
+107,Power BI
+107,SQL
+108,BigQuery
+108,Redshift
+108,SQL
+109,Data Modeling
+109,Data Warehouse
+109,ETL
+109,Java
+109,Python
+109,SQL
+110,SQL
+110,Tableau
+112,AWS
+112,Azure
+112,Data Modeling
+112,Data Warehouse
+112,ELT
+112,ETL
+112,GCP
+112,Hive
+112,Java
+112,Machine Learning
+112,MySQL
+112,Oracle
+112,Python
+112,Redshift
+112,SQL
+112,Scala
+112,Spark
+113,BigQuery
+113,Docker
+113,Java
+113,Machine Learning
+113,Python
+113,Scala
+114,Azure
+114,Machine Learning
+115,AWS
+115,Hadoop
+115,Hive
+115,Looker
+115,Machine Learning
+115,Python
+115,SQL
+115,Spark
+116,AWS
+116,Docker
+116,ETL
+116,Git
+116,Java
+116,MongoDB
+116,MySQL
+116,Python
+116,SQL
+117,AWS
+117,Airflow
+117,Azure
+117,Docker
+117,Git
+117,Hadoop
+117,Kafka
+117,Python
+117,SQL
+117,Snowflake
+117,Spark
+117,dbt
+118,ETL
+118,Linux
+118,Oracle
+118,SQL
+118,Tableau
+119,AWS
+119,Hadoop
+119,Java
+119,Machine Learning
+119,Python
+119,Spark
+120,Data Warehouse
+120,ETL
+120,Python
+120,SQL
+121,AWS
+121,Docker
+121,Java
+121,Kafka
+121,Kubernetes
+121,NoSQL
+121,Python
+121,SQL
+121,Scala
+121,Spark
+122,Airflow
+122,BigQuery
+122,Data Lake
+122,Data Warehouse
+122,Docker
+122,ETL
+122,GCP
+122,Java
+122,Kafka
+122,MySQL
+122,NoSQL
+122,PostgreSQL
+122,Python
+122,SQL
+122,Scala
+122,Spark
+123,AWS
+123,Airflow
+123,Data Modeling
+123,Git
+123,Python
+123,SQL
+123,Spark
+124,Data Warehouse
+124,Java
+124,Python
+125,Airflow
+125,Git
+125,Hadoop
+125,Hive
+125,Linux
+125,Looker
+125,Machine Learning
+125,Python
+125,SQL
+125,Snowflake
+125,Spark
+126,ETL
+126,Hadoop
+126,Java
+126,Kafka
+126,Linux
+126,MongoDB
+126,MySQL
+126,PostgreSQL
+126,Python
+126,SQL
+126,Scala
+126,Spark
+127,Python
+128,AWS
+128,Java
+128,Linux
+128,Machine Learning
+128,MongoDB
+128,NoSQL
+128,SQL
+128,Scala
+128,Spark
+129,AWS
+129,Data Modeling
+129,ETL
+129,Hive
+129,Java
+129,Python
+129,R
+129,Redshift
+129,SQL
+129,Spark
+130,Airflow
+130,BigQuery
+130,ETL
+130,GCP
+130,Java
+130,Kubernetes
+130,Machine Learning
+130,Python
+130,SQL
+130,Scala
+130,Spark
+131,AWS
+131,Java
+131,Linux
+131,Python
+131,R
+131,SQL
+132,Data Warehouse
+132,ETL
+132,MySQL
+132,Oracle
+132,PostgreSQL
+132,Python
+132,R
+132,SQL
+132,Tableau
+133,Airflow
+133,BigQuery
+133,ETL
+133,Kubernetes
+133,Machine Learning
+133,Python
+133,Redshift
+133,SQL
+133,Snowflake
+133,Tableau
+134,AWS
+134,Airflow
+134,Data Warehouse
+134,Kubernetes
+134,Machine Learning
+134,Python
+134,Redshift
+134,SQL
+134,Snowflake
+134,Spark
+135,Data Modeling
+135,ETL
+135,Hadoop
+135,Hive
+135,Java
+135,Kafka
+135,Linux
+135,Machine Learning
+135,Python
+135,SQL
+135,Scala
+135,Spark
+135,Tableau
+136,Airflow
+136,ETL
+136,Java
+136,Kafka
+136,Python
+136,Scala
+136,Spark
+137,AWS
+137,Data Warehouse
+137,ETL
+137,Java
+137,Oracle
+137,PostgreSQL
+137,Python
+137,Redshift
+137,SQL
+137,SQL Server
+138,Python
+138,SQL
+139,Data Modeling
+139,Hadoop
+139,Java
+139,Scala
+139,Spark
+140,Airflow
+140,BigQuery
+140,Data Lake
+140,Data Warehouse
+140,Docker
+140,ETL
+140,GCP
+140,Java
+140,Kafka
+140,MySQL
+140,NoSQL
+140,PostgreSQL
+140,Python
+140,SQL
+140,Scala
+140,Spark
+141,AWS
+141,Airflow
+141,BigQuery
+141,Data Warehouse
+141,ETL
+141,Looker
+141,Python
+141,R
+141,Redshift
+141,SQL
+141,Snowflake
+141,Tableau
+141,dbt
+142,Docker
+142,Python
+142,Redshift
+142,SQL
+142,Snowflake
+143,Airflow
+143,BigQuery
+143,Data Warehouse
+143,ELT
+143,ETL
+143,GCP
+143,Git
+143,Python
+143,SQL
+144,ETL
+144,Python
+144,SQL
+145,AWS
+145,Docker
+145,Java
+145,Kafka
+145,Kubernetes
+145,NoSQL
+145,Python
+145,SQL
+145,Scala
+145,Spark
+146,Machine Learning
+146,Python
+146,Redshift
+146,SQL
+146,Snowflake
+148,AWS
+148,Airflow
+148,MySQL
+148,Python
+149,AWS
+149,Airflow
+149,ETL
+149,Hadoop
+149,Hive
+149,Kubernetes
+149,Machine Learning
+149,MongoDB
+149,Python
+149,Redshift
+149,Scala
+149,Spark
+150,BigQuery
+150,Data Warehouse
+150,ETL
+150,GCP
+151,Data Modeling
+151,ETL
+151,Git
+151,Hadoop
+151,Java
+151,Linux
+151,Oracle
+151,Python
+151,SQL
+152,AWS
+152,BigQuery
+152,Data Warehouse
+152,ETL
+152,Java
+152,Machine Learning
+152,Pandas
+152,Python
+152,Redshift
+152,SQL
+152,Scala
+152,Spark
+153,AWS
+153,Data Modeling
+153,Python
+154,AWS
+154,Python
+155,ETL
+155,SQL
+155,SQL Server
+156,AWS
+156,Docker
+156,Java
+156,NoSQL
+156,Python
+156,SQL
+156,Scala
+156,Spark
+157,Airflow
+157,BigQuery
+157,ETL
+157,MongoDB
+157,NoSQL
+157,Python
+157,SQL
+157,Scala
+158,AWS
+158,Python
+158,Redshift
+158,Spark
+159,AWS
+159,Airflow
+159,Azure
+159,Docker
+159,Hadoop
+159,Java
+159,Kafka
+159,Kubernetes
+159,NoSQL
+159,Python
+159,SQL
+159,Snowflake
+159,Spark
+160,Airflow
+160,Data Warehouse
+160,Docker
+160,Hadoop
+160,Hive
+160,Java
+160,Kafka
+160,Kubernetes
+160,Linux
+160,Python
+160,SQL
+160,SQL Server
+160,Scala
+160,Spark
+161,Azure
+161,ETL
+161,SQL
+162,AWS
+162,Hadoop
+162,Machine Learning
+162,Python
+162,SQL
+162,Spark
+163,BigQuery
+163,Python
+163,Redshift
+163,SQL
+163,Snowflake
+164,ETL
+164,Python
+164,R
+164,SQL
+165,AWS
+165,Azure
+165,Data Warehouse
+165,GCP
+165,Kafka
+165,Machine Learning
+165,NoSQL
+165,Python
+165,R
+165,SQL
+166,Machine Learning
+166,Python
+166,Redshift
+166,SQL
+166,Snowflake
+167,AWS
+167,Airflow
+167,Azure
+167,Hadoop
+167,Java
+167,Kafka
+167,Kubernetes
+167,Linux
+167,Machine Learning
+167,Oracle
+167,Python
+167,R
+167,SQL
+167,Scala
+167,Spark
+168,AWS
+168,Airflow
+168,Kafka
+168,Linux
+168,Python
+168,SQL
+169,Java
+169,MySQL
+169,PostgreSQL
+169,Python
+170,Airflow
+170,BigQuery
+170,Data Modeling
+170,ELT
+170,GCP
+170,MongoDB
+170,Python
+171,AWS
+171,Airflow
+171,ETL
+171,GCP
+171,Linux
+171,Machine Learning
+171,NoSQL
+171,Pandas
+171,Python
+171,Redshift
+171,SQL
+172,BigQuery
+172,Data Modeling
+172,Looker
+172,Redshift
+172,SQL
+172,Tableau
+172,dbt
+173,Data Lake
+173,Data Modeling
+173,Data Warehouse
+173,Machine Learning
+173,SQL
+174,AWS
+174,Data Modeling
+174,ETL
+174,Hadoop
+174,Java
+174,Python
+174,SQL
+174,Scala
+174,Spark
+175,Airflow
+175,Docker
+175,Git
+175,Python
+175,SQL
+176,AWS
+176,Machine Learning
+176,NoSQL
+176,Pandas
+176,Python
+176,R
+177,AWS
+177,ETL
+177,Hadoop
+177,Java
+177,MySQL
+177,Oracle
+177,PostgreSQL
+177,Python
+177,Redshift
+177,Scala
+177,Snowflake
+177,Spark
+178,AWS
+178,Data Modeling
+178,MySQL
+178,Python
+178,SQL
+180,AWS
+180,Airflow
+180,Data Warehouse
+180,Docker
+180,ELT
+180,Kubernetes
+180,Looker
+180,Python
+180,R
+180,Redshift
+181,AWS
+181,Docker
+181,Kubernetes
+181,Python
+181,Redshift
+181,Scala
+182,BigQuery
+182,Docker
+182,Java
+182,Python
+182,Scala
+182,Tableau
+183,Data Modeling
+183,Data Warehouse
+183,ETL
+183,MySQL
+183,Python
+183,Redshift
+183,SQL
+183,Snowflake
+183,Spark
+184,AWS
+184,Data Warehouse
+184,ETL
+184,Hadoop
+184,Hive
+184,NoSQL
+184,Python
+184,SQL
+184,Spark
+185,AWS
+185,Hadoop
+185,Hive
+185,Java
+185,Kafka
+185,Linux
+185,NoSQL
+185,Oracle
+185,Python
+185,SQL
+185,Spark
+186,AWS
+186,Airflow
+186,Docker
+186,GCP
+186,Java
+186,Kubernetes
+186,Python
+186,SQL
+186,Spark
+187,Data Modeling
+187,Data Warehouse
+187,ELT
+187,ETL
+187,Hadoop
+187,Hive
+187,SQL
+187,Spark
+188,Data Warehouse
+188,ETL
+188,Hadoop
+188,Oracle
+188,Python
+188,SQL
+188,SQL Server
+189,AWS
+189,Python
+189,Redshift
+189,Spark
+190,Data Warehouse
+190,ETL
+190,Git
+190,Python
+190,SQL
+190,SQL Server
+191,AWS
+191,Airflow
+191,GCP
+191,Hadoop
+191,Java
+191,Kafka
+191,MongoDB
+191,NoSQL
+191,Python
+191,SQL
+191,Spark
+192,ETL
+192,Hadoop
+192,Hive
+192,Java
+192,Machine Learning
+192,MySQL
+192,NoSQL
+192,Python
+193,Java
+193,Python
+193,Scala
+194,Hadoop
+194,Hive
+194,Scala
+194,Spark
+195,Data Modeling
+195,ETL
+195,Java
+195,Kafka
+195,Kubernetes
+195,Python
+195,Spark
+196,AWS
+196,Data Modeling
+196,ETL
+196,Hadoop
+196,Hive
+196,Python
+196,Redshift
+196,SQL
+196,SQL Server
+196,Snowflake
+196,Spark
+196,Tableau
+197,Airflow
+197,BigQuery
+197,Data Warehouse
+197,ELT
+197,ETL
+197,GCP
+197,Hadoop
+197,Hive
+197,Java
+197,Machine Learning
+197,NoSQL
+197,Python
+197,Scala
+197,Snowflake
+197,Spark
+198,AWS
+198,Airflow
+198,Data Modeling
+198,ELT
+198,ETL
+198,Hadoop
+198,Java
+198,Kafka
+198,NoSQL
+198,NumPy
+198,Pandas
+198,Python
+198,R
+198,Redshift
+198,Scala
+198,Spark
+199,Git
+199,Python
+199,SQL
+200,Hadoop
+200,Kafka
+200,Machine Learning
+200,NumPy
+200,Pandas
+200,Python
+200,SQL
+200,SQL Server
+200,Spark
+201,AWS
+201,Git
+201,Java
+201,Linux
+201,Python
+201,Scala
+202,Airflow
+202,ETL
+202,Kafka
+202,Python
+202,Redshift
+203,Machine Learning
+203,Power BI
+203,Python
+203,SQL
+204,Airflow
+204,BigQuery
+204,Data Warehouse
+204,ELT
+204,ETL
+204,GCP
+204,Hadoop
+204,Hive
+204,Java
+204,Machine Learning
+204,NoSQL
+204,Python
+204,Scala
+204,Snowflake
+204,Spark
+205,Data Warehouse
+205,ETL
+205,Java
+205,Machine Learning
+205,Python
+205,Redshift
+205,SQL
+205,Scala
+205,Spark
+206,AWS
+206,Data Warehouse
+206,ETL
+206,Hadoop
+206,Hive
+206,Python
+206,Redshift
+206,SQL
+206,Scala
+206,Snowflake
+206,Spark
+207,AWS
+207,Hadoop
+207,Hive
+207,Java
+207,Kafka
+207,MySQL
+207,NoSQL
+207,Python
+207,SQL
+207,Scala
+207,Spark
+208,AWS
+208,Airflow
+208,Data Lake
+208,ETL
+208,Python
+208,R
+208,Redshift
+208,SQL
+208,Snowflake
+208,Tableau
+209,Linux
+209,R
+210,BigQuery
+210,Data Modeling
+210,Data Warehouse
+210,ETL
+210,Python
+210,Redshift
+210,SQL
+210,Snowflake
+211,AWS
+211,Airflow
+211,Data Warehouse
+211,Java
+211,Python
+211,Redshift
+211,SQL
+212,AWS
+212,Python
+212,R
+213,AWS
+213,Python
+213,SQL
+214,Git
+214,Machine Learning
+214,Python
+215,Docker
+215,PostgreSQL
+215,Python
+215,Redshift
+215,SQL
+216,AWS
+216,Data Modeling
+216,ETL
+216,GCP
+216,Git
+216,Hadoop
+216,Hive
+216,Linux
+216,Machine Learning
+216,Python
+216,R
+216,SQL
+216,SQL Server
+216,Spark
+217,AWS
+217,Docker
+217,ETL
+217,Java
+217,Kafka
+217,Machine Learning
+217,Python
+217,Redshift
+217,Scala
+217,Spark
+218,AWS
+218,Data Modeling
+218,Docker
+218,Git
+218,Java
+218,Kafka
+218,Kubernetes
+218,Linux
+218,NoSQL
+218,Python
+218,Redshift
+218,Tableau
+219,Data Modeling
+219,Data Warehouse
+219,ETL
+219,Oracle
+219,SQL
+219,SQL Server
+220,Hadoop
+220,Java
+220,Machine Learning
+220,NoSQL
+220,Python
+220,R
+220,SQL
+220,Scala
+220,Spark
+221,Machine Learning
+222,Airflow
+222,BigQuery
+222,Data Warehouse
+222,Kafka
+222,Machine Learning
+223,Data Warehouse
+223,ELT
+223,ETL
+223,Hadoop
+223,Hive
+223,Python
+223,SQL
+223,Spark
+223,Tableau
+224,AWS
+224,Data Modeling
+224,ETL
+224,Python
+224,SQL
+224,Snowflake
+224,Tableau
+225,AWS
+225,ETL
+225,Hadoop
+225,Hive
+225,Java
+225,MySQL
+225,Oracle
+225,Python
+225,R
+225,SQL
+226,AWS
+226,Airflow
+226,Hadoop
+226,Python
+226,Spark
+227,AWS
+227,Hadoop
+227,Java
+227,NoSQL
+227,SQL
+227,Spark
+228,AWS
+228,Docker
+228,ETL
+228,Hadoop
+228,Java
+228,Python
+228,R
+228,SQL
+228,Scala
+228,Spark
+229,BigQuery
+229,Data Modeling
+229,Data Warehouse
+229,ETL
+229,GCP
+229,Java
+229,Python
+229,Redshift
+229,SQL
+229,Snowflake
+229,dbt
+230,ETL
+230,Java
+230,Linux
+230,Python
+230,R
+230,Scala
+231,Machine Learning
+231,Power BI
+231,Python
+231,SQL
+232,Airflow
+232,BigQuery
+232,Data Warehouse
+232,ELT
+232,ETL
+232,GCP
+232,Hadoop
+232,Hive
+232,Java
+232,Machine Learning
+232,NoSQL
+232,Python
+232,Scala
+232,Snowflake
+232,Spark
+233,AWS
+233,ETL
+233,Linux
+233,MySQL
+233,Redshift
+233,Tableau
+234,AWS
+234,Python
+234,R
+236,AWS
+236,Linux
+236,Oracle
+236,Python
+236,Redshift
+236,Tableau
+237,AWS
+237,GCP
+237,Git
+237,Linux
+237,Machine Learning
+237,Python
+237,R
+237,SQL
+238,Data Modeling
+238,Data Warehouse
+238,Python
+238,SQL
+239,AWS
+239,Docker
+239,Java
+239,NoSQL
+239,Oracle
+239,PostgreSQL
+240,Machine Learning
+241,AWS
+241,BigQuery
+241,Data Lake
+241,Data Modeling
+241,ETL
+241,Oracle
+241,Redshift
+241,SQL
+241,Snowflake
+242,Looker
+242,Python
+242,R
+242,SQL
+242,Tableau
+243,Machine Learning
+243,Python
+244,AWS
+244,Airflow
+244,Data Warehouse
+244,Docker
+244,ETL
+244,PostgreSQL
+244,Python
+244,Redshift
+245,AWS
+245,Hadoop
+245,Python
+245,SQL
+245,Spark
+246,AWS
+246,Hadoop
+246,Java
+246,Machine Learning
+246,Python
+246,Spark
+247,AWS
+247,Airflow
+247,ETL
+247,Hadoop
+247,Java
+247,Python
+247,SQL
+247,Scala
+247,Spark
+248,Azure
+248,Data Modeling
+248,ETL
+248,Java
+248,Kafka
+248,MySQL
+248,Oracle
+248,Python
+248,SQL
+248,Scala
+248,Spark
+249,Airflow
+249,NoSQL
+249,Python
+249,Redshift
+249,SQL
+249,Snowflake
+250,AWS
+250,Hadoop
+250,Machine Learning
+250,Python
+250,SQL
+250,Spark
+251,Data Lake
+251,Data Modeling
+251,ETL
+251,Looker
+251,Python
+251,Redshift
+251,SQL
+251,Snowflake
+251,Spark
+251,Tableau
+252,AWS
+252,Java
+252,Linux
+252,NoSQL
+252,SQL
+253,AWS
+253,Data Warehouse
+253,Linux
+253,Redshift
+253,SQL
+253,Spark
+254,AWS
+254,Airflow
+254,Docker
+254,Hadoop
+254,Hive
+254,Java
+254,Kafka
+254,Kubernetes
+254,Linux
+254,Machine Learning
+254,MongoDB
+254,NoSQL
+254,Python
+254,SQL
+254,Scala
+254,Spark
+255,AWS
+255,ETL
+255,Hadoop
+255,Java
+255,Looker
+255,Python
+255,Redshift
+255,Spark
+255,Tableau
+256,Hadoop
+256,Java
+256,Linux
+256,MongoDB
+256,Python
+256,R
+256,Scala
+256,Spark
+257,AWS
+257,Airflow
+257,Data Modeling
+257,Data Warehouse
+257,Hadoop
+257,Java
+257,Linux
+257,Machine Learning
+257,MongoDB
+257,NoSQL
+257,Python
+257,Redshift
+257,SQL
+257,Scala
+257,Spark
+258,AWS
+258,Airflow
+258,ELT
+258,ETL
+258,Git
+258,Hadoop
+258,Java
+258,Kafka
+258,NoSQL
+258,Python
+258,SQL
+258,Scala
+258,Snowflake
+258,Spark
+258,Tableau
+259,AWS
+259,ETL
+259,Python
+259,Redshift
+259,SQL
+259,Spark
+260,AWS
+260,Linux
+260,Oracle
+260,Python
+260,Redshift
+260,Tableau
+261,AWS
+261,Data Warehouse
+261,ETL
+261,Hadoop
+261,Hive
+261,Python
+261,Redshift
+261,SQL
+261,Scala
+261,Snowflake
+261,Spark
+262,AWS
+262,Hadoop
+262,Hive
+262,Java
+262,Kafka
+262,MySQL
+262,NoSQL
+262,Python
+262,SQL
+262,Scala
+262,Spark
+263,Airflow
+263,Data Warehouse
+263,ELT
+263,ETL
+263,Git
+263,Kafka
+263,Machine Learning
+263,Python
+263,Redshift
+263,SQL
+263,Snowflake
+263,Spark
+264,AWS
+264,Azure
+264,Data Warehouse
+264,GCP
+264,Python
+264,SQL
+264,Tableau
+265,AWS
+265,BigQuery
+265,GCP
+265,Linux
+267,AWS
+267,Java
+267,Machine Learning
+267,Python
+269,Airflow
+269,Machine Learning
+269,NumPy
+269,Pandas
+269,PostgreSQL
+269,Python
+269,R
+269,Redshift
+269,SQL
+269,Tableau
+270,AWS
+270,Airflow
+270,Data Modeling
+270,Data Warehouse
+270,Hadoop
+270,Java
+270,Looker
+270,Python
+270,R
+270,SQL
+270,Scala
+270,Spark
+270,Tableau
+272,AWS
+272,Airflow
+272,Hadoop
+272,Python
+272,Spark
+273,Hive
+273,Java
+273,Kafka
+273,NoSQL
+273,Python
+273,R
+273,SQL
+273,Spark
+274,AWS
+274,GCP
+274,Git
+274,Linux
+274,Machine Learning
+274,Python
+274,R
+274,SQL
+275,AWS
+275,Airflow
+275,ETL
+275,Kafka
+275,Python
+275,R
+275,Redshift
+275,SQL
+275,Snowflake
+275,Spark
+276,AWS
+276,Data Modeling
+276,ETL
+276,Java
+276,Python
+276,SQL
+277,AWS
+277,Data Warehouse
+277,ETL
+277,Linux
+277,SQL
+278,AWS
+278,Data Modeling
+278,ETL
+278,GCP
+278,Git
+278,Hadoop
+278,Hive
+278,Linux
+278,Machine Learning
+278,Python
+278,R
+278,SQL
+278,SQL Server
+278,Spark
+279,Data Modeling
+279,Python
+279,R
+279,Tableau
+280,R
+281,AWS
+281,Airflow
+281,ETL
+281,Java
+281,Kafka
+281,Kubernetes
+281,Looker
+281,Pandas
+281,Python
+281,Redshift
+281,Tableau
+282,AWS
+282,Data Modeling
+282,Docker
+282,Git
+282,Java
+282,Kafka
+282,Kubernetes
+282,Linux
+282,NoSQL
+282,Python
+282,Tableau
+283,AWS
+283,Data Modeling
+283,Linux
+284,AWS
+284,Hadoop
+284,Hive
+284,Java
+284,Kafka
+284,MySQL
+284,NoSQL
+284,Python
+284,SQL
+284,Scala
+284,Spark
+285,Oracle
+285,SQL
+285,SQL Server
+286,AWS
+286,Airflow
+286,ETL
+286,Python
+286,SQL
+286,Spark
+287,Airflow
+287,Data Warehouse
+287,ELT
+287,ETL
+287,Git
+287,Kafka
+287,Machine Learning
+287,Python
+287,Redshift
+287,SQL
+287,Snowflake
+287,Spark
+288,AWS
+288,Airflow
+288,Azure
+288,BigQuery
+288,ETL
+288,GCP
+288,Git
+288,Kafka
+288,Python
+288,Redshift
+288,SQL
+288,Snowflake
+288,Spark
+289,AWS
+289,Hadoop
+289,Hive
+289,Java
+289,Kafka
+289,MySQL
+289,NoSQL
+289,Python
+289,SQL
+289,Scala
+289,Spark
+290,AWS
+290,Airflow
+290,Data Modeling
+290,Data Warehouse
+290,Hadoop
+290,Java
+290,Linux
+290,Machine Learning
+290,MongoDB
+290,NoSQL
+290,Python
+290,Redshift
+290,SQL
+290,Scala
+290,Spark
+291,AWS
+291,Data Modeling
+291,Docker
+291,Git
+291,Hadoop
+291,Hive
+291,Java
+291,Kafka
+291,Kubernetes
+291,Linux
+291,Machine Learning
+291,Python
+291,Scala
+291,Spark
+292,AWS
+292,Data Warehouse
+292,ETL
+292,NoSQL
+292,Python
+292,Redshift
+292,SQL
+293,Git
+293,Machine Learning
+293,Python
+294,AWS
+294,Data Modeling
+294,ETL
+294,GCP
+294,Git
+294,Hadoop
+294,Hive
+294,Linux
+294,Machine Learning
+294,Python
+294,R
+294,SQL
+294,SQL Server
+294,Spark
+295,SQL
+296,Data Warehouse
+296,Java
+296,Python
+297,AWS
+297,Data Warehouse
+297,ELT
+297,ETL
+297,Hadoop
+297,Java
+297,Kafka
+297,Machine Learning
+297,Python
+297,Redshift
+297,SQL
+297,Spark
+298,AWS
+298,Data Lake
+298,Data Modeling
+298,Data Warehouse
+298,ELT
+298,ETL
+298,MongoDB
+298,NoSQL
+298,SQL
+298,SQL Server
+298,Snowflake
+298,Tableau
+299,Kubernetes
+300,Git
+300,Machine Learning
+300,Python
+300,SQL
+300,Scala
+300,Spark
+301,Kubernetes
+301,Linux
+301,NoSQL
+302,AWS
+302,Data Modeling
+302,Docker
+302,Kubernetes
+302,MongoDB
+302,NoSQL
+302,SQL
+303,AWS
+303,Docker
+303,ETL
+303,MySQL
+303,Python
+303,Redshift
+303,SQL
+303,Spark
+304,AWS
+304,Data Warehouse
+304,ETL
+304,NoSQL
+304,Python
+304,Redshift
+304,SQL
+305,AWS
+305,Airflow
+305,ETL
+305,Java
+305,Kafka
+305,Kubernetes
+305,Looker
+305,Pandas
+305,Python
+305,Redshift
+305,Tableau
+306,Hadoop
+306,Java
+306,Machine Learning
+306,Python
+306,R
+307,AWS
+307,Data Modeling
+307,Docker
+307,Git
+307,Java
+307,Kafka
+307,Kubernetes
+307,Linux
+307,NoSQL
+307,Python
+307,Tableau
+308,Data Modeling
+308,Java
+308,Linux
+308,Oracle
+308,SQL
+309,AWS
+309,Airflow
+309,BigQuery
+309,Data Lake
+309,Docker
+309,GCP
+309,Java
+309,Kubernetes
+309,MySQL
+309,Pandas
+309,PostgreSQL
+309,Python
+309,Redshift
+309,SQL
+309,Scala
+309,Snowflake
+309,Spark
+310,AWS
+310,Hadoop
+310,NoSQL
+310,Spark
+311,BigQuery
+311,Docker
+311,Hadoop
+311,Java
+311,Kafka
+311,Linux
+311,MySQL
+311,R
+311,Spark
+312,AWS
+312,Data Modeling
+312,Docker
+312,Git
+312,Java
+312,Kafka
+312,Kubernetes
+312,Linux
+312,NoSQL
+312,Python
+312,Redshift
+312,Tableau
+313,Machine Learning
+313,Python
+313,R
+314,AWS
+314,Docker
+314,Git
+314,Java
+314,Kubernetes
+314,Linux
+314,NoSQL
+314,Python
+315,Azure
+315,Data Lake
+315,Oracle
+315,Python
+315,SQL
+315,SQL Server
+315,Spark
+316,AWS
+316,Data Warehouse
+316,Hadoop
+316,Java
+316,Kafka
+316,Python
+316,SQL
+316,Scala
+316,Spark
+317,AWS
+317,ELT
+317,ETL
+317,Hadoop
+317,Hive
+317,Java
+317,Kafka
+317,Machine Learning
+317,Redshift
+317,Spark
+319,AWS
+319,Data Lake
+319,GCP
+319,NoSQL
+319,Python
+319,SQL
+320,AWS
+320,Hadoop
+320,Java
+320,Machine Learning
+320,Python
+320,R
+320,Redshift
+320,SQL
+320,Spark
+321,AWS
+321,Data Warehouse
+321,ETL
+321,Linux
+321,SQL
+322,Docker
+322,Git
+322,Hadoop
+322,Java
+322,Kubernetes
+322,Python
+322,SQL
+322,Scala
+324,Data Warehouse
+324,ETL
+324,Looker
+324,Oracle
+324,Python
+324,R
+324,SQL
+324,SQL Server
+324,Snowflake
+324,Tableau
+325,Machine Learning
+326,AWS
+326,ETL
+326,Hadoop
+326,Hive
+326,Java
+326,MySQL
+326,Oracle
+326,Python
+326,R
+326,SQL
+327,AWS
+327,Azure
+327,Data Lake
+327,Docker
+327,GCP
+327,Hadoop
+327,Hive
+327,Java
+327,Kafka
+327,Kubernetes
+327,Python
+327,Scala
+327,Spark
+329,Airflow
+329,ETL
+329,Hadoop
+329,Kafka
+329,MySQL
+329,Python
+329,SQL
+329,Spark
+330,AWS
+330,Airflow
+330,ELT
+330,ETL
+330,Git
+330,Hadoop
+330,Java
+330,Kafka
+330,NoSQL
+330,Python
+330,SQL
+330,Scala
+330,Snowflake
+330,Spark
+330,Tableau
+331,AWS
+331,Azure
+331,Data Lake
+331,Data Modeling
+331,Data Warehouse
+331,ETL
+331,Java
+331,Python
+331,R
+331,SQL
+331,SQL Server
+332,AWS
+332,BigQuery
+332,GCP
+332,Hadoop
+332,Hive
+332,Java
+332,Python
+332,Redshift
+332,Scala
+332,Spark
+333,AWS
+333,Airflow
+333,BigQuery
+333,ETL
+333,GCP
+333,Java
+333,Looker
+333,Python
+333,Redshift
+333,SQL
+333,Scala
+333,Snowflake
+333,Spark
+333,Tableau
+334,AWS
+334,ETL
+334,Python
+334,Redshift
+334,SQL
+334,Spark
+335,AWS
+335,BigQuery
+335,GCP
+335,Kafka
+335,Machine Learning
+335,MySQL
+335,Pandas
+335,Python
+336,AWS
+336,Data Lake
+336,Data Modeling
+336,Data Warehouse
+336,ELT
+336,ETL
+336,MongoDB
+336,NoSQL
+336,SQL
+336,SQL Server
+336,Snowflake
+336,Tableau
+337,Hadoop
+337,Hive
+337,Java
+337,Python
+337,SQL
+337,Spark
+338,Linux
+338,Python
+339,AWS
+339,Airflow
+339,ETL
+339,Python
+339,Redshift
+339,SQL
+339,Scala
+339,Snowflake
+339,Spark
+340,AWS
+340,ETL
+340,Hadoop
+340,Java
+340,MySQL
+340,NoSQL
+340,Oracle
+340,PostgreSQL
+340,Python
+340,SQL
+340,Spark
+341,AWS
+341,Data Modeling
+341,Docker
+341,ETL
+341,Git
+341,Java
+341,Kubernetes
+341,NoSQL
+341,Python
+342,AWS
+342,Java
+342,Machine Learning
+342,Python
+342,SQL
+343,Git
+343,Machine Learning
+343,Python
+343,SQL
+343,Scala
+343,Spark
+344,Data Modeling
+344,Data Warehouse
+344,ETL
+344,SQL
+344,SQL Server
+344,Tableau
+345,Java
+345,Python
+346,Docker
+346,Java
+346,Python
+346,SQL
+346,Scala
+346,Spark
+347,AWS
+347,Airflow
+347,Docker
+347,ETL
+347,Hadoop
+347,Hive
+347,Java
+347,Kafka
+347,Python
+347,Scala
+347,Spark
+348,AWS
+348,Azure
+348,Java
+348,Machine Learning
+348,Python
+348,Scala
+349,Hadoop
+349,Java
+349,Kafka
+349,PostgreSQL
+349,SQL
+349,Scala
+349,Spark
+350,Azure
+350,Data Lake
+350,Machine Learning
+350,Oracle
+350,Python
+350,SQL
+350,SQL Server
+350,Spark
+351,Python
+351,R
+352,AWS
+352,SQL
+352,Tableau
+353,BigQuery
+353,GCP
+353,Hadoop
+353,Java
+353,Kafka
+353,Machine Learning
+353,PostgreSQL
+353,Python
+354,Azure
+354,Data Lake
+354,Oracle
+354,Python
+354,SQL
+354,SQL Server
+354,Spark
+355,Azure
+355,Data Lake
+355,Oracle
+355,Python
+355,SQL
+355,SQL Server
+355,Spark
+356,Linux
+356,Oracle
+356,Python
+356,SQL
+357,AWS
+357,Airflow
+357,Java
+357,Kafka
+357,Python
+357,SQL
+357,Scala
+357,Snowflake
+357,Spark
+358,AWS
+358,Linux
+358,Oracle
+358,Python
+358,Redshift
+358,Tableau
+360,Git
+360,Hadoop
+360,Hive
+360,Java
+360,Linux
+360,Machine Learning
+360,MongoDB
+360,PostgreSQL
+360,Spark
+361,AWS
+361,ELT
+361,ETL
+361,Git
+361,Hadoop
+361,Java
+361,Kafka
+361,Linux
+361,MySQL
+361,NoSQL
+361,Python
+361,SQL
+361,Scala
+361,Snowflake
+361,Spark
+362,AWS
+362,Data Modeling
+362,ETL
+362,Hadoop
+362,Hive
+362,Kafka
+362,Linux
+362,MongoDB
+362,MySQL
+362,NoSQL
+362,NumPy
+362,Pandas
+362,Python
+362,Redshift
+362,SQL
+362,Spark
+362,Tableau
+363,AWS
+363,Airflow
+363,Hive
+363,Machine Learning
+363,Python
+363,SQL
+363,Spark
+363,Tableau
+364,Data Modeling
+364,Data Warehouse
+364,ETL
+364,Hadoop
+364,Hive
+364,Java
+364,Kafka
+364,Python
+364,Scala
+364,Spark
+365,AWS
+365,Azure
+365,Hive
+365,Java
+365,NoSQL
+365,Python
+365,SQL
+365,Scala
+365,Spark
+366,Machine Learning
+367,Docker
+367,Machine Learning
+367,MongoDB
+367,MySQL
+367,NoSQL
+367,Python
+368,AWS
+368,Airflow
+368,Data Warehouse
+368,ETL
+368,Hadoop
+368,Hive
+368,Python
+368,Redshift
+368,SQL
+368,Scala
+368,Snowflake
+368,Spark
+369,AWS
+369,Docker
+369,ETL
+369,Hadoop
+369,Java
+369,Kafka
+369,Kubernetes
+369,MongoDB
+369,MySQL
+369,NoSQL
+369,PostgreSQL
+369,Python
+369,SQL
+369,Snowflake
+370,AWS
+370,ETL
+370,Hadoop
+370,Hive
+370,Java
+370,Kafka
+370,Machine Learning
+370,MongoDB
+370,NoSQL
+370,Redshift
+370,Spark
+371,AWS
+371,Airflow
+371,Hadoop
+371,Linux
+371,NoSQL
+371,Python
+371,Redshift
+371,SQL
+371,Scala
+371,Spark
+372,AWS
+372,Data Modeling
+372,Docker
+372,Git
+372,Hadoop
+372,Java
+372,Kafka
+372,Kubernetes
+372,Linux
+372,Machine Learning
+372,Python
+372,Scala
+372,Spark
+373,AWS
+373,Airflow
+373,Data Modeling
+373,ELT
+373,ETL
+373,Hive
+373,Java
+373,Python
+373,SQL
+373,Snowflake
+373,Spark
+375,BigQuery
+375,Docker
+375,GCP
+375,Git
+375,Hadoop
+375,Java
+375,Kafka
+375,Kubernetes
+375,NoSQL
+375,Python
+375,SQL
+375,Scala
+375,Spark
+376,AWS
+376,Data Warehouse
+376,ELT
+376,ETL
+376,Linux
+376,Oracle
+376,Python
+376,Redshift
+376,SQL
+376,SQL Server
+376,Snowflake
+377,AWS
+377,Airflow
+377,Hadoop
+377,Linux
+377,NoSQL
+377,Python
+377,Redshift
+377,SQL
+377,Scala
+377,Spark
+378,AWS
+378,ETL
+378,GCP
+378,Hadoop
+378,Python
+378,Scala
+380,AWS
+380,Docker
+380,Git
+380,Java
+380,Kubernetes
+380,Linux
+380,NoSQL
+380,Python
+381,SQL
+382,AWS
+382,Data Warehouse
+382,Docker
+382,Python
+382,Spark
+383,SQL
+384,ETL
+384,Git
+384,Java
+384,Linux
+384,Machine Learning
+384,Python
+385,Hadoop
+385,Hive
+385,Java
+385,Python
+385,SQL
+385,Spark
+387,AWS
+387,Azure
+387,Hadoop
+387,Hive
+387,Kafka
+387,Kubernetes
+387,Machine Learning
+387,NoSQL
+387,Python
+387,SQL
+387,Spark
+388,AWS
+388,Data Modeling
+388,Docker
+388,Git
+388,Java
+388,Kafka
+388,Kubernetes
+388,Linux
+388,NoSQL
+388,Python
+388,Tableau
+389,AWS
+389,Docker
+389,ETL
+389,MySQL
+389,Python
+389,Redshift
+389,SQL
+389,Spark
+390,AWS
+390,ETL
+390,Hadoop
+390,Java
+390,MySQL
+390,NoSQL
+390,Oracle
+390,PostgreSQL
+390,Python
+390,SQL
+390,Spark
+391,Data Warehouse
+391,ETL
+391,SQL
+392,Python
+392,SQL
+393,AWS
+393,Git
+394,AWS
+394,Data Warehouse
+394,ETL
+394,MySQL
+394,Redshift
+395,Data Lake
+395,Data Modeling
+395,Data Warehouse
+397,AWS
+397,Hadoop
+397,Hive
+397,Java
+397,Kafka
+397,MySQL
+397,NoSQL
+397,Python
+397,SQL
+397,Scala
+397,Spark
+399,Looker
+399,SQL
+399,Snowflake
+399,Tableau
+400,AWS
+400,Azure
+400,Data Modeling
+400,ETL
+400,MongoDB
+400,MySQL
+400,NoSQL
+400,Oracle
+400,PostgreSQL
+400,SQL
+400,SQL Server
+400,Tableau
+401,Airflow
+401,Docker
+401,Kubernetes
+401,NoSQL
+401,Python
+401,SQL
+401,Spark
+402,AWS
+402,Azure
+402,Docker
+402,Hadoop
+402,Java
+402,MongoDB
+402,NoSQL
+402,Python
+402,Scala
+402,Spark
+403,Azure
+403,Scala
+404,Linux
+404,SQL
+405,AWS
+405,Data Modeling
+405,Docker
+405,Hadoop
+405,Hive
+405,Java
+405,Kafka
+405,Kubernetes
+405,Machine Learning
+405,MySQL
+405,NoSQL
+405,Oracle
+405,PostgreSQL
+405,Python
+405,SQL
+405,Scala
+405,Spark
+406,Java
+406,MongoDB
+406,Python
+406,Redshift
+406,SQL
+407,AWS
+407,Azure
+407,GCP
+407,Java
+407,Kafka
+407,Python
+407,SQL
+408,ETL
+408,Hadoop
+408,Hive
+408,Java
+408,Kafka
+408,Linux
+408,Python
+408,SQL
+408,Scala
+408,Spark
+409,Airflow
+409,BigQuery
+409,Data Warehouse
+409,ELT
+409,ETL
+409,GCP
+409,Hadoop
+409,Hive
+409,Java
+409,Machine Learning
+409,NoSQL
+409,Python
+409,Scala
+409,Snowflake
+409,Spark
+410,Data Lake
+410,Java
+410,Machine Learning
+410,Python
+412,AWS
+412,Azure
+412,BigQuery
+412,ETL
+412,GCP
+412,Hadoop
+412,Java
+412,Python
+412,Redshift
+412,SQL
+412,Snowflake
+412,Spark
+413,Git
+413,Java
+413,NoSQL
+413,SQL
+415,AWS
+415,Airflow
+415,Azure
+415,Docker
+415,Hadoop
+415,Java
+415,Kafka
+415,Kubernetes
+415,NoSQL
+415,Python
+415,SQL
+415,Snowflake
+415,Spark
+416,Linux
+416,Python
+417,AWS
+417,Azure
+417,Data Lake
+417,Data Modeling
+417,Docker
+417,ETL
+417,GCP
+417,Git
+417,Hadoop
+417,Machine Learning
+417,NoSQL
+417,Python
+417,SQL
+417,Spark
+418,AWS
+418,MySQL
+418,Python
+419,AWS
+419,ETL
+419,Python
+419,SQL
+419,Spark
+420,AWS
+420,Azure
+420,GCP
+420,Java
+421,Azure
+421,ELT
+421,ETL
+421,Python
+422,Data Modeling
+422,Data Warehouse
+422,ETL
+422,SQL
+423,AWS
+423,Data Warehouse
+423,ETL
+423,Hadoop
+423,Hive
+423,Java
+423,Python
+423,SQL
+423,Scala
+423,Snowflake
+423,Spark
+424,Hadoop
+424,Java
+424,Machine Learning
+424,NoSQL
+424,Python
+424,Spark
+425,Azure
+425,Java
+425,NoSQL
+425,SQL
+426,SQL
+427,Python
+428,Linux
+428,Pandas
+428,Python
+429,Airflow
+429,Docker
+429,Kubernetes
+429,NoSQL
+429,Python
+429,SQL
+429,Spark
+430,AWS
+430,Azure
+430,Docker
+430,Hadoop
+430,Java
+430,MongoDB
+430,NoSQL
+430,Python
+430,Scala
+430,Spark
+431,Airflow
+431,Azure
+431,Data Modeling
+431,ETL
+431,Kafka
+431,MongoDB
+431,NoSQL
+431,Python
+431,SQL
+431,SQL Server
+431,Scala
+432,AWS
+432,Java
+432,Python
+432,SQL
+432,Scala
+433,Git
+433,Python
+434,AWS
+434,Airflow
+434,Azure
+434,Docker
+434,GCP
+434,Java
+434,Kafka
+434,Kubernetes
+434,Machine Learning
+434,NoSQL
+434,Python
+435,AWS
+435,Azure
+435,Git
+435,Hadoop
+435,Hive
+435,Java
+435,Kafka
+435,Linux
+435,Machine Learning
+435,Python
+435,SQL
+435,Scala
+435,Spark
+436,AWS
+436,Airflow
+436,Data Lake
+436,Oracle
+436,Python
+436,Spark
+437,AWS
+437,PostgreSQL
+437,Python
+438,Azure
+438,Data Lake
+438,Data Warehouse
+438,Machine Learning
+438,Power BI
+438,Python
+438,SQL
+438,Spark
+439,PostgreSQL
+439,Python
+439,SQL
+440,AWS
+440,Airflow
+440,Hadoop
+440,Hive
+440,Python
+440,Redshift
+440,Scala
+440,Snowflake
+440,Spark
+441,AWS
+441,Airflow
+441,Data Modeling
+441,ETL
+441,Hive
+441,Python
+441,Redshift
+441,SQL
+442,AWS
+442,Airflow
+442,Data Modeling
+442,Data Warehouse
+442,ELT
+442,ETL
+442,Git
+442,Hadoop
+442,Hive
+442,Looker
+442,MySQL
+442,Oracle
+442,Python
+442,Redshift
+442,SQL
+442,Spark
+442,Tableau
+443,AWS
+443,Hadoop
+443,Kafka
+443,NoSQL
+443,Python
+443,Redshift
+443,SQL
+443,Snowflake
+443,Spark
+444,AWS
+444,Airflow
+444,Data Lake
+444,Docker
+444,ETL
+444,Python
+444,Redshift
+444,SQL
+445,AWS
+445,Azure
+445,ELT
+445,ETL
+445,Git
+445,Kubernetes
+445,Machine Learning
+445,NumPy
+445,Pandas
+445,Python
+445,SQL
+446,Hadoop
+446,Linux
+446,NoSQL
+446,SQL
+447,Java
+448,Hadoop
+448,Kafka
+448,NoSQL
+448,SQL
+448,Spark
+449,Python
+449,R
+449,SQL
+449,Tableau
+450,Data Modeling
+450,Git
+450,Java
+450,Python
+450,Redshift
+450,SQL
+450,SQL Server
+450,Snowflake
+451,Azure
+451,Data Modeling
+451,ETL
+451,Machine Learning
+451,Power BI
+451,Python
+451,R
+451,SQL
+451,SQL Server
+451,Spark
+452,Java
+453,AWS
+453,Airflow
+453,Azure
+453,Data Warehouse
+453,ETL
+453,Git
+453,Kafka
+453,Machine Learning
+453,Python
+453,SQL
+454,AWS
+454,BigQuery
+454,Docker
+454,ETL
+454,GCP
+454,Hadoop
+454,Java
+454,Kafka
+454,Kubernetes
+454,NoSQL
+454,Python
+454,SQL
+454,Scala
+454,Snowflake
+454,Spark
+455,AWS
+455,GCP
+455,MongoDB
+456,SQL
+457,Hadoop
+457,Python
+457,SQL
+457,SQL Server
+457,Spark
+458,AWS
+458,Azure
+458,Data Warehouse
+458,ETL
+458,GCP
+458,Power BI
+458,Python
+458,R
+458,SQL
+458,Tableau
+459,AWS
+459,Airflow
+459,Data Modeling
+459,Data Warehouse
+459,ETL
+459,Looker
+459,Machine Learning
+459,Python
+459,Redshift
+459,SQL
+459,dbt
+460,Azure
+460,Data Lake
+460,Data Warehouse
+460,ELT
+460,ETL
+460,Hadoop
+460,Hive
+460,Machine Learning
+460,Power BI
+460,Python
+460,R
+460,SQL
+460,SQL Server
+460,Spark
+460,Tableau
+461,Azure
+461,Scala
+462,Java
+462,MongoDB
+462,Python
+462,Redshift
+462,SQL
+463,AWS
+463,Azure
+463,GCP
+464,AWS
+464,Airflow
+464,Hadoop
+464,Java
+464,Kafka
+464,NoSQL
+464,Python
+464,Redshift
+464,SQL
+464,Scala
+464,Spark
+465,Data Warehouse
+465,ELT
+465,ETL
+465,Java
+465,Linux
+465,Python
+465,R
+465,Tableau
+466,SQL
+467,AWS
+467,Azure
+467,Java
+467,Python
+467,SQL
+467,Scala
+467,Spark
+468,Java
+468,Kafka
+468,MongoDB
+468,Oracle
+468,SQL
+469,AWS
+469,Azure
+469,Data Warehouse
+469,GCP
+469,Python
+469,SQL
+469,Tableau
+470,Data Warehouse
+470,Java
+470,Linux
+470,Python
+470,SQL
+471,AWS
+471,Hadoop
+471,Kafka
+471,NoSQL
+471,Python
+471,Redshift
+471,SQL
+471,Scala
+471,Snowflake
+471,Spark
+473,AWS
+473,Data Warehouse
+473,ETL
+473,Python
+473,R
+473,SQL
+473,Scala
+473,Snowflake
+473,Spark
+474,AWS
+474,Docker
+474,MySQL
+474,Python
+475,Azure
+475,Data Warehouse
+475,ELT
+475,ETL
+475,Git
+475,Power BI
+475,Python
+475,SQL
+477,AWS
+477,Airflow
+477,Azure
+477,Hadoop
+477,Java
+477,Kafka
+477,Machine Learning
+477,NoSQL
+477,Python
+477,R
+477,Redshift
+477,SQL
+477,Scala
+477,Spark
+478,AWS
+478,Azure
+478,GCP
+478,Java
+478,Kafka
+478,Python
+479,AWS
+479,Docker
+479,SQL
+479,SQL Server
+479,Snowflake
+480,AWS
+480,Airflow
+480,ETL
+480,Hive
+480,Kafka
+480,NoSQL
+480,Python
+480,Redshift
+480,SQL
+480,SQL Server
+480,Scala
+480,Snowflake
+480,Spark
+481,AWS
+481,Data Modeling
+481,ETL
+481,Hadoop
+481,Python
+481,R
+481,SQL
+481,Tableau
+482,Airflow
+482,Machine Learning
+482,Python
+482,Spark
+483,Azure
+483,Data Lake
+483,Data Warehouse
+483,ELT
+483,ETL
+483,Hadoop
+483,Hive
+483,Machine Learning
+483,Power BI
+483,Python
+483,R
+483,SQL
+483,SQL Server
+483,Spark
+483,Tableau
+484,Azure
+484,Data Warehouse
+484,Python
+484,SQL
+485,AWS
+485,Azure
+485,Data Warehouse
+485,GCP
+485,Hadoop
+485,Linux
+485,NoSQL
+485,SQL
+486,Data Modeling
+486,Git
+486,Java
+486,Python
+486,Redshift
+486,SQL
+486,SQL Server
+486,Snowflake
+487,AWS
+487,Data Lake
+487,Data Modeling
+487,Data Warehouse
+487,ETL
+487,Oracle
+487,Python
+487,Redshift
+487,SQL
+487,SQL Server
+487,Scala
+487,Snowflake
+487,Spark
+488,AWS
+488,Azure
+488,Docker
+488,GCP
+488,Kubernetes
+488,Linux
+488,MySQL
+488,SQL
+489,ELT
+489,ETL
+490,AWS
+490,ETL
+490,Java
+490,Kafka
+490,Linux
+490,Machine Learning
+490,MongoDB
+490,NoSQL
+490,Redshift
+490,SQL
+490,SQL Server
+490,Scala
+490,Snowflake
+490,Spark
+491,Azure
+491,Data Lake
+491,Data Warehouse
+491,Tableau
+492,AWS
+492,Docker
+492,Hadoop
+492,Hive
+492,Kubernetes
+492,Python
+492,Spark
+492,Tableau
+493,AWS
+493,Data Modeling
+493,Docker
+493,Hadoop
+493,Hive
+493,Java
+493,Kafka
+493,Kubernetes
+493,Machine Learning
+493,MySQL
+493,NoSQL
+493,Oracle
+493,PostgreSQL
+493,Python
+493,SQL
+493,Scala
+493,Spark
+494,ETL
+494,Hadoop
+494,Hive
+494,Java
+494,Kafka
+494,Linux
+494,Python
+494,SQL
+494,Scala
+494,Spark
+495,AWS
+496,Airflow
+496,Azure
+496,Data Modeling
+496,Git
+496,Hadoop
+496,Hive
+496,Java
+496,Machine Learning
+496,MongoDB
+496,NoSQL
+496,Python
+496,R
+496,SQL
+496,SQL Server
+496,Spark
+497,Data Lake
+497,ELT
+497,Hadoop
+497,Java
+497,Kafka
+497,Python
+497,R
+497,Spark
+498,AWS
+498,ETL
+498,Java
+498,Kafka
+498,Linux
+498,Machine Learning
+498,MongoDB
+498,NoSQL
+498,Redshift
+498,SQL
+498,SQL Server
+498,Scala
+498,Snowflake
+498,Spark
+500,AWS
+500,Hadoop
+500,Kafka
+500,NoSQL
+500,Python
+500,Redshift
+500,SQL
+500,Scala
+500,Snowflake
+500,Spark
+501,Java
+501,Linux
+501,NoSQL
+501,SQL
+502,AWS
+502,Azure
+502,ETL
+502,Oracle
+502,Python
+502,R
+502,SQL
+502,SQL Server
+502,Scala
+502,Snowflake
+502,Tableau
+503,ETL
+503,Hadoop
+503,Java
+503,Kafka
+503,Linux
+503,SQL
+503,Scala
+503,Spark
+504,AWS
+504,Airflow
+504,Hadoop
+504,Hive
+504,Python
+504,Redshift
+504,Scala
+504,Snowflake
+504,Spark
+505,AWS
+505,Hadoop
+505,Kafka
+505,NoSQL
+505,Python
+505,Redshift
+505,SQL
+505,Snowflake
+505,Spark
+506,Airflow
+506,BigQuery
+506,Data Warehouse
+506,ELT
+506,ETL
+506,GCP
+506,Hadoop
+506,Hive
+506,Java
+506,Machine Learning
+506,NoSQL
+506,Python
+506,Scala
+506,Snowflake
+506,Spark
+507,AWS
+507,Data Lake
+507,Python
+508,AWS
+508,Data Modeling
+508,Data Warehouse
+508,ETL
+508,Java
+508,Linux
+508,Oracle
+508,Power BI
+508,SQL
+508,SQL Server
+508,Tableau
+509,Data Warehouse
+509,Power BI
+509,Python
+509,R
+509,SQL
+509,Snowflake
+509,Tableau
+510,AWS
+510,Airflow
+510,ETL
+510,Hive
+510,Kafka
+510,NoSQL
+510,Redshift
+510,SQL
+510,SQL Server
+510,Snowflake
+510,Spark
+511,Azure
+511,Data Modeling
+511,Data Warehouse
+511,Power BI
+511,SQL
+511,SQL Server
+511,Tableau
+512,AWS
+512,Azure
+512,Docker
+512,Linux
+512,Python
+513,AWS
+513,Data Lake
+513,Python
+514,Azure
+514,Git
+514,SQL
+515,AWS
+515,Airflow
+515,Azure
+515,Docker
+515,GCP
+515,Kubernetes
+515,Python
+515,R
+515,SQL
+516,Docker
+516,Java
+516,Kafka
+516,Kubernetes
+516,Python
+516,SQL
+516,Scala
+516,Spark
+517,Data Warehouse
+517,Java
+517,Linux
+517,Python
+517,SQL
+518,Hadoop
+518,Java
+518,Kafka
+518,Machine Learning
+518,Python
+518,R
+518,SQL
+518,Scala
+518,Spark
+519,Oracle
+519,SQL
+519,SQL Server
+521,Data Warehouse
+521,Power BI
+521,Python
+521,R
+521,SQL
+521,Snowflake
+521,Tableau
+523,AWS
+523,Linux
+523,Machine Learning
+523,Python
+523,SQL
+523,Snowflake
+524,Data Warehouse
+524,ETL
+524,SQL
+525,Data Lake
+525,Java
+525,Machine Learning
+525,Python
+526,Airflow
+526,BigQuery
+526,Data Warehouse
+526,ELT
+526,ETL
+526,GCP
+526,Hadoop
+526,Hive
+526,Java
+526,Machine Learning
+526,NoSQL
+526,Python
+526,Scala
+526,Snowflake
+526,Spark
+527,Docker
+527,Git
+527,Kubernetes
+527,Python
+528,AWS
+528,Java
+528,Linux
+528,PostgreSQL
+528,SQL
+529,AWS
+529,Data Lake
+529,Python
+530,Data Warehouse
+530,ETL
+530,MySQL
+530,Python
+530,SQL
+531,AWS
+531,Docker
+531,Git
+531,Hive
+531,Java
+531,Kafka
+531,Kubernetes
+531,Machine Learning
+531,NoSQL
+531,PostgreSQL
+531,Python
+531,SQL
+531,Scala
+532,AWS
+532,Hadoop
+532,NoSQL
+532,Python
+532,Redshift
+532,SQL
+532,Snowflake
+532,Spark
+533,Oracle
+533,SQL
+533,SQL Server
+534,AWS
+534,Java
+534,PostgreSQL
+534,Python
+534,Spark
+535,BigQuery
+535,Data Warehouse
+535,ELT
+535,ETL
+535,Hadoop
+535,Java
+535,Looker
+535,Oracle
+535,Python
+535,SQL
+535,SQL Server
+536,AWS
+536,Azure
+536,Hadoop
+536,Java
+536,Linux
+536,Scala
+537,Hadoop
+537,Linux
+537,Python
+537,Spark
+538,AWS
+538,Airflow
+538,ETL
+538,Hive
+538,Kafka
+538,NoSQL
+538,Redshift
+538,SQL
+538,SQL Server
+538,Snowflake
+538,Spark
+539,AWS
+539,Airflow
+539,Azure
+539,Docker
+539,GCP
+539,Java
+539,Kubernetes
+539,Machine Learning
+539,Python
+539,R
+539,SQL
+539,Scala
+540,AWS
+540,Airflow
+540,Hadoop
+540,Java
+540,Kafka
+540,NoSQL
+540,PostgreSQL
+540,Python
+540,Redshift
+540,SQL
+540,Scala
+540,Spark
+541,Airflow
+541,Git
+541,Kubernetes
+541,Linux
+541,Machine Learning
+541,NumPy
+541,Pandas
+541,Python
+542,Airflow
+542,Hive
+542,Kafka
+542,Spark
+543,AWS
+543,Azure
+543,Hadoop
+543,Hive
+543,Linux
+543,Python
+543,Scala
+543,Spark
+544,AWS
+544,Java
+544,NoSQL
+544,Python
+544,Redshift
+544,SQL
+544,Scala
+544,Spark
+545,AWS
+545,Airflow
+545,BigQuery
+545,Data Warehouse
+545,ETL
+545,Git
+545,Hive
+545,Kafka
+545,MySQL
+545,NoSQL
+545,Oracle
+545,PostgreSQL
+545,Redshift
+545,SQL
+545,SQL Server
+545,Spark
+546,Kubernetes
+546,MySQL
+546,Python
+547,Hadoop
+547,Machine Learning
+547,MongoDB
+547,NoSQL
+547,Python
+547,R
+547,Spark
+548,AWS
+548,Azure
+548,ETL
+548,Oracle
+548,Python
+548,R
+548,SQL
+548,SQL Server
+548,Scala
+548,Snowflake
+548,Tableau
+549,Azure
+549,Kafka
+549,Spark
+550,Hadoop
+550,Java
+550,Kafka
+550,Python
+550,Scala
+550,Spark
+551,Kubernetes
+551,Linux
+551,NoSQL
+552,SQL
+552,SQL Server
+553,AWS
+553,Airflow
+553,Azure
+553,Data Warehouse
+553,ETL
+553,Git
+553,Kafka
+553,Machine Learning
+553,Python
+553,SQL
+553,Snowflake
+554,AWS
+554,Azure
+554,Docker
+554,Git
+554,Java
+554,Kubernetes
+554,Python
+555,Azure
+555,Java
+555,Linux
+555,Oracle
+555,Python
+556,AWS
+556,Azure
+556,Data Modeling
+556,GCP
+556,Hadoop
+556,Java
+556,Kafka
+556,MongoDB
+556,MySQL
+556,NoSQL
+556,Oracle
+556,Python
+556,Scala
+556,Spark
+557,AWS
+557,Azure
+557,BigQuery
+557,ETL
+557,GCP
+557,Hadoop
+557,Java
+557,Python
+557,Redshift
+557,SQL
+557,Snowflake
+557,Spark
+558,AWS
+558,Azure
+558,Data Lake
+558,Data Modeling
+558,Docker
+558,ETL
+558,GCP
+558,Git
+558,Hadoop
+558,Machine Learning
+558,NoSQL
+558,Python
+558,SQL
+558,Spark
+559,Azure
+559,Java
+559,Linux
+559,Oracle
+559,Python
+560,Azure
+560,Git
+560,SQL
+561,Airflow
+561,Docker
+561,GCP
+561,Hadoop
+561,Hive
+561,Linux
+561,Machine Learning
+561,MySQL
+561,Oracle
+561,PostgreSQL
+561,Python
+561,R
+561,Scala
+561,Spark
+562,AWS
+562,Airflow
+562,Kafka
+562,Kubernetes
+562,Python
+562,SQL
+562,Scala
+562,Spark
+563,Azure
+563,ETL
+563,Java
+563,Kafka
+563,MySQL
+563,NoSQL
+563,Python
+563,SQL
+563,SQL Server
+564,AWS
+564,Data Lake
+564,ETL
+564,SQL
+565,AWS
+565,ETL
+565,Machine Learning
+565,NumPy
+565,Pandas
+565,Python
+565,Redshift
+565,SQL
+565,Tableau
+566,AWS
+566,Data Warehouse
+566,Docker
+566,ELT
+566,ETL
+566,Machine Learning
+566,Python
+566,SQL
+567,Azure
+567,Docker
+567,Kafka
+567,Spark
+568,Linux
+568,Python
+569,Java
+569,SQL
+569,SQL Server
+570,Java
+570,Kafka
+570,NoSQL
+570,Scala
+570,Spark
+571,Kafka
+572,AWS
+572,Azure
+572,Linux
+573,AWS
+573,Data Lake
+573,Python
+574,AWS
+574,Data Modeling
+574,Data Warehouse
+574,ELT
+574,ETL
+574,Linux
+574,Machine Learning
+574,Redshift
+574,SQL
+574,Snowflake
+575,AWS
+575,Data Warehouse
+575,Docker
+575,ELT
+575,ETL
+575,Machine Learning
+575,Python
+575,SQL
+576,ETL
+576,NoSQL
+576,SQL
+577,AWS
+577,Data Lake
+577,Python
+578,ETL
+579,Azure
+579,Kafka
+579,Spark
+580,Java
+580,Python
+581,AWS
+581,Azure
+581,SQL
+581,SQL Server
+582,Data Warehouse
+582,Java
+582,Kafka
+582,Python
+582,SQL
+583,SQL
+583,SQL Server
+584,AWS
+584,Hive
+584,Java
+584,Python
+584,SQL
+584,Scala
+584,Spark
+585,ETL
+585,Python
+585,Redshift
+585,SQL
+585,Spark
+586,Airflow
+586,Python
+586,SQL
+586,SQL Server
+586,Spark
+587,AWS
+587,Azure
+587,ETL
+587,SQL
+587,SQL Server
+588,Data Modeling
+588,ETL
+588,Power BI
+588,Python
+588,SQL
+588,Spark
+589,AWS
+589,Airflow
+589,Azure
+589,Docker
+589,Hadoop
+589,Java
+589,Kafka
+589,Kubernetes
+589,NoSQL
+589,Python
+589,SQL
+589,Snowflake
+589,Spark
+590,AWS
+590,ETL
+590,Python
+590,SQL
+590,Spark
+591,AWS
+591,Azure
+591,ETL
+591,SQL
+591,SQL Server
+592,Data Modeling
+592,ETL
+592,Power BI
+592,Python
+592,SQL
+592,Spark
+593,Hadoop
+593,Java
+593,Kafka
+593,NoSQL
+593,Python
+593,SQL
+593,Scala
+593,Spark
+594,Data Warehouse
+594,ELT
+594,ETL
+594,Looker
+594,Python
+594,R
+594,Redshift
+594,SQL
+594,Snowflake
+594,Tableau
+594,dbt
+595,AWS
+595,Java
+595,NoSQL
+595,Python
+595,Redshift
+595,SQL
+595,Scala
+595,Spark
+596,Azure
+596,Kafka
+596,Spark
+597,ETL
+597,NoSQL
+597,SQL
+598,Azure
+598,Python
+599,Azure
+599,Hadoop
+599,Java
+599,Kafka
+599,NoSQL
+599,Python
+599,Scala
+599,Spark
+600,Azure
+600,Data Lake
+600,Data Warehouse
+600,ETL
+600,Power BI
+600,Python
+600,R
+600,SQL
+601,Azure
+601,Data Lake
+601,Data Warehouse
+601,Machine Learning
+601,Power BI
+601,SQL
+603,Airflow
+603,Azure
+603,BigQuery
+603,ETL
+603,Git
+603,Hadoop
+603,Hive
+603,Java
+603,Kafka
+603,NoSQL
+603,Oracle
+603,Python
+603,R
+603,Redshift
+603,SQL
+603,SQL Server
+603,Scala
+603,Snowflake
+603,Spark
+604,AWS
+604,Azure
+604,Data Warehouse
+604,Git
+604,Hadoop
+604,Hive
+604,Java
+604,Linux
+604,Machine Learning
+604,Python
+604,SQL
+604,Spark
+604,Tableau
+605,AWS
+605,Azure
+605,ETL
+605,Hadoop
+605,Java
+605,NoSQL
+605,Python
+605,R
+605,SQL
+605,Scala
+605,Spark
+606,AWS
+606,Java
+606,Machine Learning
+606,Python
+606,R
+606,Scala
+607,Data Warehouse
+607,Docker
+607,Java
+607,Kafka
+607,Kubernetes
+607,Machine Learning
+607,Oracle
+607,Python
+607,R
+607,SQL
+607,Tableau
+608,Azure
+608,MongoDB
+608,Python
+608,SQL
+609,Data Warehouse
+609,ELT
+609,ETL
+609,Hadoop
+609,Hive
+609,Python
+609,SQL
+609,Spark
+609,Tableau
+610,Kubernetes
+610,Linux
+611,Python
+611,R
+612,AWS
+612,Docker
+612,ETL
+612,GCP
+612,Git
+612,Linux
+612,NumPy
+612,Pandas
+612,PostgreSQL
+612,Python
+612,SQL
+613,Data Modeling
+613,Data Warehouse
+613,Machine Learning
+613,Python
+613,SQL
+613,Spark
+614,Azure
+614,Data Lake
+614,Data Warehouse
+614,ETL
+614,Power BI
+614,Python
+614,R
+614,SQL
+615,AWS
+615,Azure
+615,ETL
+615,Hadoop
+615,Java
+615,NoSQL
+615,Python
+615,R
+615,SQL
+615,Scala
+615,Spark
+616,AWS
+616,Docker
+616,MySQL
+616,Python
+617,AWS
+617,Azure
+617,Oracle
+617,Python
+617,R
+617,SQL
+617,SQL Server
+617,Scala
+617,Tableau
+618,Data Lake
+618,Hadoop
+618,MongoDB
+618,Spark
+619,SQL
+621,Machine Learning
+621,SQL
+621,Tableau
+622,Hive
+622,Spark
+623,AWS
+623,Azure
+623,ETL
+623,Hadoop
+623,Java
+623,NoSQL
+623,Python
+623,R
+623,SQL
+623,Scala
+623,Spark
+624,Docker
+624,ETL
+624,Git
+624,Hadoop
+624,Kafka
+624,NoSQL
+624,Python
+624,SQL
+624,Scala
+624,Spark
+625,Azure
+625,Data Warehouse
+625,ETL
+625,Hadoop
+625,Java
+625,Kafka
+625,Machine Learning
+625,NoSQL
+625,Power BI
+625,Python
+625,SQL
+625,Spark
+625,Tableau
+626,Azure
+626,ETL
+626,Git
+626,Java
+626,Linux
+626,MongoDB
+626,NoSQL
+626,NumPy
+626,Pandas
+626,Python
+626,SQL
+627,Kubernetes
+627,Linux
+628,Azure
+628,ETL
+628,Python
+628,SQL
+628,SQL Server
+629,Azure
+629,Data Lake
+629,Data Warehouse
+629,Machine Learning
+629,Power BI
+629,SQL
+630,ETL
+630,Python
+630,SQL
+630,Scala
+630,Spark
+631,Hive
+631,Spark
+633,AWS
+633,Data Modeling
+633,Java
+633,Machine Learning
+633,Python
+633,R
+633,SQL
+633,Scala
+634,ETL
+634,Linux
+634,Python
+634,SQL
+634,Scala
+634,Spark
+635,Kubernetes
+635,Linux
+636,AWS
+636,Azure
+636,ETL
+636,Hadoop
+636,Java
+636,NoSQL
+636,Python
+636,R
+636,SQL
+636,Scala
+636,Spark
+638,AWS
+638,Hadoop
+638,Java
+638,Kafka
+638,NoSQL
+638,Python
+638,SQL
+638,Scala
+639,AWS
+639,Azure
+639,GCP
+639,Hadoop
+639,Hive
+639,Machine Learning
+639,Python
+639,R
+639,Spark
+640,Machine Learning
+640,NumPy
+640,Pandas
+640,Python
+640,R
+641,Azure
+643,Azure
+643,ETL
+643,SQL
+643,SQL Server
+644,Azure
+644,ETL
+644,Hadoop
+644,NoSQL
+644,Python
+644,SQL
+644,Scala
+644,Spark
+645,Data Warehouse
+645,Machine Learning
+645,Python
+645,SQL
+645,Spark
+646,Kubernetes
+646,Linux
+648,AWS
+648,Azure
+648,Hive
+648,Power BI
+648,Python
+648,R
+648,Scala
+649,Data Modeling
+649,Java
+649,Linux
+649,Machine Learning
+649,R
+649,SQL
+649,Spark
+650,SQL
+651,Kubernetes
+651,Linux
+652,ETL
+653,Kubernetes
+653,Linux
+654,Docker
+654,ETL
+654,Hive
+654,Kafka
+654,Kubernetes
+654,Spark
+655,Azure
+655,Kubernetes
+655,SQL
+656,Java
+656,Linux
+656,Machine Learning
+656,Python
+659,Data Modeling
+659,Java
+659,Linux
+659,Machine Learning
+659,R
+659,SQL
+659,Spark
+660,Hadoop
+660,Kubernetes
+660,Linux
+662,Azure
+662,Kubernetes
+662,SQL
+663,Kubernetes
+663,Linux
+664,Data Modeling
+664,Java
+664,Linux
+664,Machine Learning
+664,R
+664,SQL
+664,Spark
+665,ETL
+665,NoSQL
+665,SQL
+666,Data Warehouse
+666,Machine Learning
+666,Python
+666,SQL
+666,Spark
+667,ETL
+667,Hadoop
+667,Java
+667,NoSQL
+667,Python
+667,R
+667,SQL
+667,Scala
+667,Spark
+668,ETL
+668,Python
+668,Redshift
+668,SQL
+668,Spark
+669,Kubernetes
+669,Linux
+670,Kubernetes
+670,Linux
+671,Python
+672,Power BI
+672,Python
+672,R
+672,SQL
+672,Tableau
+673,Azure
+673,Tableau
+675,Kubernetes
+675,Linux
+676,AWS
+676,Data Modeling
+676,Git
+676,Java
+676,Oracle
+676,SQL
+677,Tableau
+678,ETL
+679,Python
+682,AWS
+682,Git
+682,PostgreSQL
+682,Python
+683,Machine Learning
+683,Python
+683,R
+683,SQL
+684,AWS
+684,Docker
+684,Git
+684,Kubernetes
+684,Python
+684,SQL
+686,Data Modeling
+686,Java
+686,Linux
+686,Machine Learning
+686,R
+687,Azure
+687,Python
+687,SQL
+687,SQL Server
+688,Linux
+688,Python
+689,Data Modeling
+689,Data Warehouse
+689,ETL
+689,SQL
+689,Snowflake
+689,Tableau
+690,Azure
+690,Java
+690,Oracle
+690,Power BI
+690,Python
+690,SQL
+690,SQL Server
+690,Tableau
+691,Data Warehouse
+691,ETL
+691,SQL
+691,Snowflake
+692,Git
+692,Java
+693,Git
+693,Python
+695,Java
+695,Machine Learning
+696,SQL
+697,AWS
+697,Airflow
+697,Docker
+697,Git
+697,Linux
+697,MongoDB
+697,Pandas
+697,Python
+697,SQL
+698,Hadoop
+698,Hive
+698,Java
+698,SQL
+698,Scala
+698,Spark
+699,Hadoop
+699,Kubernetes
+700,AWS
+700,Java
+700,Linux
+700,Python
+702,NoSQL
+702,Python
+702,SQL
+703,Python
+703,SQL
+703,SQL Server
+704,Python
+705,Hadoop
+705,Machine Learning
+705,NumPy
+705,Pandas
+705,Python
+705,Spark
+707,Docker
+707,Git
+707,Java
+707,Kafka
+707,Kubernetes
+707,Oracle
+707,SQL
+708,AWS
+708,Git
+708,Kafka
+708,Oracle
+708,Python
+708,SQL
+708,SQL Server
+708,Spark
+709,AWS
+709,Airflow
+709,Docker
+709,Git
+709,MongoDB
+709,Pandas
+709,Python
+709,SQL
+711,SQL
+713,AWS
+713,Azure
+713,Data Modeling
+713,Data Warehouse
+713,ETL
+713,Hadoop
+713,Java
+713,Kafka
+713,NoSQL
+713,Python
+713,SQL
+713,Snowflake
+713,Spark
+714,SQL
+715,MongoDB
+715,Python
+716,AWS
+716,Azure
+716,Docker
+716,GCP
+716,Kubernetes
+716,Linux
+716,Python
+717,Scala
+718,Kubernetes
+718,SQL
+718,SQL Server
+719,AWS
+719,Azure
+719,Hadoop
+719,Hive
+719,Kafka
+719,Kubernetes
+719,Machine Learning
+719,NoSQL
+719,Python
+719,SQL
+719,Spark
+721,Kubernetes
+721,SQL
+721,SQL Server
+722,AWS
+722,Data Warehouse
+722,ETL
+722,Java
+722,Power BI
+722,SQL
+722,Snowflake
+724,Docker
+724,Java
+724,Kafka
+724,Kubernetes
+724,MongoDB
+724,PostgreSQL
+724,Python
+725,Azure
+725,Power BI
+725,SQL
+725,SQL Server
+726,Azure
+726,ETL
+726,Git
+726,Java
+726,Linux
+726,MongoDB
+726,NoSQL
+726,NumPy
+726,Pandas
+726,Python
+726,SQL
+726,Scala
+727,Hadoop
+727,Kafka
+727,Linux
+729,Java
+729,SQL
+729,SQL Server
+730,AWS
+730,Data Modeling
+730,Java
+730,Machine Learning
+730,Python
+730,R
+730,SQL
+730,Scala
+731,Linux
+731,Python
+732,Azure
+734,AWS
+734,Azure
+735,Linux
+736,Data Modeling
+736,Java
+736,Python
+737,Docker
+737,ETL
+737,Hive
+737,Kafka
+737,Kubernetes
+737,Machine Learning
+737,Spark
+739,Linux
+745,Data Modeling
+745,Java
+745,Python
+746,R
+747,Data Modeling
+747,Data Warehouse
+747,ETL
+747,SQL
+747,Snowflake
+747,Tableau
+748,Azure
+748,SQL
+749,SQL
+751,Git
+751,Linux
+754,AWS
+754,Docker
+754,Git
+754,Java
+754,Linux
+754,Machine Learning
+754,MySQL
+754,Oracle
+754,SQL
+754,SQL Server
+756,Data Modeling
+756,Data Warehouse
+756,ETL
+756,SQL
+756,Snowflake
+756,Tableau
+757,Java
+757,Python
+758,Linux
+758,Python
+759,Oracle
+759,SQL
+760,Machine Learning
+760,Power BI
+760,Python
+760,R
+760,SQL
+760,Spark
+760,Tableau
+762,Data Modeling
+762,Data Warehouse
+762,ETL
+762,SQL
+762,SQL Server
+764,AWS
+764,Linux
+764,Python
+765,AWS
+765,Azure
+765,ETL
+765,GCP
+765,Machine Learning
+765,Python
+765,SQL
+766,Docker
+766,Machine Learning
+766,MongoDB
+766,Oracle
+766,SQL
+766,SQL Server
+767,Linux
+767,Python
+768,Java
+769,Git
+769,SQL
+770,AWS
+770,Azure
+770,Git
+772,AWS
+772,Java
+772,Linux
+772,Machine Learning
+772,PostgreSQL
+772,Python
+772,R
+772,SQL
+774,AWS
+774,Kafka
+774,Linux
+774,MongoDB
+774,PostgreSQL
+774,Python
+775,Java
+775,Python
+775,SQL
+777,Linux
+777,Python
+778,Azure
+779,AWS
+779,Azure
+779,GCP
+779,Java
+779,Kubernetes
+779,Python
+779,Scala
+780,AWS
+780,Azure
+780,Docker
+780,Kubernetes
+780,Python
+781,R
+784,AWS
+784,Azure
+784,ETL
+784,GCP
+784,Machine Learning
+784,Python
+784,SQL
+785,Java
+785,Python
+793,Machine Learning
+793,NumPy
+793,Pandas
+793,Python
+793,R
+795,Java
+796,AWS
+796,Data Warehouse
+796,ETL
+796,Java
+796,Power BI
+796,SQL
+796,Snowflake
+797,Java
+797,Linux
+797,Python
+798,AWS
+798,Git
+798,Kafka
+798,Oracle
+798,Python
+798,SQL
+798,SQL Server
+798,Spark
+800,AWS
+800,Docker
+800,ETL
+800,Java
+800,Kafka
+800,Kubernetes
+800,NoSQL
+800,Python
+800,SQL
+800,Spark
+801,AWS
+801,Data Modeling
+801,Data Warehouse
+801,Docker
+801,ELT
+801,ETL
+801,Kubernetes
+801,NoSQL
+801,Python
+801,Redshift
+801,SQL
+802,Data Warehouse
+802,Oracle
+802,SQL
+802,SQL Server
+803,AWS
+803,Docker
+803,ETL
+803,Java
+803,Kafka
+803,Kubernetes
+803,NoSQL
+803,Python
+803,SQL
+803,Spark
+804,AWS
+804,Data Modeling
+804,Data Warehouse
+804,ELT
+804,ETL
+804,Java
+804,NoSQL
+804,Python
+804,R
+804,Redshift
+804,SQL
+805,Hadoop
+805,Java
+805,Machine Learning
+805,Python
+806,Data Warehouse
+806,ETL
+806,Hadoop
+806,Hive
+806,Java
+806,NoSQL
+806,Python
+806,R
+806,SQL
+806,Scala
+806,Spark
+806,Tableau
+808,AWS
+808,ETL
+808,Git
+808,Kafka
+808,NoSQL
+808,Python
+808,Redshift
+808,SQL
+808,Spark
+809,AWS
+809,Azure
+809,Git
+809,Java
+809,Linux
+809,MySQL
+809,SQL
+810,AWS
+810,ETL
+810,Hadoop
+810,Hive
+810,Java
+810,Kafka
+810,Machine Learning
+810,Python
+810,SQL
+810,Scala
+810,Spark
+811,AWS
+811,Data Warehouse
+811,ELT
+811,ETL
+811,Hadoop
+811,Hive
+811,Java
+811,Kafka
+811,NoSQL
+811,Python
+811,Redshift
+811,SQL
+811,Scala
+811,Snowflake
+811,Spark
+812,AWS
+812,Docker
+812,ETL
+812,Java
+812,Kafka
+812,Kubernetes
+812,NoSQL
+812,Python
+812,SQL
+812,Spark
+813,AWS
+813,Airflow
+813,Data Modeling
+813,Data Warehouse
+813,GCP
+813,Java
+813,Looker
+813,Python
+813,SQL
+813,Scala
+813,Tableau
+815,AWS
+815,Java
+815,Machine Learning
+815,Python
+815,Redshift
+815,Scala
+816,AWS
+816,ETL
+816,Hadoop
+816,Hive
+816,Java
+816,Kafka
+816,Machine Learning
+816,Python
+816,SQL
+816,Scala
+816,Spark
+817,AWS
+817,Hadoop
+817,Java
+817,Python
+818,Hadoop
+818,Spark
+819,ETL
+819,Hadoop
+819,Hive
+819,Oracle
+819,Python
+819,Spark
+820,Azure
+820,ETL
+820,Git
+820,MongoDB
+820,NoSQL
+820,SQL
+820,SQL Server
+821,ETL
+821,NoSQL
+821,SQL
+823,Hadoop
+823,Tableau
+824,AWS
+824,Java
+824,Machine Learning
+824,MySQL
+824,Oracle
+824,PostgreSQL
+824,Power BI
+824,Python
+824,R
+824,SQL
+824,Spark
+824,Tableau
+825,AWS
+825,Hadoop
+825,Kafka
+825,MySQL
+825,NoSQL
+825,Oracle
+825,PostgreSQL
+825,Python
+825,R
+825,SQL
+825,SQL Server
+825,Spark
+826,ETL
+826,SQL
+826,SQL Server
+828,Git
+828,Hadoop
+828,Hive
+828,Java
+828,Kafka
+828,MySQL
+828,NoSQL
+828,PostgreSQL
+828,Python
+828,Scala
+828,Spark
+829,Data Warehouse
+829,Oracle
+829,SQL
+829,SQL Server
+830,AWS
+830,Data Modeling
+830,Data Warehouse
+830,Docker
+830,ELT
+830,ETL
+830,Kubernetes
+830,NoSQL
+830,Python
+830,Redshift
+830,SQL
+831,AWS
+831,Docker
+831,ETL
+831,Java
+831,Kafka
+831,Kubernetes
+831,NoSQL
+831,Python
+831,SQL
+831,Spark
+832,AWS
+832,Data Lake
+832,ETL
+832,Hadoop
+832,Hive
+832,Java
+832,Kafka
+832,MySQL
+832,NoSQL
+832,Python
+832,SQL
+832,Scala
+832,Spark
+833,Hadoop
+833,Hive
+833,Kafka
+833,Linux
+833,MongoDB
+833,MySQL
+833,PostgreSQL
+833,Python
+833,Spark
+835,AWS
+835,Hadoop
+835,Hive
+835,Java
+835,NoSQL
+835,Python
+835,Scala
+835,Spark
+836,Data Warehouse
+836,ETL
+836,Hive
+836,Java
+836,Machine Learning
+836,Python
+836,SQL
+836,Scala
+836,Spark
+837,Data Warehouse
+837,Power BI
+837,SQL
+837,SQL Server
+837,Tableau
+838,AWS
+838,Airflow
+838,Hadoop
+838,Java
+838,Kafka
+838,Machine Learning
+838,MongoDB
+838,NoSQL
+838,Pandas
+838,Python
+838,Redshift
+838,SQL
+838,Scala
+838,Spark
+839,AWS
+839,Data Lake
+839,Java
+839,Machine Learning
+839,Python
+840,Linux
+840,Machine Learning
+840,NumPy
+840,Pandas
+840,Python
+840,R
+840,Spark
+841,Data Lake
+841,Data Warehouse
+841,ETL
+841,Hadoop
+841,Java
+841,Kafka
+841,NoSQL
+841,Python
+841,SQL
+841,Spark
+842,Python
+842,Spark
+842,Tableau
+843,AWS
+843,Hadoop
+843,Java
+843,Kafka
+843,MySQL
+843,NoSQL
+843,Oracle
+843,PostgreSQL
+843,Python
+843,R
+843,SQL
+843,SQL Server
+843,Spark
+845,Git
+845,Java
+845,Kubernetes
+845,NoSQL
+845,Python
+845,SQL
+846,AWS
+846,Airflow
+846,Azure
+846,Hadoop
+846,Java
+846,Kafka
+846,Kubernetes
+846,Linux
+846,Machine Learning
+846,Oracle
+846,Python
+846,R
+846,SQL
+846,Scala
+846,Spark
+847,ETL
+847,Git
+847,Python
+847,R
+847,SQL
+848,Kafka
+848,Oracle
+848,Python
+848,SQL
+848,SQL Server
+848,Spark
+849,AWS
+849,Data Modeling
+849,Data Warehouse
+849,ETL
+849,Hadoop
+849,Looker
+849,Python
+849,Redshift
+849,SQL
+849,Spark
+849,Tableau
+850,AWS
+850,Java
+850,Python
+851,Hadoop
+851,Tableau
+852,Hadoop
+852,Hive
+852,Spark
+853,Git
+853,Java
+853,Linux
+853,MongoDB
+853,MySQL
+853,NoSQL
+853,Oracle
+853,SQL
+854,R
+855,AWS
+855,ETL
+855,MySQL
+855,NoSQL
+855,Oracle
+855,Snowflake
+856,Azure
+856,Git
+856,Kafka
+856,Machine Learning
+856,Python
+856,SQL
+856,Spark
+857,Java
+857,Machine Learning
+857,Python
+858,AWS
+858,Hive
+858,Python
+858,Spark
+860,AWS
+860,Data Modeling
+860,Data Warehouse
+860,ELT
+860,ETL
+860,Java
+860,NoSQL
+860,Python
+860,R
+860,Redshift
+860,SQL
+861,Hadoop
+861,Java
+861,Machine Learning
+861,Python
+862,AWS
+862,Data Modeling
+862,Data Warehouse
+862,Docker
+862,ELT
+862,ETL
+862,Kubernetes
+862,NoSQL
+862,Python
+862,Redshift
+862,SQL
+863,Data Warehouse
+863,SQL
+865,Azure
+865,Data Modeling
+865,Data Warehouse
+865,ETL
+865,Power BI
+865,SQL
+866,Linux
+866,R
+867,AWS
+867,Git
+867,Hive
+867,Java
+867,MongoDB
+867,NoSQL
+867,Python
+867,SQL
+867,Scala
+867,Spark
+868,Git
+868,Spark
+869,Java
+869,Python
+871,Hadoop
+871,Kafka
+871,Spark
+872,AWS
+872,Hadoop
+872,Java
+872,Machine Learning
+872,Python
+872,R
+872,SQL
+872,Scala
+872,Spark
+872,Tableau
+874,AWS
+874,Data Modeling
+874,Java
+874,Machine Learning
+874,Python
+874,R
+874,SQL
+874,Scala
+875,AWS
+875,Azure
+875,ELT
+875,ETL
+875,Hadoop
+875,Hive
+875,Kafka
+875,NoSQL
+875,SQL
+875,Snowflake
+875,Spark
+876,Azure
+876,Docker
+876,Git
+876,Kafka
+876,Machine Learning
+876,Power BI
+876,Python
+876,SQL
+876,Spark
+877,SQL
+877,Tableau
+878,AWS
+878,Kafka
+878,Python
+878,SQL
+878,Spark
+880,Data Warehouse
+880,ETL
+880,Hive
+880,Java
+880,Machine Learning
+880,Python
+880,SQL
+880,Scala
+880,Spark
+881,Data Warehouse
+881,ETL
+881,Hadoop
+881,Oracle
+881,SQL
+881,SQL Server
+882,Linux
+883,AWS
+883,Git
+883,Hive
+883,Java
+883,MongoDB
+883,NoSQL
+883,Python
+883,SQL
+883,Scala
+883,Spark
+884,Hadoop
+884,Hive
+884,Java
+884,Spark
+885,AWS
+885,Git
+885,Hive
+885,MongoDB
+885,NoSQL
+885,Python
+885,SQL
+885,Scala
+885,Spark
+886,Hadoop
+886,Hive
+886,Java
+886,Kafka
+886,Scala
+886,Spark
+887,Java
+889,Hive
+889,Java
+889,SQL
+889,Spark
+890,Hive
+890,Java
+890,Spark
+891,AWS
+891,Java
+891,Python
+892,AWS
+892,ETL
+892,Git
+892,Kafka
+892,NoSQL
+892,Python
+892,Redshift
+892,SQL
+892,Spark
+893,Data Warehouse
+893,ETL
+893,Hadoop
+893,Hive
+893,Java
+893,NoSQL
+893,Python
+893,R
+893,SQL
+893,Scala
+893,Spark
+893,Tableau
+894,Java
+894,Linux
+894,NoSQL
+894,Python
+895,Linux
+896,Spark
+897,Azure
+897,Machine Learning
+898,SQL
+899,AWS
+899,Java
+899,Python
+901,Java
+902,Data Lake
+902,Hadoop
+902,Hive
+902,Java
+902,Kafka
+902,Linux
+902,Machine Learning
+902,SQL
+902,Scala
+902,Spark
+903,AWS
+903,Data Modeling
+903,ETL
+903,Hadoop
+903,Hive
+903,Redshift
+903,Spark
+903,Tableau
+904,Hadoop
+904,Hive
+904,Spark
+905,Python
+906,AWS
+906,Git
+906,Hive
+906,Java
+906,MongoDB
+906,NoSQL
+906,Python
+906,SQL
+906,Scala
+906,Spark
+907,Azure
+907,Git
+908,Java
+908,Python
+908,R
+908,SQL
+908,Scala
+909,ETL
+909,Kafka
+909,Oracle
+909,Python
+909,SQL
+909,SQL Server
+909,Spark
+910,AWS
+910,Docker
+910,Kubernetes
+910,Python
+910,SQL
+913,AWS
+913,Azure
+913,Data Lake
+913,Docker
+913,GCP
+913,Hadoop
+913,Hive
+913,Java
+913,Kafka
+913,Kubernetes
+913,Python
+913,Scala
+913,Spark
+914,Python
+914,Spark
+915,AWS
+915,Git
+915,Hadoop
+915,Hive
+915,Kafka
+915,Python
+915,Scala
+915,Spark
+916,Git
+916,Java
+916,Oracle
+916,SQL
+917,Data Modeling
+918,Python
+918,SQL
+918,Scala
+918,Spark
+919,Hadoop
+919,Hive
+919,Kafka
+919,Spark
+920,Hadoop
+920,Hive
+920,Java
+920,Python
+920,Spark
+921,Python
+921,Spark
+921,Tableau
+922,ETL
+922,Kafka
+922,Oracle
+922,Python
+922,SQL
+922,SQL Server
+922,Spark
+923,Python
+924,AWS
+924,Docker
+924,ETL
+924,Java
+924,Kafka
+924,Kubernetes
+924,NoSQL
+924,Python
+924,SQL
+924,Spark
+925,Hive
+925,Java
+925,Spark
+926,Oracle
+926,SQL
+926,SQL Server
+927,Docker
+927,Git
+927,Java
+927,Kubernetes
+928,Azure
+928,Data Lake
+928,SQL
+929,SQL
+930,Azure
+930,Data Lake
+930,Hive
+930,Kafka
+930,MySQL
+930,Oracle
+930,Python
+930,R
+930,Spark
+931,AWS
+931,Linux
+931,MySQL
+931,NoSQL
+931,Oracle
+932,Data Modeling
+932,Data Warehouse
+932,MySQL
+932,Oracle
+932,SQL
+932,SQL Server
+933,Hadoop
+933,Hive
+933,Java
+933,Kafka
+933,NoSQL
+933,Spark
+935,Data Modeling
+935,Machine Learning
+935,Python
+936,Data Warehouse
+936,ETL
+936,Hadoop
+936,SQL
+937,AWS
+937,Java
+937,NoSQL
+937,Python
+938,SQL
+939,Java
+939,Machine Learning
+940,Oracle
+940,Python
+940,SQL
+941,Azure
+941,Git
+941,SQL
+941,SQL Server
+942,AWS
+942,Java
+942,NoSQL
+943,Git
+943,Hadoop
+943,Hive
+943,Java
+943,Kafka
+943,MySQL
+943,NoSQL
+943,PostgreSQL
+943,Python
+943,Scala
+943,Spark
+944,AWS
+944,Java
+944,Python
+945,AWS
+945,Airflow
+945,Azure
+945,Hadoop
+945,Java
+945,Kafka
+945,Kubernetes
+945,Linux
+945,Machine Learning
+945,Oracle
+945,Python
+945,R
+945,SQL
+945,Scala
+945,Spark
+946,Java
+946,Linux
+947,ETL
+947,Hadoop
+947,Hive
+947,Oracle
+947,Python
+948,Data Lake
+948,Data Warehouse
+949,Linux
+950,Data Modeling
+950,Data Warehouse
+950,MySQL
+950,Oracle
+950,SQL
+950,SQL Server
+951,Hadoop
+951,Hive
+951,Java
+951,Spark
+952,Hadoop
+952,Hive
+952,Java
+952,Kafka
+952,NoSQL
+952,Scala
+952,Spark
+953,Hadoop
+953,Machine Learning
+954,Hadoop
+954,Hive
+954,Java
+954,Kafka
+954,NoSQL
+954,Scala
+954,Spark
+955,Azure
+955,Java
+955,Oracle
+955,Power BI
+955,Python
+955,SQL
+955,SQL Server
+955,Tableau
+956,AWS
+956,Docker
+956,Hadoop
+956,Kafka
+956,Linux
+956,Python
+957,Azure
+957,SQL
+957,SQL Server
+958,Java
+958,NoSQL
+958,SQL
+959,AWS
+959,Java
+959,Linux
+959,Python
+960,Linux
+961,Data Lake
+961,Data Warehouse
+961,Hadoop
+961,Java
+961,R
+961,Spark
+962,Git
+962,Hadoop
+962,Hive
+962,Java
+962,Kafka
+962,MySQL
+962,NoSQL
+962,PostgreSQL
+962,Python
+962,Scala
+962,Spark
+963,AWS
+963,Hadoop
+963,Hive
+963,Java
+963,Redshift
+963,Spark
+964,Linux
+964,Machine Learning
+964,NumPy
+964,Pandas
+964,Python
+964,R
+964,Spark
+965,AWS
+965,Python
+965,SQL
+966,Azure
+967,Docker
+967,Java
+967,Kafka
+967,NoSQL
+967,Oracle
+968,AWS
+968,Azure
+968,Docker
+968,Git
+968,MongoDB
+968,NoSQL
+968,SQL
+968,SQL Server
+969,Docker
+969,Java
+969,Kubernetes
+969,MongoDB
+969,MySQL
+970,Data Warehouse
+971,Azure
+971,Data Modeling
+971,NoSQL
+971,R
+971,Snowflake
+972,AWS
+972,Docker
+972,Hadoop
+972,Kafka
+972,Linux
+972,Python
+973,AWS
+973,Java
+973,Linux
+973,Python
+974,Linux
+974,Python
+975,AWS
+975,Java
+975,Kubernetes
+975,Linux
+976,Java
+976,NoSQL
+976,SQL
+977,Git
+977,Linux
+977,MySQL
+977,Python
+980,Java
+980,NoSQL
+981,AWS
+981,Git
+981,Machine Learning
+982,AWS
+982,Azure
+982,GCP
+982,Python
+984,SQL
+986,AWS
+986,Azure
+986,Docker
+986,Java
+986,Kubernetes
+986,Linux
+986,SQL
+987,AWS
+987,Hadoop
+987,Hive
+987,Java
+987,Redshift
+987,Spark
+988,Docker
+988,Git
+988,Java
+988,Oracle
+988,SQL
+989,AWS
+989,Docker
+989,Git
+989,Java
+989,Kubernetes
+989,Linux
+989,MySQL
+989,Python
+990,AWS
+990,Azure
+990,Docker
+990,Git
+990,Java
+990,Linux
+990,MySQL
+991,Azure
+992,AWS
+992,Azure
+992,Docker
+992,Git
+992,Kubernetes
+992,Linux
+992,MySQL
+992,Python
+993,R
+996,Git
+996,Java
+996,Kubernetes
+996,Linux
+996,Python
+996,Scala
+997,Docker
+997,Java
+997,Kafka
+997,NoSQL
+997,Oracle
+998,Pandas
+998,Python
+998,SQL
+999,ETL
+999,Hadoop
+999,Hive
+999,Java
+999,Kafka
+999,Python
+999,R
+999,SQL
+999,Spark
+1000,AWS
+1000,Airflow
+1000,ETL
+1000,Looker
+1000,MySQL
+1000,SQL
+1000,Snowflake
+1000,dbt
+1003,PostgreSQL
+1003,Redshift
+1003,SQL
+1003,SQL Server
+1003,Tableau
+1004,AWS
+1004,Airflow
+1004,Data Warehouse
+1004,Hadoop
+1004,Java
+1004,Kafka
+1004,Python
+1004,SQL
+1004,Snowflake
+1004,Spark
+1004,dbt
+1005,ETL
+1005,Hive
+1005,Java
+1005,Machine Learning
+1005,MySQL
+1005,NoSQL
+1005,Python
+1006,Azure
+1006,Machine Learning
+1007,Oracle
+1008,Docker
+1008,Kubernetes
+1008,Python
+1010,Data Modeling
+1010,Data Warehouse
+1010,ETL
+1010,Hadoop
+1010,Hive
+1010,Java
+1010,Kafka
+1010,NoSQL
+1010,Power BI
+1010,Python
+1010,R
+1010,SQL
+1010,SQL Server
+1010,Scala
+1010,Spark
+1010,Tableau
+1011,Data Warehouse
+1011,Docker
+1011,Git
+1011,Python
+1011,SQL
+1011,Tableau
+1012,Data Warehouse
+1012,Docker
+1012,Git
+1012,Python
+1012,SQL
+1012,Tableau
+1013,Data Warehouse
+1013,Python
+1013,SQL
+1013,Tableau
+1014,Azure
+1014,Data Lake
+1014,Data Warehouse
+1014,ETL
+1014,Hadoop
+1014,Java
+1014,Python
+1014,SQL
+1014,Scala
+1014,Spark
+1015,Data Warehouse
+1015,Docker
+1015,Git
+1015,Power BI
+1015,Python
+1015,SQL
+1015,Tableau
+1016,Data Warehouse
+1016,Python
+1016,SQL
+1016,Tableau
+1017,SQL
+1017,SQL Server
+1018,Data Warehouse
+1018,Docker
+1018,Git
+1018,Python
+1018,SQL
+1018,Tableau
+1020,AWS
+1020,Kafka
+1020,Oracle
+1020,Python
+1020,Spark
+1021,AWS
+1021,Azure
+1021,Data Lake
+1021,GCP
+1021,Power BI
+1021,Python
+1021,SQL
+1022,Python
+1023,AWS
+1023,GCP
+1023,Kafka
+1023,Kubernetes
+1023,Machine Learning
+1023,MongoDB
+1023,MySQL
+1023,Python
+1024,AWS
+1024,Airflow
+1024,Docker
+1024,ETL
+1024,Hadoop
+1024,Linux
+1024,Machine Learning
+1024,NoSQL
+1024,Python
+1024,SQL
+1024,Spark
+1025,AWS
+1025,Azure
+1025,Kafka
+1025,PostgreSQL
+1025,Redshift
+1025,SQL
+1026,Azure
+1026,Data Lake
+1026,Data Modeling
+1026,Data Warehouse
+1026,ELT
+1026,Java
+1026,Kafka
+1026,Python
+1026,SQL
+1026,Scala
+1027,AWS
+1027,Airflow
+1027,Hadoop
+1027,Java
+1027,Kafka
+1027,Machine Learning
+1027,NoSQL
+1027,Python
+1027,Redshift
+1027,SQL
+1027,Scala
+1027,Spark
+1028,ETL
+1028,Hive
+1028,Java
+1028,Machine Learning
+1028,MySQL
+1028,NoSQL
+1028,Python
+1029,AWS
+1029,Airflow
+1029,Data Warehouse
+1029,Hadoop
+1029,Java
+1029,Kafka
+1029,Python
+1029,SQL
+1029,Snowflake
+1029,Spark
+1029,dbt
+1031,AWS
+1031,Data Lake
+1031,Hadoop
+1031,Java
+1031,Kafka
+1031,Linux
+1031,Python
+1031,SQL
+1031,Scala
+1031,Snowflake
+1031,Spark
+1032,Data Warehouse
+1032,Docker
+1032,Git
+1032,Python
+1032,SQL
+1032,Tableau
+1033,AWS
+1033,Java
+1033,Linux
+1033,Python
+1034,AWS
+1034,Airflow
+1034,Data Warehouse
+1034,Docker
+1034,Hadoop
+1034,MySQL
+1034,Python
+1034,SQL
+1034,Spark
+1035,AWS
+1035,Data Lake
+1035,Java
+1035,Kafka
+1035,MongoDB
+1035,MySQL
+1035,NoSQL
+1035,Oracle
+1035,Python
+1035,Scala
+1035,Spark
+1036,Data Warehouse
+1036,Docker
+1036,Git
+1036,Python
+1036,SQL
+1036,Tableau
+1037,AWS
+1037,Java
+1037,Kafka
+1037,Linux
+1037,Python
+1037,SQL
+1037,Spark
+1038,AWS
+1038,Docker
+1038,MySQL
+1038,Python
+1039,AWS
+1039,Azure
+1039,BigQuery
+1039,Data Warehouse
+1039,Git
+1039,Java
+1039,Python
+1039,Redshift
+1039,Scala
+1039,Snowflake
+1039,Spark
+1040,AWS
+1040,MongoDB
+1040,NoSQL
+1040,Oracle
+1040,Python
+1040,Spark
+1041,AWS
+1041,Airflow
+1041,Data Warehouse
+1041,Docker
+1041,Hadoop
+1041,MySQL
+1041,Python
+1041,SQL
+1041,Spark
+1042,AWS
+1042,Java
+1042,Linux
+1042,Python
+1044,Hadoop
+1044,Java
+1044,Kafka
+1044,Machine Learning
+1044,NoSQL
+1044,NumPy
+1044,Pandas
+1044,Python
+1044,SQL
+1044,Spark
+1045,Airflow
+1046,AWS
+1046,Hive
+1046,Machine Learning
+1046,Python
+1047,Azure
+1047,Data Lake
+1047,Data Warehouse
+1047,Machine Learning
+1047,Power BI
+1047,SQL
+1048,Data Warehouse
+1048,Docker
+1048,Git
+1048,Python
+1048,SQL
+1048,Tableau
+1049,AWS
+1049,Airflow
+1049,Hadoop
+1049,Java
+1049,Kafka
+1049,Machine Learning
+1049,NoSQL
+1049,Python
+1049,Redshift
+1049,SQL
+1049,Scala
+1049,Spark
+1050,AWS
+1050,Python
+1050,R
+1051,AWS
+1051,Airflow
+1051,Data Warehouse
+1051,Docker
+1051,Hadoop
+1051,MySQL
+1051,Python
+1051,SQL
+1051,Spark
+1052,Azure
+1052,ETL
+1052,SQL
+1053,AWS
+1053,ETL
+1053,Java
+1053,Linux
+1053,Looker
+1053,MySQL
+1053,Python
+1053,Redshift
+1053,SQL
+1053,Snowflake
+1053,Tableau
+1054,Data Lake
+1054,Power BI
+1054,Tableau
+1055,Power BI
+1055,SQL
+1055,Snowflake
+1055,Tableau
+1056,Data Warehouse
+1056,SQL
+1056,Tableau
+1057,Data Warehouse
+1057,Docker
+1057,Git
+1057,Python
+1057,SQL
+1057,Tableau
+1058,AWS
+1058,Data Modeling
+1058,ETL
+1058,Java
+1058,Python
+1058,SQL
+1058,Snowflake
+1059,Python
+1059,SQL
+1059,Tableau
+1060,Azure
+1060,Machine Learning
+1061,Azure
+1061,Data Lake
+1061,Data Modeling
+1061,Data Warehouse
+1061,ELT
+1061,Java
+1061,Kafka
+1061,Python
+1061,SQL
+1061,Scala
+1062,Data Warehouse
+1062,SQL
+1062,Tableau
+1063,ETL
+1063,Hadoop
+1063,Hive
+1063,Java
+1063,Kafka
+1063,Machine Learning
+1063,Oracle
+1063,Python
+1063,SQL
+1063,Spark
+1064,AWS
+1064,Azure
+1064,Docker
+1064,ETL
+1064,Hadoop
+1064,Java
+1064,Kafka
+1064,Kubernetes
+1064,Linux
+1064,MongoDB
+1064,NoSQL
+1064,Python
+1064,SQL
+1064,Snowflake
+1064,Spark
+1065,Azure
+1065,Data Lake
+1065,Data Modeling
+1065,Data Warehouse
+1065,ELT
+1065,Java
+1065,Kafka
+1065,Python
+1065,SQL
+1065,Scala
+1066,AWS
+1066,Azure
+1066,Data Modeling
+1066,Data Warehouse
+1066,Hadoop
+1066,MySQL
+1066,Redshift
+1067,AWS
+1067,ETL
+1067,Machine Learning
+1067,Python
+1067,SQL
+1067,Spark
+1068,AWS
+1068,Data Modeling
+1068,Java
+1068,Machine Learning
+1068,Python
+1068,R
+1068,SQL
+1068,Scala
+1069,Data Warehouse
+1069,Docker
+1069,Git
+1069,Python
+1069,SQL
+1069,Tableau
+1070,Docker
+1070,Git
+1070,Linux
+1070,Python
+1071,AWS
+1071,Git
+1071,Python
+1071,R
+1071,Scala
+1071,Spark
+1072,Azure
+1072,ETL
+1072,Git
+1072,Hadoop
+1072,Hive
+1072,Kafka
+1072,Oracle
+1072,Power BI
+1072,Python
+1072,Redshift
+1072,SQL
+1072,SQL Server
+1072,Snowflake
+1072,Spark
+1072,Tableau
+1073,Git
+1073,Java
+1074,AWS
+1074,Airflow
+1074,Hadoop
+1074,Java
+1074,Kafka
+1074,NoSQL
+1074,PostgreSQL
+1074,Python
+1074,Redshift
+1074,SQL
+1074,Scala
+1074,Spark
+1075,Oracle
+1075,SQL
+1077,AWS
+1077,Docker
+1077,Java
+1077,Kubernetes
+1077,NoSQL
+1078,Azure
+1078,ETL
+1078,Git
+1078,Hadoop
+1078,Hive
+1078,Kafka
+1078,Oracle
+1078,Power BI
+1078,Python
+1078,Redshift
+1078,SQL
+1078,SQL Server
+1078,Snowflake
+1078,Spark
+1078,Tableau
+1079,AWS
+1079,Data Modeling
+1079,Data Warehouse
+1079,ETL
+1079,Hadoop
+1079,Hive
+1079,Java
+1079,Kafka
+1079,NoSQL
+1079,Power BI
+1079,Python
+1079,R
+1079,SQL
+1079,SQL Server
+1079,Scala
+1079,Spark
+1079,Tableau
+1080,AWS
+1080,ETL
+1080,Java
+1080,Linux
+1080,Looker
+1080,MySQL
+1080,Python
+1080,Redshift
+1080,SQL
+1080,Snowflake
+1080,Tableau
+1081,Hive
+1081,Machine Learning
+1081,Python
+1081,SQL
+1081,Scala
+1081,Spark
+1082,Data Warehouse
+1082,Docker
+1082,Git
+1082,Hadoop
+1082,Python
+1082,SQL
+1082,Tableau
+1084,AWS
+1084,Docker
+1084,Hadoop
+1084,Java
+1084,Machine Learning
+1084,PostgreSQL
+1084,Python
+1084,Spark
+1085,AWS
+1085,ETL
+1085,Java
+1085,Linux
+1085,Looker
+1085,MySQL
+1085,Python
+1085,Redshift
+1085,SQL
+1085,Snowflake
+1085,Tableau
+1086,AWS
+1086,Hadoop
+1086,Java
+1086,Kafka
+1086,NoSQL
+1086,Python
+1086,SQL
+1086,Scala
+1086,Spark
+1086,Tableau
+1087,Git
+1087,Hadoop
+1087,Hive
+1087,MongoDB
+1087,SQL
+1087,SQL Server
+1088,ETL
+1088,Hive
+1088,Java
+1088,Machine Learning
+1088,MySQL
+1088,NoSQL
+1088,Python
+1089,Data Warehouse
+1089,ELT
+1089,ETL
+1089,Python
+1089,R
+1089,SQL
+1091,AWS
+1091,GCP
+1091,Linux
+1091,Machine Learning
+1091,MySQL
+1091,PostgreSQL
+1091,Python
+1091,R
+1092,Azure
+1092,Data Lake
+1092,Data Warehouse
+1092,Machine Learning
+1092,Power BI
+1092,SQL
+1093,Data Lake
+1093,Power BI
+1093,Tableau
+1094,Data Lake
+1094,ELT
+1094,Machine Learning
+1094,SQL
+1095,Azure
+1095,Hadoop
+1095,Kafka
+1095,Python
+1095,Spark
+1096,MySQL
+1096,Python
+1097,AWS
+1097,ETL
+1097,Java
+1097,Kafka
+1097,PostgreSQL
+1097,Python
+1097,SQL
+1097,Snowflake
+1097,Spark
+1098,SQL
+1099,Azure
+1099,Data Lake
+1099,ETL
+1099,Machine Learning
+1099,SQL
+1100,Azure
+1100,Data Modeling
+1100,Data Warehouse
+1100,ETL
+1100,Hadoop
+1100,Hive
+1100,Java
+1100,Linux
+1100,Machine Learning
+1100,Python
+1100,R
+1100,SQL
+1100,Tableau
+1101,AWS
+1101,Machine Learning
+1101,Python
+1101,R
+1102,AWS
+1102,Airflow
+1102,Docker
+1102,Hadoop
+1102,Java
+1102,Python
+1102,SQL
+1102,Spark
+1103,AWS
+1103,Hadoop
+1103,Java
+1103,Kafka
+1103,Linux
+1103,Machine Learning
+1103,NoSQL
+1103,Python
+1103,Spark
+1104,AWS
+1104,Python
+1105,Docker
+1106,Airflow
+1106,Azure
+1106,Docker
+1106,Git
+1106,Kubernetes
+1106,Linux
+1106,Machine Learning
+1106,NumPy
+1106,Pandas
+1106,Python
+1106,SQL
+1106,SQL Server
+1106,Spark
+1107,Hadoop
+1107,Hive
+1107,Python
+1107,Scala
+1107,Spark
+1108,AWS
+1108,Azure
+1108,Docker
+1108,GCP
+1108,Kubernetes
+1108,Linux
+1109,Data Warehouse
+1109,Docker
+1109,Git
+1109,Python
+1109,SQL
+1109,Tableau
+1110,Hive
+1110,Machine Learning
+1110,Python
+1110,SQL
+1110,Scala
+1110,Spark
+1111,AWS
+1111,Airflow
+1111,Hadoop
+1111,Java
+1111,Kafka
+1111,NoSQL
+1111,Python
+1111,Redshift
+1111,SQL
+1111,Scala
+1111,Snowflake
+1111,Spark
+1112,Azure
+1112,Data Warehouse
+1112,ELT
+1112,ETL
+1112,Hadoop
+1112,Java
+1112,Kafka
+1112,NoSQL
+1112,Python
+1112,SQL
+1112,Scala
+1112,Spark
+1113,Tableau
+1114,AWS
+1114,Python
+1114,Spark
+1116,AWS
+1116,Git
+1116,Python
+1116,R
+1116,SQL
+1116,Scala
+1116,Spark
+1117,Linux
+1117,Python
+1117,Spark
+1118,AWS
+1118,Data Warehouse
+1118,ELT
+1118,ETL
+1118,Hadoop
+1118,Hive
+1118,Java
+1118,Kafka
+1118,NoSQL
+1118,Scala
+1118,Spark
+1120,Machine Learning
+1120,NoSQL
+1120,Python
+1120,SQL
+1121,AWS
+1121,Azure
+1121,Data Modeling
+1121,Data Warehouse
+1121,NoSQL
+1121,Oracle
+1121,Power BI
+1121,R
+1121,SQL
+1121,SQL Server
+1121,Tableau
+1122,AWS
+1122,BigQuery
+1122,GCP
+1122,Looker
+1122,Python
+1122,Scala
+1122,Snowflake
+1122,Spark
+1122,Tableau
+1123,Azure
+1123,Data Modeling
+1123,Data Warehouse
+1123,Hadoop
+1123,Machine Learning
+1123,NoSQL
+1123,Oracle
+1123,R
+1123,SQL
+1123,SQL Server
+1123,Tableau
+1124,AWS
+1124,Data Warehouse
+1124,Hadoop
+1125,AWS
+1125,Data Warehouse
+1125,ETL
+1125,Hadoop
+1125,Kafka
+1125,Oracle
+1125,Python
+1125,Redshift
+1125,SQL
+1125,SQL Server
+1125,Scala
+1125,Snowflake
+1125,Spark
+1127,AWS
+1127,Airflow
+1127,Data Warehouse
+1127,Docker
+1127,Hadoop
+1127,MySQL
+1127,Python
+1127,SQL
+1127,Spark
+1128,AWS
+1128,Java
+1128,Linux
+1128,SQL
+1129,Azure
+1129,Data Modeling
+1129,Docker
+1129,ETL
+1129,Kubernetes
+1129,Linux
+1129,Machine Learning
+1129,Python
+1129,Spark
+1130,AWS
+1130,Airflow
+1130,Docker
+1130,Kubernetes
+1130,Python
+1130,Spark
+1131,AWS
+1131,Hive
+1131,Python
+1131,Scala
+1133,ETL
+1133,Hadoop
+1133,Hive
+1133,Spark
+1134,AWS
+1134,Python
+1134,Scala
+1135,AWS
+1135,Airflow
+1135,Docker
+1135,Kubernetes
+1135,Python
+1135,Spark
+1136,Data Warehouse
+1136,Machine Learning
+1136,Python
+1136,R
+1137,AWS
+1137,Hadoop
+1137,Hive
+1137,Spark
+1138,AWS
+1138,Hadoop
+1138,Hive
+1138,Spark
+1139,Docker
+1139,Git
+1139,Kubernetes
+1139,MongoDB
+1139,SQL
+1139,SQL Server
+1141,AWS
+1141,Airflow
+1141,Docker
+1141,Hadoop
+1141,Java
+1141,Python
+1141,SQL
+1141,Spark
+1142,AWS
+1142,Hadoop
+1142,Java
+1142,Kafka
+1142,Linux
+1142,Machine Learning
+1142,NoSQL
+1142,Python
+1142,Spark
+1143,AWS
+1143,Azure
+1143,Docker
+1143,GCP
+1143,Kubernetes
+1143,Python
+1144,AWS
+1144,Azure
+1144,Data Lake
+1144,Data Modeling
+1144,Data Warehouse
+1144,ETL
+1144,Hadoop
+1144,MySQL
+1144,NoSQL
+1144,Redshift
+1144,SQL
+1144,SQL Server
+1144,Snowflake
+1144,Spark
+1144,Tableau
+1145,Java
+1145,PostgreSQL
+1145,SQL
+1146,Hadoop
+1146,Java
+1146,Python
+1146,Scala
+1146,Spark
+1147,AWS
+1147,Python
+1148,Kubernetes
+1148,SQL
+1149,Azure
+1149,Data Lake
+1149,Data Modeling
+1149,Data Warehouse
+1149,ELT
+1149,Java
+1149,Kafka
+1149,Python
+1149,SQL
+1149,Scala
+1150,Data Warehouse
+1150,Docker
+1150,Kubernetes
+1150,Machine Learning
+1150,MongoDB
+1150,Python
+1151,Data Modeling
+1151,Data Warehouse
+1151,Hadoop
+1151,Hive
+1151,Java
+1151,NoSQL
+1151,Python
+1151,SQL
+1151,Snowflake
+1151,Spark
+1151,Tableau
+1152,AWS
+1152,Azure
+1152,Data Lake
+1152,Data Modeling
+1152,Data Warehouse
+1152,ETL
+1152,Hadoop
+1152,MySQL
+1152,NoSQL
+1152,Redshift
+1152,SQL
+1152,SQL Server
+1152,Snowflake
+1152,Spark
+1152,Tableau
+1153,AWS
+1153,Azure
+1153,Docker
+1153,Git
+1153,SQL
+1154,Git
+1154,Linux
+1154,SQL
+1155,Docker
+1155,Java
+1155,Kafka
+1155,Kubernetes
+1155,Linux
+1155,Python
+1156,Machine Learning
+1156,Python
+1156,R
+1156,SQL
+1157,SQL
+1158,AWS
+1158,Python
+1158,SQL
+1159,AWS
+1159,Hadoop
+1159,Java
+1159,Kafka
+1159,Linux
+1159,Machine Learning
+1159,NoSQL
+1159,Python
+1159,Spark
+1160,Data Modeling
+1160,Data Warehouse
+1160,Hadoop
+1160,Hive
+1160,Java
+1160,NoSQL
+1160,Python
+1160,SQL
+1160,Snowflake
+1160,Spark
+1160,Tableau
+1161,AWS
+1161,Machine Learning
+1161,Python
+1161,SQL
+1161,Spark
+1162,AWS
+1162,Azure
+1162,Docker
+1162,Kubernetes
+1163,AWS
+1163,SQL
+1164,AWS
+1164,Java
+1164,Machine Learning
+1164,Python
+1164,SQL
+1165,AWS
+1165,Airflow
+1165,ETL
+1165,Looker
+1165,Machine Learning
+1165,MySQL
+1165,Python
+1165,Snowflake
+1165,Tableau
+1166,Tableau
+1167,Docker
+1167,Git
+1167,Java
+1167,Kubernetes
+1167,Linux
+1167,MongoDB
+1167,PostgreSQL
+1168,PostgreSQL
+1168,Redshift
+1168,SQL
+1168,SQL Server
+1168,Tableau
+1169,Python
+1169,SQL
+1170,Azure
+1170,Data Modeling
+1170,Docker
+1170,ETL
+1170,Kubernetes
+1170,Linux
+1170,Machine Learning
+1170,Python
+1170,Spark
+1171,AWS
+1171,Java
+1171,Machine Learning
+1171,Python
+1171,Scala
+1171,Spark
+1172,AWS
+1172,Machine Learning
+1172,Python
+1172,Scala
+1172,Spark
+1173,Machine Learning
+1173,NumPy
+1173,Python
+1174,Data Lake
+1174,Data Warehouse
+1174,Hadoop
+1174,Linux
+1174,SQL
+1175,AWS
+1175,Looker
+1175,Python
+1175,Redshift
+1175,Scala
+1175,Snowflake
+1175,Spark
+1175,Tableau
+1176,AWS
+1176,Python
+1176,SQL
+1176,Spark
+1177,SQL
+1178,AWS
+1178,Python
+1179,SQL
+1180,AWS
+1180,Data Warehouse
+1180,Python
+1180,SQL
+1182,AWS
+1182,Hadoop
+1182,Java
+1182,Kafka
+1182,NoSQL
+1182,Python
+1182,Redshift
+1182,SQL
+1182,Scala
+1182,Snowflake
+1182,Spark
+1183,AWS
+1183,Airflow
+1183,Docker
+1183,Hadoop
+1183,Java
+1183,Python
+1183,SQL
+1183,Spark
+1184,Data Lake
+1184,Tableau
+1185,AWS
+1185,Machine Learning
+1185,Python
+1185,R
+1186,AWS
+1186,Airflow
+1186,Looker
+1187,Git
+1187,Hadoop
+1187,Hive
+1187,Java
+1187,Kafka
+1187,Machine Learning
+1187,Python
+1187,Scala
+1187,Spark
+1188,Linux
+1189,Azure
+1189,Data Lake
+1189,Data Modeling
+1189,Data Warehouse
+1189,ELT
+1189,Java
+1189,Kafka
+1189,Python
+1189,SQL
+1189,Scala
+1190,Data Modeling
+1190,Data Warehouse
+1190,Hadoop
+1190,Hive
+1190,Java
+1190,NoSQL
+1190,Python
+1190,SQL
+1190,Snowflake
+1190,Spark
+1190,Tableau
+1191,AWS
+1191,Azure
+1191,ETL
+1191,GCP
+1191,Hive
+1191,Java
+1191,Machine Learning
+1191,Python
+1191,R
+1191,SQL
+1191,Spark
+1192,AWS
+1192,Hadoop
+1192,Java
+1192,Kafka
+1192,NoSQL
+1192,Python
+1192,Redshift
+1192,SQL
+1192,Scala
+1192,Snowflake
+1192,Spark
+1193,Azure
+1193,Data Modeling
+1193,Data Warehouse
+1193,ETL
+1193,MongoDB
+1193,NoSQL
+1193,Oracle
+1193,R
+1193,SQL
+1193,SQL Server
+1194,AWS
+1194,Azure
+1194,Git
+1194,SQL
+1195,Data Warehouse
+1195,ETL
+1195,SQL
+1195,Tableau
+1196,AWS
+1196,Airflow
+1196,Docker
+1196,Hadoop
+1196,Java
+1196,Python
+1196,SQL
+1196,Spark
+1197,AWS
+1197,Airflow
+1197,Hadoop
+1197,Java
+1197,Kafka
+1197,NoSQL
+1197,Python
+1197,Redshift
+1197,SQL
+1197,Scala
+1197,Snowflake
+1197,Spark
+1198,AWS
+1198,Hadoop
+1198,Hive
+1198,Linux
+1198,Python
+1198,R
+1198,SQL
+1198,Scala
+1198,Spark
+1199,ELT
+1199,ETL
+1199,Hadoop
+1199,Hive
+1199,Python
+1199,R
+1199,SQL
+1200,Linux
+1200,MySQL
+1200,PostgreSQL
+1200,Python
+1201,Azure
+1201,SQL
+1201,SQL Server
+1204,AWS
+1204,Data Warehouse
+1204,ELT
+1204,ETL
+1204,Hadoop
+1204,Hive
+1204,Java
+1204,Kafka
+1204,NoSQL
+1204,Python
+1204,Redshift
+1204,SQL
+1204,Scala
+1204,Snowflake
+1204,Spark
+1205,Power BI
+1205,Tableau
+1206,AWS
+1206,Azure
+1206,Data Lake
+1206,Data Modeling
+1206,Data Warehouse
+1206,ETL
+1206,Hadoop
+1206,Java
+1206,Linux
+1206,Python
+1206,R
+1206,SQL
+1206,Snowflake
+1206,Tableau
+1207,Docker
+1207,Git
+1207,Java
+1207,Kafka
+1207,Kubernetes
+1207,Linux
+1207,Python
+1207,SQL
+1207,SQL Server
+1208,ETL
+1208,NoSQL
+1208,Python
+1208,SQL
+1209,AWS
+1209,Airflow
+1209,Data Warehouse
+1209,ETL
+1209,MySQL
+1209,Python
+1209,Redshift
+1209,SQL
+1211,Airflow
+1211,Data Modeling
+1211,Docker
+1211,ETL
+1211,Git
+1211,Kafka
+1211,Kubernetes
+1211,Linux
+1211,Oracle
+1211,PostgreSQL
+1211,Python
+1211,Redshift
+1211,SQL
+1211,Spark
+1212,AWS
+1212,Azure
+1212,Data Warehouse
+1212,GCP
+1212,Java
+1212,Linux
+1212,Oracle
+1212,Python
+1212,R
+1212,SQL
+1212,Tableau
+1213,SQL
+1215,ETL
+1215,Python
+1215,Scala
+1215,Snowflake
+1215,Spark
+1217,Hadoop
+1217,Java
+1217,Kafka
+1217,Machine Learning
+1217,Python
+1217,R
+1217,Scala
+1217,Spark
+1218,AWS
+1218,Azure
+1218,Docker
+1218,Kubernetes
+1218,Linux
+1218,Python
+1219,AWS
+1219,Azure
+1219,Data Warehouse
+1219,GCP
+1219,Hadoop
+1219,Java
+1219,Linux
+1219,Oracle
+1219,Python
+1219,R
+1219,SQL
+1219,Tableau
+1220,AWS
+1220,ELT
+1220,ETL
+1220,Hadoop
+1220,Hive
+1220,Java
+1220,Kafka
+1220,NoSQL
+1220,Python
+1220,Redshift
+1220,SQL
+1220,Scala
+1220,Snowflake
+1220,Spark
+1221,Data Modeling
+1221,Data Warehouse
+1221,ETL
+1222,Hadoop
+1222,Java
+1222,Kafka
+1222,Machine Learning
+1222,Python
+1222,R
+1222,Scala
+1222,Spark
+1223,AWS
+1223,Azure
+1223,Data Warehouse
+1223,GCP
+1223,Python
+1223,SQL
+1223,Tableau
+1224,Java
+1224,Kafka
+1224,Linux
+1224,Python
+1224,SQL
+1224,Scala
+1224,Spark
+1225,AWS
+1225,ELT
+1225,ETL
+1225,Hadoop
+1225,Hive
+1225,Java
+1225,Kafka
+1225,NoSQL
+1225,Python
+1225,Redshift
+1225,SQL
+1225,Scala
+1225,Snowflake
+1225,Spark
+1227,AWS
+1227,Data Modeling
+1227,ETL
+1227,Tableau
+1228,Docker
+1228,ETL
+1228,Machine Learning
+1228,Python
+1228,SQL
+1229,Airflow
+1229,Data Modeling
+1229,Docker
+1229,ETL
+1229,Git
+1229,Kafka
+1229,Kubernetes
+1229,Linux
+1229,Oracle
+1229,PostgreSQL
+1229,Python
+1229,Redshift
+1229,SQL
+1229,Spark
+1230,Python
+1230,R
+1230,Scala
+1230,Spark
+1230,Tableau
+1232,AWS
+1232,Data Modeling
+1232,Data Warehouse
+1232,ETL
+1232,Java
+1232,Linux
+1232,Oracle
+1232,Power BI
+1232,SQL
+1232,SQL Server
+1232,Tableau
+1233,Data Modeling
+1233,Data Warehouse
+1233,ETL
+1233,Hadoop
+1233,Hive
+1233,R
+1233,SQL
+1233,Snowflake
+1233,Tableau
+1235,Python
+1235,R
+1235,Scala
+1235,Spark
+1235,Tableau
+1236,Linux
+1237,SQL
+1238,Data Warehouse
+1238,ETL
+1238,Hadoop
+1238,Java
+1238,Machine Learning
+1238,Python
+1239,ETL
+1239,Hadoop
+1239,Oracle
+1239,SQL
+1240,AWS
+1240,Azure
+1240,Data Warehouse
+1240,GCP
+1240,Hadoop
+1240,Java
+1240,Linux
+1240,Oracle
+1240,Python
+1240,R
+1240,SQL
+1240,Tableau
+1241,AWS
+1241,Data Modeling
+1241,Java
+1241,Machine Learning
+1241,Python
+1241,R
+1241,SQL
+1241,Scala
+1242,SQL
+1243,Machine Learning
+1243,Python
+1245,AWS
+1245,Airflow
+1245,Data Modeling
+1245,ETL
+1245,Hadoop
+1245,Java
+1245,Python
+1245,R
+1245,Redshift
+1245,SQL
+1245,Spark
+1246,Airflow
+1248,AWS
+1248,Data Warehouse
+1248,ETL
+1248,Python
+1248,Tableau
+1250,Linux
+1250,Python
+1251,Data Modeling
+1251,Java
+1251,SQL
+1255,Airflow
+1256,Linux
+1257,Python
+1259,Data Lake
+1259,ETL
+1259,Hadoop
+1259,Oracle
+1259,R
+1259,SQL
+1259,Tableau
+1260,ETL
+1260,SQL
+1262,Git
+1262,Java
+1262,Python
+1262,SQL
+1263,Data Lake
+1263,ETL
+1263,Machine Learning
+1264,Data Lake
+1264,ETL
+1264,Machine Learning
+1264,Oracle
+1264,SQL
+1264,SQL Server
+1271,AWS
+1271,Azure
+1271,Data Warehouse
+1271,GCP
+1271,Hadoop
+1271,Java
+1271,Linux
+1271,Oracle
+1271,Python
+1271,R
+1271,SQL
+1271,Tableau
+1276,Oracle
+1276,SQL
+1277,Oracle
+1277,SQL
+1277,SQL Server
+1278,Data Modeling
+1278,Java
+1278,SQL
+1280,Oracle
+1280,SQL
+1280,SQL Server
+1282,Power BI
+1282,Python
+1282,R
+1282,SQL
+1282,Tableau
+1287,AWS
+1287,Linux
+1292,Linux
+1292,SQL
+1292,SQL Server
+1295,Power BI
+1295,SQL
+1298,Python
+1298,SQL
+1299,AWS
+1299,Azure
+1299,GCP
+1299,Python
+1300,AWS
+1300,Azure
+1300,Data Lake
+1300,ETL
+1300,GCP
+1300,Hadoop
+1300,Hive
+1300,Java
+1300,Kafka
+1300,Linux
+1300,Machine Learning
+1300,NoSQL
+1300,NumPy
+1300,Pandas
+1300,Python
+1300,SQL
+1300,Spark
+1302,AWS
+1302,Azure
+1302,Data Lake
+1302,Hadoop
+1302,Hive
+1302,Java
+1302,Python
+1302,SQL
+1302,Scala
+1302,Spark
+1303,Python
+1305,Oracle
+1305,Power BI
+1305,R
+1305,SQL
+1305,Tableau
+1306,Azure
+1306,Java
+1306,Kafka
+1306,NoSQL
+1307,AWS
+1307,Azure
+1307,GCP
+1307,Linux
+1308,Java
+1308,Python
+1309,AWS
+1309,Azure
+1309,Git
+1309,Java
+1309,Kafka
+1309,MongoDB
+1309,MySQL
+1309,NoSQL
+1309,Python
+1313,Git
+1313,Linux
+1313,Python
+1315,Docker
+1315,Kubernetes
+1315,Linux
+1315,Machine Learning
+1315,Python
+1316,AWS
+1316,Git
+1316,Hadoop
+1316,Hive
+1316,Java
+1316,Kubernetes
+1316,Scala
+1316,Spark
+1317,ETL
+1317,SQL
+1317,Tableau
+1318,AWS
+1318,Azure
+1318,GCP
+1318,Linux
+1318,Machine Learning
+1320,Data Modeling
+1320,Hadoop
+1320,Java
+1320,Linux
+1320,MongoDB
+1320,Oracle
+1320,Python
+1322,Python
+1323,Linux
+1324,Linux
+1324,MySQL
+1328,Linux
+1329,Linux
+1330,AWS
+1330,Docker
+1330,Kubernetes
+1330,Python
+1331,Linux
+1331,NoSQL
+1331,SQL
+1333,Docker
+1333,Hadoop
+1333,Java
+1333,Kubernetes
+1333,Linux
+1333,MongoDB
+1333,MySQL
+1333,PostgreSQL
+1334,AWS
+1334,Azure
+1335,Linux
+1337,SQL
+1339,Linux
+1340,Java
+1340,Python
+1341,AWS
+1341,Azure
+1342,AWS
+1342,Azure
+1342,GCP
+1342,Git
+1342,Python
+1343,ETL
+1343,SQL
+1343,SQL Server
+1344,Docker
+1344,Kubernetes
+1344,Machine Learning
+1344,Python
+1345,Linux
+1346,Data Modeling
+1346,Java
+1346,Oracle
+1346,SQL
+1349,AWS
+1349,Azure
+1349,Docker
+1349,GCP
+1349,Java
+1349,Kubernetes
+1349,MySQL
+1349,Python
+1349,SQL
+1351,Azure
+1351,Java
+1351,Kafka
+1351,NoSQL
+1353,R
+1354,Python
+1355,Data Modeling
+1355,Java
+1355,Oracle
+1355,SQL
+1361,Docker
+1361,ETL
+1361,Kubernetes
+1363,AWS
+1363,Azure
+1363,Docker
+1363,Git
+1363,Kubernetes
+1363,Linux
+1363,Python
+1363,SQL
+1363,SQL Server
+1364,ETL
+1364,Java
+1364,Oracle
+1364,SQL
+1365,AWS
+1365,Linux
+1366,Oracle
+1369,Python
+1370,AWS
+1370,Azure
+1370,Data Warehouse
+1370,Docker
+1370,Hadoop
+1370,Java
+1370,Kafka
+1370,Kubernetes
+1370,Linux
+1370,MongoDB
+1370,Oracle
+1370,PostgreSQL
+1370,Python
+1370,SQL
+1370,SQL Server
+1370,Scala
+1370,Spark
+1373,Git
+1373,Java
+1374,Python
+1376,AWS
+1376,ELT
+1376,ETL
+1376,Snowflake
+1376,dbt
+1377,Power BI
+1378,Linux
+1378,Oracle
+1378,SQL
+1380,AWS
+1380,Linux
+1381,Machine Learning
+1383,Docker
+1383,Hadoop
+1383,Java
+1383,Kubernetes
+1383,Linux
+1383,MongoDB
+1383,MySQL
+1383,PostgreSQL
+1383,Python
+1384,Data Modeling
+1384,Hadoop
+1384,Java
+1384,Linux
+1384,MongoDB
+1384,Oracle
+1385,Linux
+1386,Git
+1386,Java
+1386,Python
+1387,Oracle
+1388,Linux
+1388,Python
+1389,Docker
+1389,Kubernetes
+1389,Python
+1389,SQL
+1390,Linux
+1390,Python
+1391,Docker
+1391,Git
+1391,Java
+1393,Linux
+1396,Azure
+1396,Python
+1397,AWS
+1397,ETL
+1397,Hadoop
+1397,Linux
+1397,Oracle
+1397,Power BI
+1397,Python
+1397,R
+1397,SQL
+1397,SQL Server
+1397,Spark
+1397,Tableau
+1398,AWS
+1398,Azure
+1398,BigQuery
+1398,Docker
+1398,GCP
+1398,Hadoop
+1398,Kafka
+1398,Kubernetes
+1398,NoSQL
+1398,Python
+1398,Redshift
+1398,Spark
+1399,Java
+1399,Python
+1400,Machine Learning
+1400,Python
+1401,Java
+1401,Python
+1401,R
+1403,Data Warehouse
+1403,ETL
+1403,Java
+1403,Machine Learning
+1403,Python
+1403,Redshift
+1403,SQL
+1403,Scala
+1403,Spark
+1404,Data Modeling
+1404,Java
+1404,Machine Learning
+1404,NoSQL
+1404,Python
+1404,SQL
+1405,Java
+1405,Python
+1406,Java
+1406,Python
+1406,R
+1407,Java
+1408,Java
+1408,R
+1409,AWS
+1409,Airflow
+1409,Data Modeling
+1409,Data Warehouse
+1409,ETL
+1409,Python
+1409,R
+1409,Redshift
+1409,SQL
+1410,AWS
+1410,Data Modeling
+1410,ETL
+1410,Java
+1410,Python
+1410,SQL
+1412,Oracle
+1412,Python
+1412,SQL
+1413,AWS
+1413,Git
+1413,Kafka
+1413,Python
+1413,Redshift
+1413,Spark
+1414,ETL
+1414,Java
+1414,Machine Learning
+1414,MongoDB
+1414,MySQL
+1414,NoSQL
+1414,Python
+1414,SQL
+1414,SQL Server
+1414,Scala
+1415,Data Modeling
+1415,ETL
+1415,Python
+1415,SQL
+1416,Data Warehouse
+1416,Git
+1416,Hadoop
+1416,Java
+1416,Python
+1418,AWS
+1418,Machine Learning
+1418,Python
+1418,SQL
+1419,Machine Learning
+1420,R
+1422,Docker
+1422,Machine Learning
+1422,Python
+1422,R
+1423,ELT
+1423,ETL
+1423,SQL
+1423,SQL Server
+1424,Git
+1424,Linux
+1424,Machine Learning
+1424,Python
+1424,R
+1425,Machine Learning
+1425,MySQL
+1425,Oracle
+1425,PostgreSQL
+1425,Python
+1425,SQL
+1426,Data Modeling
+1426,ETL
+1426,Hadoop
+1426,Hive
+1426,NoSQL
+1426,SQL
+1426,SQL Server
+1426,Spark
+1427,AWS
+1427,Data Modeling
+1427,ETL
+1427,Java
+1427,Python
+1427,SQL
+1428,AWS
+1428,Azure
+1428,Data Modeling
+1428,Docker
+1428,GCP
+1428,Hadoop
+1428,Hive
+1428,Java
+1428,Kafka
+1428,Kubernetes
+1428,Machine Learning
+1428,MySQL
+1428,NoSQL
+1428,PostgreSQL
+1428,Python
+1428,Scala
+1428,Spark
+1429,R
+1430,Data Modeling
+1430,ETL
+1430,Hadoop
+1430,Hive
+1430,NoSQL
+1430,SQL
+1430,SQL Server
+1430,Spark
+1432,AWS
+1432,Azure
+1432,ETL
+1432,GCP
+1432,Git
+1432,Hadoop
+1432,Java
+1432,Kafka
+1432,Kubernetes
+1432,NoSQL
+1432,Oracle
+1432,Python
+1432,Spark
+1433,AWS
+1433,Data Modeling
+1433,Data Warehouse
+1433,ETL
+1433,Git
+1433,Linux
+1433,MySQL
+1433,Oracle
+1433,Python
+1433,SQL
+1434,Python
+1435,AWS
+1435,Azure
+1435,Docker
+1435,Git
+1435,Hadoop
+1435,Kubernetes
+1435,Machine Learning
+1435,MongoDB
+1435,MySQL
+1435,NoSQL
+1435,R
+1435,SQL
+1435,SQL Server
+1435,Spark
+1436,Data Modeling
+1436,ETL
+1436,SQL
+1436,SQL Server
+1436,Tableau
+1437,Data Modeling
+1437,Hadoop
+1437,Machine Learning
+1437,Spark
+1438,Java
+1438,Linux
+1438,Python
+1439,GCP
+1439,Git
+1439,Linux
+1439,Machine Learning
+1439,Python
+1439,R
+1440,Python
+1441,R
+1442,AWS
+1442,Python
+1442,R
+1442,SQL
+1443,NoSQL
+1443,Python
+1443,SQL
+1443,Scala
+1444,Git
+1444,Java
+1444,Linux
+1444,NoSQL
+1444,Python
+1445,Airflow
+1445,Data Warehouse
+1445,ETL
+1445,GCP
+1445,Java
+1445,NoSQL
+1445,PostgreSQL
+1445,SQL
+1445,Scala
+1447,R
+1448,AWS
+1448,Data Warehouse
+1448,ELT
+1448,ETL
+1448,Linux
+1448,Oracle
+1448,Python
+1448,Redshift
+1448,SQL
+1448,SQL Server
+1448,Snowflake
+1449,Data Warehouse
+1449,Power BI
+1449,Python
+1449,R
+1449,SQL
+1449,Snowflake
+1449,Tableau
+1450,Machine Learning
+1451,Data Warehouse
+1451,ETL
+1451,Python
+1451,SQL
+1451,SQL Server
+1451,Tableau
+1452,AWS
+1452,Airflow
+1452,Data Modeling
+1452,ETL
+1452,Redshift
+1452,Spark
+1453,AWS
+1453,Hadoop
+1453,Kafka
+1453,Linux
+1453,NoSQL
+1453,Python
+1453,Redshift
+1453,SQL
+1453,Scala
+1453,Spark
+1454,Docker
+1454,Kafka
+1454,Kubernetes
+1454,Machine Learning
+1454,Python
+1454,SQL
+1454,Snowflake
+1454,Spark
+1454,Tableau
+1455,Azure
+1455,R
+1455,SQL
+1456,Machine Learning
+1458,SQL
+1459,Airflow
+1459,Python
+1459,SQL
+1459,Tableau
+1460,Data Warehouse
+1460,ETL
+1460,SQL
+1460,SQL Server
+1460,Tableau
+1461,Linux
+1462,Linux
+1462,SQL
+1463,Data Warehouse
+1463,ETL
+1463,Java
+1463,Python
+1463,SQL
+1463,Snowflake
+1464,AWS
+1464,Data Warehouse
+1464,ETL
+1464,Java
+1464,Kafka
+1464,Python
+1464,Redshift
+1464,SQL
+1464,Scala
+1464,Snowflake
+1464,Spark
+1465,AWS
+1465,Redshift
+1465,SQL
+1467,Kafka
+1467,Kubernetes
+1467,Python
+1467,Scala
+1467,Spark
+1468,Data Modeling
+1468,Hadoop
+1468,Machine Learning
+1468,Spark
+1469,Data Warehouse
+1469,Linux
+1469,MySQL
+1469,Oracle
+1469,Python
+1469,SQL
+1470,R
+1472,AWS
+1472,Data Lake
+1472,Data Warehouse
+1472,ETL
+1472,Power BI
+1472,Python
+1472,Redshift
+1472,SQL
+1472,Spark
+1472,Tableau
+1473,Docker
+1473,Git
+1473,Java
+1473,Kubernetes
+1473,Oracle
+1473,SQL
+1474,AWS
+1474,Data Warehouse
+1474,ETL
+1474,Java
+1474,Kafka
+1474,Python
+1474,Redshift
+1474,SQL
+1474,Scala
+1474,Snowflake
+1474,Spark
+1475,Airflow
+1475,Data Warehouse
+1475,ETL
+1475,GCP
+1475,Java
+1475,NoSQL
+1475,PostgreSQL
+1475,SQL
+1475,Scala
+1476,Data Modeling
+1476,ETL
+1476,Hadoop
+1476,Hive
+1476,NoSQL
+1476,SQL
+1476,SQL Server
+1476,Spark
+1477,Linux
+1478,Linux
+1481,AWS
+1481,ETL
+1481,Python
+1481,SQL
+1482,Java
+1482,NoSQL
+1482,Python
+1482,SQL
+1483,Linux
+1483,Machine Learning
+1483,R
+1484,Linux
+1484,R
+1485,AWS
+1485,Java
+1486,Git
+1486,MySQL
+1486,NoSQL
+1486,Oracle
+1486,Python
+1486,SQL
+1487,Data Modeling
+1487,Oracle
+1487,Power BI
+1487,R
+1487,SQL
+1487,Tableau
+1488,Docker
+1488,Kubernetes
+1488,Linux
+1488,Python
+1489,Python
+1490,Java
+1492,AWS
+1492,Airflow
+1492,Data Warehouse
+1492,ETL
+1492,Hadoop
+1492,Hive
+1492,Java
+1492,Machine Learning
+1492,MySQL
+1492,Python
+1492,Scala
+1492,Snowflake
+1492,Spark
+1492,Tableau
+1495,Linux
+1495,SQL
+1496,Machine Learning
+1496,R
+1496,Spark
+1497,AWS
+1497,Docker
+1497,Git
+1497,Java
+1497,MongoDB
+1497,NoSQL
+1497,SQL
+1498,R
+1499,Data Modeling
+1499,ETL
+1499,Power BI
+1499,SQL
+1499,Tableau
+1500,Linux
+1500,Machine Learning
+1500,Python
+1501,Data Modeling
+1501,Java
+1501,MySQL
+1501,SQL
+1503,AWS
+1503,Oracle
+1503,Python
+1503,Redshift
+1503,Snowflake
+1504,Machine Learning
+1504,Python
+1504,R
+1506,AWS
+1506,Data Modeling
+1506,ETL
+1506,Java
+1506,Python
+1506,SQL
+1507,AWS
+1507,Data Warehouse
+1507,ETL
+1507,Hadoop
+1507,Hive
+1507,Java
+1507,Machine Learning
+1507,MySQL
+1507,Python
+1507,Scala
+1507,Spark
+1507,Tableau
+1509,Azure
+1509,ETL
+1509,SQL
+1510,AWS
+1510,Data Warehouse
+1510,ETL
+1510,Hadoop
+1510,Hive
+1510,Java
+1510,Machine Learning
+1510,MySQL
+1510,Python
+1510,Scala
+1510,Spark
+1510,Tableau
+1511,Java
+1511,Python
+1512,R
+1513,Machine Learning
+1513,Python
+1514,Linux
+1515,AWS
+1515,Azure
+1515,Java
+1515,Kafka
+1515,Kubernetes
+1515,Machine Learning
+1515,NoSQL
+1515,Python
+1515,Redshift
+1515,SQL
+1515,Scala
+1515,Spark
+1516,Oracle
+1516,R
+1518,AWS
+1518,Azure
+1518,GCP
+1518,Git
+1518,Java
+1518,Linux
+1518,MySQL
+1519,Azure
+1519,Git
+1519,Linux
+1519,Oracle
+1519,Python
+1519,SQL
+1519,SQL Server
+1520,Docker
+1520,Git
+1520,Java
+1520,Machine Learning
+1520,NoSQL
+1520,Python
+1520,SQL
+1521,AWS
+1521,Machine Learning
+1521,MongoDB
+1521,NoSQL
+1521,SQL
+1522,Azure
+1522,Git
+1522,Java
+1522,Oracle
+1522,Python
+1522,SQL
+1524,Azure
+1524,Java
+1524,MongoDB
+1524,Python
+1524,SQL
+1524,SQL Server
+1525,Azure
+1525,Java
+1525,MongoDB
+1525,Python
+1525,SQL
+1525,SQL Server
+1526,AWS
+1526,Azure
+1526,Docker
+1526,Git
+1526,Kubernetes
+1526,Python
+1527,Docker
+1527,Git
+1527,Java
+1527,Kubernetes
+1527,Oracle
+1527,SQL
+1528,R
+1530,Linux
+1531,Python
+1532,AWS
+1532,Java
+1532,Linux
+1532,Python
+1533,Data Warehouse
+1533,Linux
+1533,MySQL
+1533,Oracle
+1533,Python
+1533,SQL
+1534,Tableau
+1535,Linux
+1536,Java
+1536,Python
+1537,Git
+1537,Java
+1537,NoSQL
+1538,Data Warehouse
+1538,Linux
+1538,MySQL
+1538,Oracle
+1538,Python
+1538,SQL
+1539,Git
+1539,Java
+1539,NoSQL
+1539,SQL
+1540,ETL
+1540,MySQL
+1540,PostgreSQL
+1540,SQL
+1541,Docker
+1541,Java
+1541,Linux
+1541,Python
+1542,Data Warehouse
+1542,Oracle
+1542,SQL
+1542,SQL Server
+1543,AWS
+1543,Docker
+1543,GCP
+1543,Git
+1543,Kubernetes
+1543,Machine Learning
+1543,Python
+1544,AWS
+1544,Azure
+1544,Docker
+1544,Java
+1544,Kubernetes
+1544,Linux
+1544,PostgreSQL
+1544,SQL
+1545,AWS
+1545,Azure
+1545,GCP
+1545,Git
+1545,Java
+1545,Linux
+1545,MySQL
+1546,Docker
+1547,AWS
+1547,Git
+1547,Linux
+1547,MongoDB
+1547,Redshift
+1547,SQL
+1550,AWS
+1550,Azure
+1550,Docker
+1550,Java
+1550,Kubernetes
+1550,Python
+1551,AWS
+1551,Git
+1551,Linux
+1551,MongoDB
+1551,Redshift
+1551,SQL
+1552,AWS
+1552,Azure
+1553,Docker
+1553,Git
+1553,Kafka
+1553,Linux
+1553,Machine Learning
+1553,MongoDB
+1553,Python
+1554,Git
+1555,Java
+1555,Linux
+1555,MySQL
+1555,Oracle
+1555,SQL
+1558,AWS
+1558,Azure
+1558,Docker
+1558,GCP
+1558,Hadoop
+1558,Hive
+1558,Java
+1558,Kafka
+1558,Kubernetes
+1558,MySQL
+1558,NoSQL
+1558,PostgreSQL
+1558,Snowflake
+1558,Spark
+1559,Python
+1562,AWS
+1562,Docker
+1562,Git
+1562,Java
+1562,MongoDB
+1562,NoSQL
+1562,SQL
+1564,Git
+1564,Linux
+1564,MySQL
+1565,Java
+1566,Python
+1566,SQL
+1567,AWS
+1567,Azure
+1567,Docker
+1567,Java
+1567,Kubernetes
+1567,Linux
+1567,Oracle
+1567,PostgreSQL
+1567,SQL
+1568,Machine Learning
+1568,Python
+1568,R
+1569,Java
+1569,Linux
+1569,Machine Learning
+1569,Python
+1569,Scala
+1571,Machine Learning
+1571,Python
+1571,SQL
+1572,Git
+1572,Java
+1572,Linux
+1572,Python
+1573,Java
+1573,SQL
+1574,AWS
+1574,ETL
+1574,Hadoop
+1574,Linux
+1574,Oracle
+1574,Power BI
+1574,Python
+1574,R
+1574,SQL
+1574,SQL Server
+1574,Spark
+1574,Tableau
+1575,Java
+1575,Machine Learning
+1576,Java
+1576,Python
+1576,R
+1576,SQL
+1577,AWS
+1577,Azure
+1577,Docker
+1577,Java
+1577,Kubernetes
+1577,Python
+1577,R
+1578,R
+1579,AWS
+1579,Docker
+1579,Git
+1579,Linux
+1579,MongoDB
+1579,MySQL
+1579,NoSQL
+1580,Machine Learning
+1580,Python
+1580,R
+1581,Data Warehouse
+1581,ETL
+1581,Java
+1581,Python
+1581,SQL
+1581,Snowflake
+1581,Tableau
+1582,AWS
+1582,Docker
+1582,Git
+1582,Java
+1582,Linux
+1582,Machine Learning
+1582,MySQL
+1582,NoSQL
+1582,Oracle
+1582,SQL
+1582,SQL Server
+1584,Java
+1585,Python
+1585,R
+1586,Azure
+1586,Git
+1586,Java
+1586,Oracle
+1586,Python
+1586,SQL
+1587,Java
+1587,Linux
+1589,Java
+1589,Python
+1591,Machine Learning
+1591,Python
+1592,AWS
+1592,Docker
+1592,Kubernetes
+1592,NoSQL
+1593,AWS
+1593,Docker
+1593,GCP
+1593,Git
+1593,Kubernetes
+1593,Machine Learning
+1593,Python
+1594,AWS
+1594,Docker
+1594,GCP
+1594,Git
+1594,Kubernetes
+1594,Machine Learning
+1594,Python
+1595,Linux
+1596,Data Warehouse
+1596,ETL
+1596,Java
+1596,Python
+1596,SQL
+1596,Snowflake
+1596,Tableau
+1597,AWS
+1597,Azure
+1597,Data Lake
+1597,Data Warehouse
+1597,GCP
+1597,Hadoop
+1597,Hive
+1597,Kafka
+1597,Linux
+1597,NoSQL
+1597,Python
+1597,SQL
+1597,Spark
+1598,Data Warehouse
+1598,ETL
+1598,Oracle
+1598,SQL
+1599,AWS
+1599,Data Modeling
+1599,Data Warehouse
+1599,ETL
+1599,Hadoop
+1599,Hive
+1599,MySQL
+1599,Power BI
+1599,Python
+1599,Redshift
+1599,SQL
+1599,SQL Server
+1599,Spark
+1599,Tableau
+1600,MongoDB
+1600,MySQL
+1601,Azure
+1601,ETL
+1601,Hadoop
+1601,Hive
+1601,Java
+1601,Kafka
+1601,Linux
+1601,Machine Learning
+1601,Python
+1601,Scala
+1601,Spark
+1602,AWS
+1602,Airflow
+1602,Azure
+1602,Docker
+1602,GCP
+1602,Hadoop
+1602,Hive
+1602,Kafka
+1602,Kubernetes
+1602,Looker
+1602,MongoDB
+1602,NumPy
+1602,Oracle
+1602,Pandas
+1602,Power BI
+1602,Python
+1602,Redshift
+1602,Scala
+1602,Spark
+1603,ETL
+1603,Hadoop
+1603,Java
+1603,Python
+1603,R
+1603,SQL
+1604,Azure
+1604,Data Lake
+1604,Data Warehouse
+1604,Power BI
+1604,SQL
+1604,SQL Server
+1604,Tableau
+1605,Airflow
+1605,Azure
+1605,BigQuery
+1605,ETL
+1605,Git
+1605,Hadoop
+1605,Hive
+1605,Java
+1605,Kafka
+1605,NoSQL
+1605,Oracle
+1605,Python
+1605,R
+1605,Redshift
+1605,SQL
+1605,SQL Server
+1605,Scala
+1605,Snowflake
+1605,Spark
+1606,Git
+1606,SQL
+1607,Data Lake
+1607,ETL
+1607,Hadoop
+1607,Hive
+1607,Java
+1607,MongoDB
+1607,NoSQL
+1607,Python
+1607,SQL
+1607,Scala
+1607,Spark
+1608,AWS
+1608,Azure
+1608,ETL
+1608,GCP
+1608,Hive
+1608,Java
+1608,Machine Learning
+1608,Python
+1608,R
+1608,SQL
+1608,Scala
+1608,Spark
+1609,AWS
+1609,Hadoop
+1609,Kafka
+1609,NoSQL
+1609,Python
+1609,Redshift
+1609,SQL
+1609,Scala
+1609,Snowflake
+1609,Spark
+1610,Java
+1610,Kubernetes
+1610,Machine Learning
+1610,Python
+1611,ETL
+1611,Java
+1611,Python
+1611,SQL
+1611,Scala
+1611,Spark
+1612,Java
+1612,Kafka
+1612,Spark
+1613,Git
+1613,Hadoop
+1613,Hive
+1613,Java
+1613,NoSQL
+1613,Python
+1613,SQL
+1613,Spark
+1614,AWS
+1614,Data Lake
+1614,ETL
+1614,Hadoop
+1614,Java
+1614,Linux
+1614,NoSQL
+1614,Python
+1614,SQL
+1614,Scala
+1614,Spark
+1614,Tableau
+1615,Data Modeling
+1615,Data Warehouse
+1615,Java
+1615,Machine Learning
+1615,NoSQL
+1615,Python
+1615,SQL
+1615,Tableau
+1616,AWS
+1616,Azure
+1616,Data Lake
+1616,Data Warehouse
+1616,GCP
+1616,Hadoop
+1616,Hive
+1616,Kafka
+1616,Linux
+1616,NoSQL
+1616,Python
+1616,SQL
+1616,Spark
+1619,Hadoop
+1619,Kubernetes
+1619,Machine Learning
+1619,MongoDB
+1619,NoSQL
+1619,Python
+1619,Spark
+1620,Java
+1620,MongoDB
+1620,MySQL
+1620,NoSQL
+1620,Oracle
+1621,Azure
+1621,Data Lake
+1621,Data Modeling
+1621,Data Warehouse
+1621,ETL
+1621,Machine Learning
+1621,Power BI
+1621,R
+1621,SQL
+1621,SQL Server
+1622,AWS
+1622,Azure
+1622,Java
+1622,Kafka
+1622,NoSQL
+1622,Python
+1622,SQL
+1622,Scala
+1622,Spark
+1623,Data Lake
+1623,ETL
+1623,Hadoop
+1623,Hive
+1623,Java
+1623,MongoDB
+1623,NoSQL
+1623,PostgreSQL
+1623,Python
+1623,SQL
+1623,Scala
+1623,Spark
+1624,AWS
+1624,MongoDB
+1624,NoSQL
+1624,Python
+1624,Redshift
+1624,SQL
+1624,Scala
+1625,ETL
+1625,Hadoop
+1625,Hive
+1625,Java
+1625,Linux
+1625,MongoDB
+1625,NoSQL
+1625,Python
+1625,SQL
+1625,Scala
+1625,Spark
+1626,Azure
+1626,ELT
+1626,ETL
+1626,Hadoop
+1626,Hive
+1626,Linux
+1626,Python
+1626,SQL
+1626,Spark
+1627,ETL
+1627,Hadoop
+1627,Java
+1627,Python
+1627,R
+1627,SQL
+1628,Data Lake
+1628,ETL
+1628,Hadoop
+1628,Hive
+1628,Java
+1628,MongoDB
+1628,NoSQL
+1628,Python
+1628,SQL
+1628,Scala
+1628,Spark
+1629,AWS
+1629,Azure
+1629,Data Lake
+1629,Data Warehouse
+1629,GCP
+1629,Hadoop
+1629,Hive
+1629,Kafka
+1629,Linux
+1629,NoSQL
+1629,Python
+1629,SQL
+1629,Spark
+1630,Git
+1630,Java
+1631,AWS
+1631,Hadoop
+1631,Kafka
+1631,NoSQL
+1631,Python
+1631,Redshift
+1631,SQL
+1631,Scala
+1631,Snowflake
+1631,Spark
+1632,AWS
+1632,Data Warehouse
+1632,ETL
+1632,Kafka
+1632,Python
+1632,SQL
+1632,Snowflake
+1632,Spark
+1633,AWS
+1633,Data Lake
+1633,Python
+1634,ETL
+1634,Java
+1634,Linux
+1634,Python
+1634,R
+1634,Scala
+1635,Machine Learning
+1635,Python
+1636,AWS
+1636,Azure
+1636,Docker
+1636,ETL
+1636,GCP
+1636,Hadoop
+1636,Java
+1636,Kafka
+1636,Kubernetes
+1636,Linux
+1636,Machine Learning
+1636,NoSQL
+1636,Python
+1636,SQL
+1636,Scala
+1636,Spark
+1637,Azure
+1637,Data Lake
+1637,Data Warehouse
+1637,Power BI
+1637,SQL
+1637,SQL Server
+1637,Tableau
+1638,AWS
+1638,ELT
+1638,ETL
+1638,Snowflake
+1638,dbt
+1639,AWS
+1639,Data Modeling
+1639,Data Warehouse
+1639,ELT
+1639,ETL
+1639,Git
+1639,Hadoop
+1639,Hive
+1639,Java
+1639,Kafka
+1639,Python
+1639,Redshift
+1639,Spark
+1640,Azure
+1640,ELT
+1640,ETL
+1640,Hadoop
+1640,Hive
+1640,Linux
+1640,Python
+1640,SQL
+1640,Spark
+1642,AWS
+1642,Git
+1642,Python
+1642,Scala
+1642,Spark
+1643,Airflow
+1643,ETL
+1643,Git
+1643,Hadoop
+1643,Hive
+1643,Java
+1643,Kafka
+1643,Python
+1643,R
+1643,SQL
+1643,Scala
+1643,Spark
+1643,Tableau
+1644,AWS
+1644,Data Lake
+1644,Java
+1644,Kafka
+1644,MongoDB
+1644,NoSQL
+1644,Python
+1644,R
+1644,Redshift
+1644,Scala
+1644,Spark
+1645,AWS
+1645,Azure
+1645,Java
+1645,Machine Learning
+1645,MongoDB
+1645,MySQL
+1645,NoSQL
+1645,Pandas
+1645,PostgreSQL
+1645,Python
+1645,R
+1645,SQL
+1645,Scala
+1645,Spark
+1646,ETL
+1646,Hadoop
+1646,Hive
+1646,Kafka
+1646,Machine Learning
+1646,Python
+1646,SQL
+1646,Scala
+1646,Spark
+1648,AWS
+1648,Data Modeling
+1648,Hive
+1648,SQL
+1648,Tableau
+1649,Azure
+1649,Power BI
+1649,SQL
+1649,SQL Server
+1650,Linux
+1651,Hadoop
+1651,Hive
+1651,Kafka
+1651,Scala
+1651,Spark
+1652,AWS
+1652,MySQL
+1652,SQL
+1652,SQL Server
+1653,Data Lake
+1653,Hadoop
+1653,Hive
+1653,Kafka
+1653,Python
+1653,Scala
+1653,Spark
+1654,Data Lake
+1654,ELT
+1654,Hadoop
+1654,Java
+1654,Kafka
+1654,Python
+1654,R
+1654,Spark
+1655,AWS
+1655,Azure
+1655,Java
+1655,Kafka
+1655,NoSQL
+1655,Python
+1655,SQL
+1655,Scala
+1655,Spark
+1656,Data Warehouse
+1656,ETL
+1656,Oracle
+1656,SQL
+1657,ETL
+1657,Hadoop
+1657,Hive
+1657,Kafka
+1657,Python
+1657,SQL
+1657,Spark
+1658,AWS
+1658,ETL
+1658,Hadoop
+1658,Kafka
+1658,MongoDB
+1658,MySQL
+1658,Oracle
+1658,Python
+1658,R
+1658,SQL
+1658,SQL Server
+1658,Scala
+1658,Spark
+1659,ETL
+1659,Hadoop
+1659,Hive
+1659,Java
+1659,Linux
+1659,MongoDB
+1659,NoSQL
+1659,Python
+1659,SQL
+1659,Scala
+1659,Spark
+1660,Data Lake
+1660,ETL
+1660,Hadoop
+1660,Hive
+1660,Java
+1660,MongoDB
+1660,NoSQL
+1660,PostgreSQL
+1660,Python
+1660,SQL
+1660,Scala
+1660,Spark
+1661,AWS
+1661,Azure
+1661,Hadoop
+1661,Hive
+1661,Kafka
+1661,Machine Learning
+1661,MongoDB
+1661,NoSQL
+1661,Python
+1661,Spark
+1662,Azure
+1662,Data Warehouse
+1662,ETL
+1662,Python
+1662,Redshift
+1662,SQL
+1662,Snowflake
+1663,AWS
+1663,Kafka
+1663,SQL
+1663,Spark
+1664,AWS
+1664,Azure
+1664,Data Warehouse
+1664,GCP
+1664,Hadoop
+1664,Hive
+1664,Kafka
+1664,NoSQL
+1664,Python
+1664,SQL
+1664,Spark
+1665,AWS
+1665,Hadoop
+1665,Hive
+1665,Kafka
+1665,NoSQL
+1665,Python
+1665,Redshift
+1665,SQL
+1665,Scala
+1665,Snowflake
+1665,Spark
+1666,Hadoop
+1666,Hive
+1666,Java
+1666,Kafka
+1666,Linux
+1666,Python
+1666,SQL
+1666,Spark
+1667,Data Modeling
+1667,SQL
+1667,SQL Server
+1668,AWS
+1668,Azure
+1668,Data Modeling
+1668,Data Warehouse
+1668,ELT
+1668,ETL
+1668,GCP
+1668,Hive
+1668,Java
+1668,Machine Learning
+1668,MySQL
+1668,Oracle
+1668,Python
+1668,Redshift
+1668,SQL
+1668,Scala
+1668,Spark
+1669,AWS
+1669,Airflow
+1669,Azure
+1669,Data Lake
+1669,Data Modeling
+1669,ETL
+1669,Kafka
+1669,NoSQL
+1669,Python
+1669,R
+1669,Redshift
+1669,SQL
+1669,SQL Server
+1669,Snowflake
+1669,Tableau
+1670,Azure
+1670,Data Lake
+1670,ETL
+1670,Git
+1670,Hive
+1670,SQL
+1670,Scala
+1670,Spark
+1671,AWS
+1671,Hadoop
+1671,Hive
+1671,Java
+1671,Kafka
+1671,NoSQL
+1671,SQL
+1671,Scala
+1671,Spark
+1672,AWS
+1672,Azure
+1672,ETL
+1672,Hadoop
+1672,Hive
+1672,Kafka
+1672,Machine Learning
+1672,Python
+1672,SQL
+1672,Spark
+1674,ETL
+1674,SQL
+1674,SQL Server
+1674,Snowflake
+1675,Data Warehouse
+1675,ETL
+1675,Oracle
+1675,SQL
+1676,Hive
+1676,Kafka
+1676,Spark
+1676,Tableau
+1678,AWS
+1678,Azure
+1678,Data Modeling
+1678,SQL
+1678,SQL Server
+1679,AWS
+1679,Docker
+1679,Kubernetes
+1680,Azure
+1680,Data Lake
+1680,Data Modeling
+1680,Data Warehouse
+1680,Hive
+1680,Java
+1680,Kafka
+1680,Python
+1680,SQL
+1680,Scala
+1682,Linux
+1682,Machine Learning
+1682,Python
+1683,ETL
+1683,Linux
+1683,SQL
+1683,SQL Server
+1684,AWS
+1684,Hadoop
+1684,Hive
+1684,Spark
+1685,Hadoop
+1685,Hive
+1685,Python
+1685,SQL
+1686,Linux
+1686,Python
+1687,Linux
+1688,Azure
+1688,Data Lake
+1688,Data Warehouse
+1688,ETL
+1688,Power BI
+1688,Python
+1688,SQL
+1688,SQL Server
+1689,Hadoop
+1689,Java
+1689,Kafka
+1689,Python
+1689,SQL
+1689,Scala
+1689,Spark
+1690,Git
+1690,Hadoop
+1690,Hive
+1690,Java
+1690,Machine Learning
+1690,NoSQL
+1690,Python
+1690,SQL
+1690,Spark
+1691,Airflow
+1691,ETL
+1691,Git
+1691,Hadoop
+1691,Hive
+1691,Java
+1691,Kafka
+1691,Python
+1691,R
+1691,SQL
+1691,Scala
+1691,Spark
+1691,Tableau
+1692,Oracle
+1692,Power BI
+1692,SQL
+1693,AWS
+1693,Azure
+1693,Hadoop
+1693,Java
+1693,Kafka
+1693,Machine Learning
+1693,MongoDB
+1693,MySQL
+1693,NoSQL
+1693,Pandas
+1693,PostgreSQL
+1693,Python
+1693,R
+1693,SQL
+1693,Spark
+1694,ETL
+1694,Linux
+1694,SQL
+1694,SQL Server
+1696,AWS
+1696,Airflow
+1696,Hadoop
+1696,Java
+1696,Kafka
+1696,Machine Learning
+1696,MongoDB
+1696,NoSQL
+1696,Pandas
+1696,Python
+1696,Redshift
+1696,SQL
+1696,Scala
+1696,Spark
+1697,Machine Learning
+1698,Linux
+1698,Python
+1699,Hadoop
+1699,Hive
+1699,Spark
+1700,Data Lake
+1700,Hadoop
+1700,Hive
+1700,Kafka
+1700,Python
+1700,Scala
+1700,Spark
+1701,AWS
+1701,Hadoop
+1701,Hive
+1701,Kafka
+1701,NoSQL
+1701,Python
+1701,Redshift
+1701,SQL
+1701,Scala
+1701,Snowflake
+1701,Spark
+1702,AWS
+1702,Hadoop
+1702,Hive
+1702,Kafka
+1702,NoSQL
+1702,Python
+1702,Redshift
+1702,SQL
+1702,Scala
+1702,Snowflake
+1702,Spark
+1703,Hadoop
+1703,Java
+1703,Machine Learning
+1703,NumPy
+1703,Pandas
+1703,Python
+1703,SQL
+1703,Scala
+1703,Spark
+1704,Kafka
+1705,Linux
+1706,AWS
+1706,Python
+1706,SQL
+1706,Spark
+1707,Data Warehouse
+1707,ETL
+1707,Oracle
+1707,SQL
+1708,AWS
+1708,Hadoop
+1708,Hive
+1708,Java
+1708,Kafka
+1708,Python
+1708,SQL
+1708,Spark
+1710,Data Modeling
+1710,ETL
+1710,Hadoop
+1710,Hive
+1710,Java
+1710,Oracle
+1710,Python
+1710,R
+1710,SQL
+1710,SQL Server
+1710,Spark
+1711,AWS
+1711,Hadoop
+1711,Java
+1711,Python
+1711,Scala
+1711,Spark
+1711,Tableau
+1712,AWS
+1712,Docker
+1712,Git
+1712,Kubernetes
+1712,Linux
+1712,MySQL
+1712,Python
+1713,AWS
+1713,Hadoop
+1713,Java
+1713,Python
+1713,Scala
+1713,Spark
+1713,Tableau
+1714,Hadoop
+1714,Hive
+1714,Kafka
+1714,Scala
+1714,Spark
+1715,AWS
+1715,Azure
+1715,Data Modeling
+1715,Data Warehouse
+1715,ELT
+1715,ETL
+1715,GCP
+1715,Hive
+1715,Java
+1715,Machine Learning
+1715,MySQL
+1715,Oracle
+1715,Python
+1715,Redshift
+1715,SQL
+1715,Scala
+1715,Spark
+1716,AWS
+1716,Python
+1717,AWS
+1717,Azure
+1717,ETL
+1717,Hadoop
+1717,Hive
+1717,Kafka
+1717,Machine Learning
+1717,Python
+1717,SQL
+1717,Spark
+1718,AWS
+1718,ETL
+1718,Hadoop
+1718,Hive
+1718,Java
+1718,Oracle
+1718,Python
+1718,SQL
+1718,Spark
+1718,Tableau
+1719,Git
+1719,Hadoop
+1719,Machine Learning
+1719,Python
+1719,R
+1719,SQL
+1719,Spark
+1720,ETL
+1720,SQL
+1720,SQL Server
+1720,Snowflake
+1721,AWS
+1721,Airflow
+1721,ETL
+1721,Hadoop
+1721,Hive
+1721,Kafka
+1721,Linux
+1721,Machine Learning
+1721,Python
+1721,Spark
+1722,AWS
+1722,Azure
+1722,ETL
+1722,Hadoop
+1722,Java
+1722,Kafka
+1722,Machine Learning
+1722,Python
+1722,R
+1722,SQL
+1722,Scala
+1722,Spark
+1723,AWS
+1723,Azure
+1723,Docker
+1723,Hadoop
+1723,Java
+1723,Kafka
+1723,Linux
+1723,NoSQL
+1723,Python
+1723,SQL
+1723,Scala
+1723,Spark
+1724,Azure
+1724,Data Lake
+1724,ETL
+1724,Git
+1724,Hive
+1724,SQL
+1724,Scala
+1724,Spark
+1725,AWS
+1725,Data Modeling
+1725,Data Warehouse
+1725,Git
+1725,Linux
+1725,MongoDB
+1725,MySQL
+1725,Oracle
+1725,PostgreSQL
+1725,Python
+1725,Redshift
+1725,SQL
+1725,SQL Server
+1726,Java
+1726,Python
+1726,Scala
+1726,Snowflake
+1727,SQL
+1729,Azure
+1729,Data Lake
+1730,Data Modeling
+1730,SQL
+1730,Snowflake
+1730,Tableau
+1732,Airflow
+1732,Hadoop
+1732,Hive
+1732,Java
+1732,Kafka
+1732,Machine Learning
+1732,Python
+1732,R
+1732,SQL
+1732,Scala
+1732,Spark
+1733,AWS
+1733,Azure
+1733,Data Warehouse
+1733,Java
+1733,MySQL
+1733,Python
+1733,Redshift
+1734,Data Lake
+1734,Hadoop
+1734,Hive
+1734,Spark
+1735,Oracle
+1735,Power BI
+1735,SQL
+1736,Data Lake
+1736,Hadoop
+1736,Hive
+1736,Kafka
+1736,Python
+1736,Scala
+1736,Spark
+1737,ETL
+1738,AWS
+1738,Azure
+1738,Data Warehouse
+1738,Java
+1738,MySQL
+1738,Python
+1738,Redshift
+1739,AWS
+1739,Airflow
+1739,Azure
+1739,Docker
+1739,Hadoop
+1739,Java
+1739,Kafka
+1739,Kubernetes
+1739,MongoDB
+1739,MySQL
+1739,NoSQL
+1739,Python
+1739,SQL
+1739,SQL Server
+1739,Scala
+1739,Spark
+1740,Python
+1740,SQL
+1740,Spark
+1741,AWS
+1741,Hadoop
+1741,Java
+1741,Kafka
+1741,Machine Learning
+1741,NoSQL
+1741,Python
+1741,Redshift
+1741,SQL
+1741,Spark
+1742,AWS
+1742,Azure
+1742,Hadoop
+1742,Java
+1742,Kafka
+1742,MongoDB
+1742,NoSQL
+1742,Python
+1742,R
+1742,Scala
+1742,Spark
+1743,Git
+1743,Hadoop
+1743,Hive
+1743,Java
+1743,Machine Learning
+1743,NoSQL
+1743,Python
+1743,SQL
+1743,Spark
+1745,Azure
+1745,Hive
+1745,SQL
+1746,Azure
+1746,Snowflake
+1747,ETL
+1748,AWS
+1748,Data Lake
+1748,Java
+1748,Kafka
+1748,MongoDB
+1748,NoSQL
+1748,Python
+1748,R
+1748,Redshift
+1748,Scala
+1748,Spark
+1749,Docker
+1749,Hadoop
+1749,Machine Learning
+1749,Python
+1749,SQL
+1749,Spark
+1750,Python
+1750,SQL
+1750,Spark
+1751,Azure
+1751,Data Lake
+1751,Data Modeling
+1751,Data Warehouse
+1751,Java
+1751,Kafka
+1751,Python
+1751,SQL
+1751,Scala
+1752,Data Lake
+1752,Hadoop
+1752,Hive
+1752,Kafka
+1752,Python
+1752,Scala
+1752,Spark
+1753,ETL
+1753,Hadoop
+1753,Hive
+1753,Java
+1753,Linux
+1753,MongoDB
+1753,NoSQL
+1753,Python
+1753,SQL
+1753,Spark
+1754,AWS
+1754,Azure
+1754,Docker
+1754,Hadoop
+1754,Java
+1754,Kafka
+1754,Linux
+1754,NoSQL
+1754,Python
+1754,SQL
+1754,Scala
+1754,Spark
+1755,Machine Learning
+1755,Python
+1756,ETL
+1756,Git
+1756,Hadoop
+1756,Hive
+1756,Java
+1756,Kafka
+1756,Linux
+1756,MySQL
+1756,Python
+1756,SQL
+1756,Scala
+1756,Spark
+1757,AWS
+1757,Azure
+1757,Hadoop
+1757,Java
+1757,Kafka
+1757,Machine Learning
+1757,MongoDB
+1757,MySQL
+1757,NoSQL
+1757,Pandas
+1757,PostgreSQL
+1757,Python
+1757,R
+1757,SQL
+1757,Spark
+1758,GCP
+1758,Hadoop
+1758,Python
+1758,SQL
+1758,Spark
+1759,Git
+1759,Hadoop
+1759,Hive
+1759,Java
+1759,Kafka
+1759,Machine Learning
+1759,NoSQL
+1759,Oracle
+1759,SQL
+1759,Spark
+1760,AWS
+1760,Data Lake
+1760,Java
+1760,MongoDB
+1760,NoSQL
+1760,Python
+1760,Scala
+1760,Spark
+1761,Machine Learning
+1761,Python
+1761,R
+1763,Hadoop
+1763,Hive
+1763,Machine Learning
+1763,Python
+1763,SQL
+1763,Tableau
+1764,Hadoop
+1764,Hive
+1764,Machine Learning
+1764,Python
+1764,SQL
+1764,Tableau
+1765,Git
+1765,Hadoop
+1765,Hive
+1765,Java
+1765,Machine Learning
+1765,NoSQL
+1765,Python
+1765,SQL
+1765,Spark
+1766,Machine Learning
+1766,Python
+1767,AWS
+1767,Azure
+1768,AWS
+1768,ETL
+1768,Hadoop
+1768,Java
+1768,Python
+1768,SQL
+1768,Scala
+1768,Snowflake
+1768,Spark
+1769,Azure
+1769,Java
+1769,Oracle
+1769,Power BI
+1769,Python
+1769,SQL
+1769,SQL Server
+1769,Tableau
+1770,AWS
+1770,ETL
+1770,GCP
+1770,Hadoop
+1770,Java
+1770,Kafka
+1770,Python
+1770,Scala
+1771,Azure
+1771,Data Lake
+1771,Data Modeling
+1771,Data Warehouse
+1771,Java
+1771,Kafka
+1771,Python
+1771,SQL
+1771,Scala
+1772,Power BI
+1772,SQL
+1773,Git
+1773,Hadoop
+1773,Hive
+1773,Java
+1773,Machine Learning
+1773,NoSQL
+1773,Python
+1773,SQL
+1773,Spark
+1774,Data Modeling
+1774,SQL
+1774,Snowflake
+1774,Tableau
+1775,AWS
+1775,Azure
+1775,Hadoop
+1775,Java
+1775,Kafka
+1775,Machine Learning
+1775,MongoDB
+1775,MySQL
+1775,NoSQL
+1775,Pandas
+1775,PostgreSQL
+1775,Python
+1775,R
+1775,SQL
+1775,Spark
+1776,Git
+1776,Hadoop
+1776,Hive
+1776,Java
+1776,Machine Learning
+1776,NoSQL
+1776,Python
+1776,SQL
+1776,Spark
+1777,ETL
+1777,Hadoop
+1777,Hive
+1777,Java
+1777,Python
+1777,SQL
+1777,Spark
+1777,Tableau
+1778,AWS
+1778,Azure
+1778,BigQuery
+1778,ETL
+1778,GCP
+1778,Hadoop
+1778,Java
+1778,Python
+1778,Redshift
+1778,SQL
+1778,Snowflake
+1778,Spark
+1779,AWS
+1779,Git
+1779,Hive
+1779,Java
+1779,NoSQL
+1779,Python
+1779,Redshift
+1779,SQL
+1779,Spark
+1780,AWS
+1780,Azure
+1780,Java
+1780,Kafka
+1780,NoSQL
+1780,Python
+1780,SQL
+1780,Scala
+1780,Spark
+1781,Hadoop
+1781,Hive
+1781,Python
+1781,SQL
+1782,AWS
+1782,Azure
+1782,Java
+1782,Kafka
+1782,NoSQL
+1782,Python
+1782,SQL
+1782,Scala
+1782,Spark
+1783,Docker
+1783,ETL
+1783,Machine Learning
+1783,Python
+1783,SQL
+1784,AWS
+1784,Azure
+1784,Docker
+1784,Hadoop
+1784,Java
+1784,Kafka
+1784,Linux
+1784,NoSQL
+1784,Python
+1784,SQL
+1784,Scala
+1784,Spark
+1786,AWS
+1786,ETL
+1786,Hadoop
+1786,Java
+1786,Python
+1786,SQL
+1786,Scala
+1786,Snowflake
+1786,Spark
+1787,Spark
+1788,Git
+1788,Hadoop
+1788,Hive
+1788,Java
+1788,NoSQL
+1788,Python
+1788,SQL
+1788,Spark
+1789,Data Lake
+1789,ETL
+1789,Hive
+1789,Java
+1789,Kafka
+1789,MongoDB
+1789,NoSQL
+1789,Oracle
+1789,Python
+1789,Scala
+1789,Spark
+1790,AWS
+1790,Airflow
+1790,Hadoop
+1790,Hive
+1790,Java
+1790,Kafka
+1790,Machine Learning
+1790,MongoDB
+1790,NoSQL
+1790,Python
+1790,SQL
+1790,Scala
+1790,Spark
+1790,Tableau
+1792,AWS
+1792,SQL
+1792,Spark
+1792,Tableau
+1794,AWS
+1794,Data Lake
+1794,Data Warehouse
+1794,Java
+1794,Kafka
+1794,Python
+1794,Spark
+1795,AWS
+1795,Data Lake
+1795,Data Modeling
+1795,ELT
+1795,ETL
+1795,Hadoop
+1795,Hive
+1795,Java
+1795,Kafka
+1795,NoSQL
+1795,Python
+1795,SQL
+1795,Spark
+1795,Tableau
+1796,Hadoop
+1796,Machine Learning
+1796,Python
+1796,R
+1796,Scala
+1796,Spark
+1797,AWS
+1797,Azure
+1797,Data Warehouse
+1797,ETL
+1797,NoSQL
+1797,Python
+1797,SQL
+1798,AWS
+1798,GCP
+1798,Java
+1798,Kafka
+1798,Machine Learning
+1798,NumPy
+1798,Python
+1798,Scala
+1798,Spark
+1799,Machine Learning
+1799,R
+1800,Java
+1800,SQL
+1801,AWS
+1801,Azure
+1801,GCP
+1801,Java
+1802,Java
+1802,Machine Learning
+1802,NumPy
+1802,Pandas
+1802,Python
+1803,R
+1804,AWS
+1804,Azure
+1804,GCP
+1804,Java
+1806,Machine Learning
+1806,Python
+1807,ETL
+1807,Hadoop
+1807,Hive
+1807,Java
+1807,Linux
+1807,Machine Learning
+1807,NoSQL
+1807,Python
+1807,R
+1807,SQL
+1808,AWS
+1808,Azure
+1808,GCP
+1808,Java
+1808,Machine Learning
+1808,Python
+1808,R
+1808,SQL
+1809,Hadoop
+1809,Java
+1809,Kafka
+1809,Scala
+1809,Spark
+1810,ETL
+1810,Hadoop
+1810,Hive
+1810,Java
+1810,Kafka
+1810,Machine Learning
+1810,NumPy
+1810,Python
+1810,Redshift
+1810,Scala
+1810,Spark
+1811,AWS
+1811,Spark
+1812,ETL
+1812,Hadoop
+1812,Hive
+1812,Java
+1812,Kafka
+1812,Linux
+1812,Python
+1812,R
+1812,SQL
+1812,Scala
+1812,Spark
+1812,Tableau
+1813,Java
+1813,Python
+1813,R
+1813,SQL
+1814,Java
+1814,SQL
+1815,Java
+1815,Machine Learning
+1815,Python
+1815,SQL
+1816,AWS
+1816,Airflow
+1816,Data Modeling
+1816,ETL
+1816,Git
+1816,Hive
+1816,Java
+1816,Machine Learning
+1816,MongoDB
+1816,NoSQL
+1816,Python
+1816,SQL
+1816,Scala
+1816,Snowflake
+1816,Spark
+1816,Tableau
+1817,Linux
+1818,BigQuery
+1818,Docker
+1818,GCP
+1818,Hadoop
+1818,Hive
+1818,Java
+1818,Kubernetes
+1818,Machine Learning
+1818,Python
+1818,Spark
+1819,AWS
+1819,Airflow
+1819,Azure
+1819,ETL
+1819,Hadoop
+1819,Hive
+1819,Java
+1819,Looker
+1819,Machine Learning
+1819,MySQL
+1819,PostgreSQL
+1819,Python
+1819,Redshift
+1819,SQL
+1819,Scala
+1819,Spark
+1819,Tableau
+1820,ETL
+1820,Hadoop
+1820,Java
+1820,Kafka
+1820,NoSQL
+1820,PostgreSQL
+1820,Python
+1820,SQL
+1820,Spark
+1821,AWS
+1821,Java
+1821,Linux
+1821,Machine Learning
+1821,Python
+1821,Redshift
+1821,SQL
+1821,Scala
+1821,Spark
+1822,Java
+1822,Machine Learning
+1822,Python
+1823,Kubernetes
+1823,Linux
+1823,Python
+1824,AWS
+1824,Hadoop
+1824,Java
+1824,Kubernetes
+1824,Python
+1824,Spark
+1826,Airflow
+1826,Java
+1826,Kafka
+1826,Python
+1826,SQL
+1826,Scala
+1826,Spark
+1827,AWS
+1827,Azure
+1827,GCP
+1827,Java
+1828,ETL
+1828,Hadoop
+1828,Hive
+1828,Java
+1828,Linux
+1828,Machine Learning
+1828,NoSQL
+1828,Python
+1828,R
+1828,SQL
+1829,Data Modeling
+1829,Hadoop
+1829,Java
+1829,Kafka
+1829,Machine Learning
+1829,Python
+1829,Scala
+1830,Kafka
+1830,NoSQL
+1830,Python
+1830,Spark
+1831,Data Lake
+1831,Machine Learning
+1831,Python
+1831,R
+1831,Spark
+1832,Linux
+1832,Python
+1833,Java
+1833,MongoDB
+1833,MySQL
+1833,NoSQL
+1833,Python
+1833,Scala
+1834,Hive
+1834,Java
+1834,SQL
+1834,Tableau
+1835,Data Warehouse
+1835,ETL
+1835,Hadoop
+1835,Hive
+1835,Java
+1835,Kafka
+1835,Python
+1835,Spark
+1835,Tableau
+1836,AWS
+1836,Azure
+1836,Docker
+1836,Java
+1836,Kafka
+1836,Kubernetes
+1837,AWS
+1837,Azure
+1837,GCP
+1837,Machine Learning
+1837,Python
+1837,R
+1837,SQL
+1838,AWS
+1838,Data Modeling
+1838,ETL
+1838,GCP
+1838,Git
+1838,Hadoop
+1838,Hive
+1838,Linux
+1838,Machine Learning
+1838,Python
+1838,R
+1838,SQL
+1838,SQL Server
+1838,Spark
+1839,AWS
+1839,ETL
+1839,Hadoop
+1839,Hive
+1839,Java
+1839,NoSQL
+1839,Python
+1839,SQL
+1840,Machine Learning
+1840,Python
+1840,Tableau
+1841,Airflow
+1841,Hadoop
+1841,Java
+1841,Linux
+1841,Machine Learning
+1841,NoSQL
+1841,Python
+1841,SQL
+1841,Spark
+1842,AWS
+1842,Airflow
+1842,Azure
+1842,BigQuery
+1842,Data Modeling
+1842,Data Warehouse
+1842,Docker
+1842,ELT
+1842,ETL
+1842,GCP
+1842,Git
+1842,Hadoop
+1842,NoSQL
+1842,Python
+1842,Redshift
+1842,SQL
+1842,Snowflake
+1842,Spark
+1843,BigQuery
+1843,Linux
+1843,Python
+1843,Redshift
+1843,SQL
+1843,Spark
+1843,Tableau
+1844,Data Modeling
+1844,Data Warehouse
+1844,ETL
+1844,Python
+1844,R
+1844,SQL
+1844,SQL Server
+1844,Snowflake
+1844,Tableau
+1845,Data Warehouse
+1845,ETL
+1845,Kafka
+1845,Python
+1845,SQL
+1846,Data Modeling
+1846,Java
+1846,Python
+1846,SQL
+1847,Hadoop
+1847,Hive
+1847,Spark
+1848,Data Warehouse
+1848,Hadoop
+1848,Hive
+1848,Java
+1848,Kafka
+1848,Python
+1848,SQL
+1848,Scala
+1848,Spark
+1849,Docker
+1849,Linux
+1849,Python
+1850,AWS
+1850,BigQuery
+1850,GCP
+1850,Java
+1850,MongoDB
+1850,Python
+1851,Data Lake
+1851,Hadoop
+1851,Hive
+1851,Java
+1851,Kafka
+1851,Kubernetes
+1851,Linux
+1851,Machine Learning
+1851,MySQL
+1851,NoSQL
+1851,Python
+1851,SQL
+1851,Scala
+1851,Spark
+1852,AWS
+1852,Hadoop
+1852,Java
+1852,Kafka
+1852,Kubernetes
+1852,Machine Learning
+1852,Python
+1852,R
+1852,Redshift
+1852,Spark
+1853,AWS
+1853,Airflow
+1853,Azure
+1853,BigQuery
+1853,Data Modeling
+1853,Data Warehouse
+1853,ETL
+1853,Hive
+1853,Python
+1853,Redshift
+1853,SQL
+1853,Spark
+1854,Data Modeling
+1854,Java
+1854,Machine Learning
+1854,Python
+1854,Scala
+1854,Spark
+1855,Data Warehouse
+1855,Power BI
+1855,Python
+1855,R
+1855,SQL
+1855,Snowflake
+1855,Tableau
+1856,Data Modeling
+1856,Data Warehouse
+1856,ETL
+1856,Python
+1856,R
+1856,SQL
+1856,SQL Server
+1856,Snowflake
+1856,Tableau
+1857,Airflow
+1857,Data Warehouse
+1857,ETL
+1857,Hadoop
+1857,Hive
+1857,Java
+1857,Python
+1857,SQL
+1857,Spark
+1857,Tableau
+1858,Python
+1858,SQL
+1859,Hadoop
+1859,Java
+1859,Kafka
+1859,Scala
+1859,Spark
+1860,ETL
+1860,Hadoop
+1860,Hive
+1860,Java
+1860,Kafka
+1860,Linux
+1860,Python
+1860,R
+1860,SQL
+1860,Scala
+1860,Spark
+1860,Tableau
+1861,Python
+1861,SQL
+1862,Airflow
+1862,Data Modeling
+1862,Kafka
+1862,Machine Learning
+1862,Python
+1862,R
+1862,Spark
+1863,AWS
+1863,Docker
+1863,Python
+1864,AWS
+1864,ETL
+1864,Hadoop
+1864,Hive
+1864,Java
+1864,Machine Learning
+1864,Python
+1864,SQL
+1864,Scala
+1864,Spark
+1865,AWS
+1865,Azure
+1865,BigQuery
+1865,Data Lake
+1865,Data Modeling
+1865,Docker
+1865,ETL
+1865,Hadoop
+1865,Hive
+1865,Java
+1865,Kafka
+1865,Kubernetes
+1865,MongoDB
+1865,MySQL
+1865,NoSQL
+1865,Oracle
+1865,PostgreSQL
+1865,Python
+1865,R
+1865,Redshift
+1865,SQL
+1865,SQL Server
+1865,Scala
+1865,Spark
+1866,Airflow
+1866,Hive
+1866,NumPy
+1866,Oracle
+1866,Python
+1866,Tableau
+1867,AWS
+1867,Azure
+1867,Docker
+1867,GCP
+1867,Linux
+1867,Python
+1868,AWS
+1868,Azure
+1868,Docker
+1868,GCP
+1868,Linux
+1868,Machine Learning
+1868,Python
+1869,ETL
+1869,Hive
+1869,Java
+1869,Linux
+1869,Machine Learning
+1869,Python
+1869,SQL
+1869,Scala
+1869,Spark
+1870,Hadoop
+1870,Hive
+1870,Java
+1870,Kafka
+1870,Python
+1870,SQL
+1870,Scala
+1870,Spark
+1871,BigQuery
+1871,Data Warehouse
+1871,MySQL
+1871,Python
+1871,Redshift
+1871,SQL
+1871,Snowflake
+1872,Kubernetes
+1872,Python
+1874,AWS
+1874,Azure
+1874,Docker
+1874,ETL
+1874,GCP
+1874,Hadoop
+1874,Java
+1874,Kafka
+1874,Kubernetes
+1874,Linux
+1874,Machine Learning
+1874,NoSQL
+1874,Python
+1874,SQL
+1874,Scala
+1874,Spark
+1875,Hadoop
+1875,Kafka
+1875,Machine Learning
+1875,Python
+1875,Spark
+1876,AWS
+1876,Power BI
+1876,Python
+1876,SQL
+1876,Tableau
+1877,ETL
+1877,Hive
+1877,Java
+1877,Linux
+1877,Machine Learning
+1877,Python
+1877,SQL
+1877,Scala
+1877,Spark
+1878,Hive
+1878,Oracle
+1878,Python
+1878,SQL
+1878,Tableau
+1879,ETL
+1879,Linux
+1879,Python
+1879,SQL
+1880,ETL
+1881,Data Modeling
+1881,Docker
+1881,ETL
+1881,Hadoop
+1881,Hive
+1881,Kubernetes
+1881,Python
+1881,SQL
+1881,Spark
+1882,AWS
+1882,Hive
+1882,Machine Learning
+1882,NumPy
+1882,Pandas
+1882,Python
+1882,Spark
+1883,Linux
+1884,ETL
+1884,Hadoop
+1884,Hive
+1884,Java
+1884,NoSQL
+1884,Oracle
+1884,Python
+1884,SQL
+1884,SQL Server
+1884,Scala
+1884,Spark
+1885,AWS
+1885,Docker
+1885,GCP
+1885,Kafka
+1885,Kubernetes
+1885,Python
+1886,Data Modeling
+1886,ETL
+1886,Linux
+1886,MySQL
+1886,Python
+1886,SQL
+1887,AWS
+1887,Azure
+1887,Docker
+1887,GCP
+1887,Java
+1887,Kubernetes
+1887,Linux
+1887,Machine Learning
+1887,Python
+1888,ETL
+1888,Java
+1888,Linux
+1888,Python
+1888,SQL
+1889,AWS
+1889,Data Modeling
+1889,Data Warehouse
+1889,ELT
+1889,ETL
+1889,Java
+1889,Python
+1889,Redshift
+1889,SQL
+1889,Snowflake
+1890,Java
+1890,Kafka
+1890,Linux
+1890,Python
+1891,ETL
+1891,Hadoop
+1891,Hive
+1891,Java
+1891,Kafka
+1891,Machine Learning
+1891,NumPy
+1891,Python
+1891,Redshift
+1891,Scala
+1891,Spark
+1892,AWS
+1892,Spark
+1893,AWS
+1893,BigQuery
+1893,GCP
+1893,Java
+1893,MongoDB
+1893,Python
+1894,ETL
+1894,Hadoop
+1894,Hive
+1894,Kafka
+1894,MySQL
+1894,Python
+1894,Spark
+1895,ETL
+1895,Java
+1895,Kafka
+1895,Linux
+1895,Python
+1895,SQL
+1896,Linux
+1896,Python
+1896,SQL
+1897,Data Modeling
+1897,Hadoop
+1897,Java
+1897,Machine Learning
+1897,Python
+1897,Scala
+1897,Spark
+1898,ETL
+1898,Python
+1898,SQL
+1898,Tableau
+1899,Airflow
+1899,BigQuery
+1899,Docker
+1899,Hadoop
+1899,Java
+1899,Kubernetes
+1899,Machine Learning
+1899,MongoDB
+1899,MySQL
+1899,NoSQL
+1899,PostgreSQL
+1899,Python
+1899,Scala
+1899,Spark
+1900,Linux
+1901,Airflow
+1901,Azure
+1901,Java
+1901,Kafka
+1901,Python
+1901,SQL
+1901,Snowflake
+1901,Spark
+1902,AWS
+1902,Kafka
+1902,Python
+1902,Scala
+1902,Spark
+1903,Data Lake
+1903,Data Modeling
+1903,ETL
+1903,Hadoop
+1903,Hive
+1903,Java
+1903,SQL
+1904,Python
+1904,SQL
+1904,Tableau
+1905,Data Warehouse
+1905,SQL
+1905,Snowflake
+1906,Kafka
+1906,NoSQL
+1906,Python
+1906,Spark
+1907,AWS
+1907,Azure
+1907,BigQuery
+1907,ETL
+1907,GCP
+1907,Java
+1907,Kafka
+1907,Kubernetes
+1907,Machine Learning
+1907,NoSQL
+1907,Python
+1907,Redshift
+1907,Spark
+1908,Python
+1909,Python
+1909,R
+1909,SQL
+1910,Git
+1911,AWS
+1912,Data Warehouse
+1912,Hadoop
+1912,Java
+1913,Hadoop
+1913,Java
+1913,Kafka
+1913,Python
+1913,SQL
+1913,Scala
+1913,Spark
+1914,AWS
+1914,Data Lake
+1914,Java
+1914,Python
+1915,ETL
+1915,Hadoop
+1915,Hive
+1915,Java
+1915,Kafka
+1915,Python
+1915,SQL
+1915,Scala
+1915,Spark
+1915,Tableau
+1916,ETL
+1916,Python
+1916,SQL
+1916,Snowflake
+1917,Linux
+1917,Python
+1917,SQL
+1918,Hadoop
+1918,Python
+1918,Spark
+1919,Linux
+1919,Python
+1920,Data Warehouse
+1920,Git
+1920,Hadoop
+1920,Java
+1920,Oracle
+1920,Python
+1921,AWS
+1921,Azure
+1921,Data Modeling
+1921,ETL
+1921,Hadoop
+1921,Java
+1921,Kafka
+1921,Linux
+1921,Machine Learning
+1921,Oracle
+1921,Power BI
+1921,Python
+1921,SQL
+1921,Spark
+1921,Tableau
+1922,AWS
+1922,Docker
+1922,ETL
+1922,GCP
+1922,Git
+1922,Linux
+1922,NumPy
+1922,Pandas
+1922,PostgreSQL
+1922,Python
+1922,SQL
+1923,AWS
+1923,Airflow
+1923,Data Modeling
+1923,ETL
+1923,Git
+1923,Hive
+1923,Java
+1923,Machine Learning
+1923,MongoDB
+1923,NoSQL
+1923,Python
+1923,SQL
+1923,Scala
+1923,Snowflake
+1923,Spark
+1923,Tableau
+1924,BigQuery
+1924,Docker
+1924,GCP
+1924,Hadoop
+1924,Hive
+1924,Java
+1924,Kubernetes
+1924,Machine Learning
+1924,Python
+1924,Spark
+1925,Airflow
+1925,Azure
+1925,Java
+1925,Kafka
+1925,Python
+1925,SQL
+1925,Snowflake
+1925,Spark
+1926,AWS
+1926,BigQuery
+1926,GCP
+1926,Java
+1926,MongoDB
+1926,Python
+1927,Python
+1927,SQL
+1927,Tableau
+1928,Hadoop
+1928,Hive
+1928,Python
+1928,SQL
+1929,AWS
+1929,Python
+1929,SQL
+1930,AWS
+1930,Azure
+1930,Data Warehouse
+1930,GCP
+1930,Python
+1930,SQL
+1930,Tableau
+1931,Data Warehouse
+1931,ETL
+1931,Hive
+1931,Java
+1931,Oracle
+1931,Python
+1931,SQL
+1931,Scala
+1932,AWS
+1932,Python
+1932,SQL
+1933,ETL
+1933,Python
+1933,SQL
+1933,Tableau
+1934,AWS
+1934,ETL
+1934,Hadoop
+1934,Python
+1934,Redshift
+1934,SQL
+1935,Java
+1935,Python
+1935,R
+1935,SQL
+1935,Tableau
+1936,ETL
+1936,Linux
+1936,Python
+1936,SQL
+1937,Python
+1937,SQL
+1937,Tableau
+1938,ETL
+1938,Hadoop
+1938,Hive
+1938,Java
+1938,NoSQL
+1938,Oracle
+1938,Python
+1938,SQL
+1938,SQL Server
+1938,Scala
+1938,Spark
+1939,Linux
+1939,Python
+1940,Java
+1940,Kafka
+1940,NoSQL
+1940,Scala
+1940,Spark
+1941,Airflow
+1941,Data Warehouse
+1941,ETL
+1941,Kafka
+1941,Python
+1941,Spark
+1942,AWS
+1942,Azure
+1942,BigQuery
+1942,Docker
+1942,Java
+1942,Kafka
+1942,Kubernetes
+1942,Machine Learning
+1942,SQL
+1942,Spark
+1943,Hadoop
+1943,Java
+1943,Kafka
+1943,MongoDB
+1943,Python
+1943,Scala
+1943,Spark
+1944,Data Warehouse
+1944,ETL
+1944,Python
+1944,R
+1944,SQL
+1944,SQL Server
+1944,Snowflake
+1944,Tableau
+1945,Git
+1945,Hive
+1945,Java
+1945,Kafka
+1945,Machine Learning
+1945,SQL
+1945,Scala
+1945,Spark
+1946,AWS
+1946,ETL
+1946,Hive
+1946,SQL
+1947,AWS
+1947,ETL
+1947,Hadoop
+1947,Hive
+1947,Java
+1947,Kafka
+1947,Python
+1947,Redshift
+1947,SQL
+1947,Spark
+1948,Data Modeling
+1948,ETL
+1948,Hadoop
+1948,Hive
+1948,Kafka
+1948,R
+1948,SQL
+1948,Spark
+1949,Hadoop
+1949,Machine Learning
+1949,Spark
+1950,Data Modeling
+1950,Data Warehouse
+1950,Python
+1950,R
+1950,SQL
+1950,SQL Server
+1950,Snowflake
+1950,Tableau
+1951,AWS
+1951,Azure
+1951,Java
+1951,Python
+1952,Java
+1952,Kafka
+1952,Scala
+1952,Spark
+1953,Hadoop
+1953,Hive
+1953,Linux
+1953,Python
+1953,R
+1953,Spark
+1954,Python
+1954,SQL
+1954,Tableau
+1955,ETL
+1955,Hadoop
+1955,Java
+1955,Kafka
+1955,NoSQL
+1955,PostgreSQL
+1955,Python
+1955,SQL
+1955,Spark
+1956,AWS
+1956,Java
+1956,Linux
+1956,Machine Learning
+1956,Python
+1956,Redshift
+1956,SQL
+1956,Scala
+1956,Spark
+1957,BigQuery
+1957,Data Modeling
+1957,Hive
+1957,Java
+1957,Machine Learning
+1957,Python
+1957,R
+1957,SQL
+1957,Scala
+1958,AWS
+1958,ETL
+1958,Hadoop
+1958,Java
+1958,Kafka
+1958,NoSQL
+1958,Python
+1958,SQL
+1959,Data Lake
+1959,Hadoop
+1959,Hive
+1959,Python
+1959,Scala
+1959,Spark
+1960,AWS
+1960,Azure
+1960,Hadoop
+1960,Java
+1960,Kafka
+1960,Machine Learning
+1960,NoSQL
+1960,Python
+1960,Spark
+1961,AWS
+1961,Machine Learning
+1961,MySQL
+1962,Python
+1962,SQL
+1962,Tableau
+1963,Data Modeling
+1963,ETL
+1963,Hadoop
+1963,Java
+1963,Kafka
+1963,Linux
+1963,Python
+1963,Redshift
+1963,SQL
+1963,Scala
+1963,Spark
+1964,Python
+1964,SQL
+1964,Tableau
+1965,Data Lake
+1965,Hadoop
+1965,Hive
+1965,Python
+1965,Scala
+1965,Spark
+1966,AWS
+1966,Airflow
+1966,Azure
+1966,Data Modeling
+1966,GCP
+1966,NoSQL
+1966,Python
+1966,SQL
+1966,Spark
+1967,ETL
+1967,Python
+1967,SQL
+1967,Tableau
+1968,Airflow
+1968,Hive
+1968,Machine Learning
+1968,Spark
+1969,Git
+1969,Hadoop
+1969,Java
+1969,Linux
+1969,MongoDB
+1969,NoSQL
+1969,Redshift
+1969,Scala
+1969,Spark
+1969,Tableau
+1970,SQL
+1971,AWS
+1971,Data Warehouse
+1971,ETL
+1971,Hadoop
+1971,Python
+1971,Redshift
+1971,SQL
+1972,AWS
+1972,Airflow
+1972,Azure
+1972,BigQuery
+1972,Data Modeling
+1972,Data Warehouse
+1972,ETL
+1972,Hive
+1972,Python
+1972,Redshift
+1972,SQL
+1972,Spark
+1973,Python
+1973,SQL
+1973,Tableau
+1974,Hadoop
+1974,Oracle
+1974,Python
+1974,SQL
+1974,Snowflake
+1975,BigQuery
+1975,Data Warehouse
+1975,Kubernetes
+1975,Linux
+1975,Looker
+1975,Machine Learning
+1975,Python
+1975,Redshift
+1975,SQL
+1975,Tableau
+1977,Hadoop
+1977,Java
+1977,Kafka
+1977,Python
+1977,SQL
+1978,AWS
+1978,Data Modeling
+1978,ETL
+1978,Hadoop
+1978,Hive
+1978,Java
+1978,Kafka
+1978,NoSQL
+1978,Python
+1978,Redshift
+1978,SQL
+1978,Scala
+1978,Spark
+1979,ETL
+1979,Java
+1979,Linux
+1979,Python
+1979,SQL
+1980,Hadoop
+1980,Java
+1980,Kafka
+1980,Machine Learning
+1980,Scala
+1980,Spark
+1981,Docker
+1981,GCP
+1981,Kubernetes
+1981,Linux
+1981,MongoDB
+1981,MySQL
+1981,NoSQL
+1981,Oracle
+1982,Python
+1982,Tableau
+1983,AWS
+1983,Azure
+1983,Data Lake
+1983,ELT
+1983,ETL
+1983,MySQL
+1983,PostgreSQL
+1983,Python
+1983,SQL
+1984,Java
+1984,NoSQL
+1984,Oracle
+1984,SQL
+1985,Hadoop
+1985,Hive
+1985,Java
+1985,Python
+1985,SQL
+1985,Scala
+1985,Spark
+1986,AWS
+1986,ELT
+1986,ETL
+1986,Hive
+1986,Linux
+1986,Oracle
+1986,Python
+1986,Redshift
+1986,SQL
+1986,Scala
+1986,Spark
+1987,AWS
+1987,Airflow
+1987,Azure
+1987,ETL
+1987,Hadoop
+1987,Hive
+1987,Java
+1987,Looker
+1987,Machine Learning
+1987,MySQL
+1987,PostgreSQL
+1987,Python
+1987,Redshift
+1987,SQL
+1987,Scala
+1987,Spark
+1987,Tableau
+1988,Kubernetes
+1988,Linux
+1988,Python
+1989,SQL
+1990,Git
+1990,Kafka
+1990,Machine Learning
+1990,MongoDB
+1990,Python
+1990,SQL
+1991,Airflow
+1991,ETL
+1991,Hadoop
+1991,Hive
+1991,Python
+1991,Tableau
+1992,AWS
+1992,Docker
+1992,GCP
+1992,Kubernetes
+1992,Machine Learning
+1992,MySQL
+1993,AWS
+1993,ETL
+1993,Hadoop
+1993,Java
+1993,NoSQL
+1993,Python
+1993,SQL
+1993,Spark
+1994,ETL
+1994,Power BI
+1994,Python
+1994,SQL
+1994,Tableau
+1995,Data Modeling
+1995,ETL
+1995,Linux
+1995,MySQL
+1995,Python
+1995,SQL
+1996,Docker
+1996,Linux
+1996,Python
+1997,Airflow
+1997,Docker
+1997,Kubernetes
+1997,NoSQL
+1997,Python
+1997,SQL
+1997,Spark
+1998,AWS
+1998,ETL
+1998,PostgreSQL
+1998,Redshift
+1998,SQL
+1999,BigQuery
+1999,Docker
+1999,GCP
+1999,Hadoop
+1999,Hive
+1999,Java
+1999,Kubernetes
+1999,Machine Learning
+1999,Python
+1999,Spark
+2000,AWS
+2000,Azure
+2000,Docker
+2000,ETL
+2000,Git
+2000,Java
+2000,Linux
+2000,MongoDB
+2000,MySQL
+2000,NoSQL
+2000,Python
+2000,Redshift
+2000,SQL
+2000,Scala
+2001,Azure
+2001,Data Lake
+2001,Data Warehouse
+2001,ELT
+2001,ETL
+2001,Hadoop
+2001,Hive
+2001,Machine Learning
+2001,Python
+2001,R
+2001,SQL
+2001,SQL Server
+2001,Scala
+2001,Spark
+2001,Tableau
+2002,AWS
+2002,BigQuery
+2002,Docker
+2002,ETL
+2002,GCP
+2002,Hadoop
+2002,Java
+2002,Kafka
+2002,Kubernetes
+2002,NoSQL
+2002,Python
+2002,SQL
+2002,Scala
+2002,Snowflake
+2002,Spark
+2003,AWS
+2003,ETL
+2004,Airflow
+2004,BigQuery
+2004,Data Warehouse
+2004,ELT
+2004,ETL
+2004,GCP
+2004,Hadoop
+2004,Hive
+2004,Java
+2004,Machine Learning
+2004,NoSQL
+2004,Python
+2004,Scala
+2004,Snowflake
+2004,Spark
+2005,Azure
+2005,Python
+2005,SQL
+2005,SQL Server
+2006,Python
+2007,Docker
+2007,Git
+2007,Java
+2007,Kubernetes
+2007,Linux
+2007,Oracle
+2007,Python
+2007,SQL
+2008,Data Warehouse
+2008,ETL
+2008,Java
+2008,Linux
+2008,Machine Learning
+2008,Oracle
+2008,Python
+2008,Redshift
+2008,SQL
+2008,SQL Server
+2008,Scala
+2009,Data Warehouse
+2009,ETL
+2009,Hadoop
+2009,Hive
+2009,Java
+2009,Kafka
+2009,Machine Learning
+2009,Oracle
+2009,Python
+2009,Scala
+2009,Spark
+2009,Tableau
+2011,Data Modeling
+2011,Docker
+2011,ETL
+2011,Hadoop
+2011,Hive
+2011,Kubernetes
+2011,Python
+2011,SQL
+2011,Spark
+2012,Data Modeling
+2012,ETL
+2012,SQL
+2013,Linux
+2013,Oracle
+2013,Python
+2014,Spark
+2015,Java
+2015,Machine Learning
+2015,NoSQL
+2015,Python
+2015,Scala
+2016,ETL
+2016,Hadoop
+2016,Hive
+2016,Java
+2016,Kafka
+2016,NoSQL
+2016,SQL
+2016,Scala
+2016,Spark
+2017,Airflow
+2017,Azure
+2017,BigQuery
+2017,ETL
+2017,Git
+2017,Hadoop
+2017,Hive
+2017,Java
+2017,Kafka
+2017,NoSQL
+2017,Oracle
+2017,Python
+2017,R
+2017,Redshift
+2017,SQL
+2017,SQL Server
+2017,Scala
+2017,Snowflake
+2017,Spark
+2018,Airflow
+2018,BigQuery
+2018,Data Warehouse
+2018,ELT
+2018,ETL
+2018,GCP
+2018,Hadoop
+2018,Hive
+2018,Java
+2018,Machine Learning
+2018,NoSQL
+2018,Python
+2018,Scala
+2018,Snowflake
+2018,Spark
+2019,AWS
+2019,Java
+2019,Linux
+2019,MySQL
+2019,Oracle
+2019,PostgreSQL
+2019,Scala
+2020,Machine Learning
+2020,SQL
+2021,AWS
+2021,Azure
+2021,Hadoop
+2021,Machine Learning
+2021,Python
+2021,SQL
+2021,Spark
+2022,Azure
+2022,Data Lake
+2022,Data Warehouse
+2022,Hadoop
+2022,Hive
+2022,Power BI
+2022,SQL
+2022,SQL Server
+2022,Scala
+2022,Spark
+2022,Tableau
+2023,AWS
+2023,Azure
+2023,Data Modeling
+2023,Hadoop
+2023,Hive
+2023,Kubernetes
+2023,Machine Learning
+2023,MongoDB
+2023,MySQL
+2023,NumPy
+2023,Oracle
+2023,Pandas
+2023,Python
+2023,R
+2023,SQL
+2023,SQL Server
+2023,Spark
+2024,Hadoop
+2024,Tableau
+2025,Airflow
+2025,Docker
+2025,GCP
+2025,Git
+2025,Kubernetes
+2025,PostgreSQL
+2025,Python
+2025,SQL
+2026,AWS
+2026,Azure
+2026,GCP
+2026,Java
+2026,Kafka
+2026,Kubernetes
+2026,PostgreSQL
+2026,Python
+2026,Scala
+2027,BigQuery
+2027,Docker
+2027,GCP
+2027,Hadoop
+2027,Hive
+2027,Java
+2027,Kubernetes
+2027,Machine Learning
+2027,Python
+2027,Spark
+2028,Azure
+2028,Data Lake
+2028,Data Warehouse
+2028,ELT
+2028,ETL
+2028,Hadoop
+2028,Hive
+2028,Machine Learning
+2028,Python
+2028,R
+2028,SQL
+2028,SQL Server
+2028,Scala
+2028,Spark
+2028,Tableau
+2029,Hadoop
+2029,Hive
+2029,Java
+2029,Kafka
+2029,Machine Learning
+2029,NoSQL
+2029,SQL
+2029,Spark
+2030,AWS
+2030,ETL
+2030,PostgreSQL
+2030,Redshift
+2030,SQL
+2031,AWS
+2031,Data Modeling
+2031,Data Warehouse
+2031,ETL
+2031,MySQL
+2031,Python
+2031,SQL
+2031,SQL Server
+2032,Python
+2032,SQL
+2034,AWS
+2034,ETL
+2034,Hadoop
+2034,Java
+2034,Kafka
+2034,MongoDB
+2034,NoSQL
+2034,Python
+2034,Redshift
+2034,SQL
+2034,Scala
+2034,Spark
+2034,Tableau
+2035,AWS
+2035,Airflow
+2035,BigQuery
+2035,Data Lake
+2035,Data Modeling
+2035,Data Warehouse
+2035,ETL
+2035,Hadoop
+2035,Hive
+2035,Machine Learning
+2035,PostgreSQL
+2035,Python
+2035,Redshift
+2035,SQL
+2035,Snowflake
+2035,Spark
+2036,Airflow
+2036,Java
+2036,Python
+2036,SQL
+2037,ETL
+2037,SQL
+2037,SQL Server
+2040,Linux
+2040,MySQL
+2040,Python
+2041,AWS
+2041,ETL
+2041,Hadoop
+2041,Kafka
+2041,MongoDB
+2041,MySQL
+2041,Oracle
+2041,Python
+2041,R
+2041,SQL
+2041,SQL Server
+2041,Scala
+2041,Spark
+2042,Docker
+2042,ETL
+2042,Git
+2042,Machine Learning
+2042,Python
+2042,SQL
+2042,Spark
+2043,Data Warehouse
+2044,AWS
+2044,ETL
+2044,Linux
+2044,MongoDB
+2044,Python
+2044,SQL
+2044,SQL Server
+2045,Azure
+2045,Data Lake
+2045,Data Modeling
+2045,Data Warehouse
+2045,ELT
+2045,ETL
+2045,Git
+2045,Java
+2045,Kafka
+2045,Machine Learning
+2045,Python
+2045,R
+2045,SQL
+2045,Spark
+2046,BigQuery
+2046,Data Lake
+2046,GCP
+2046,Hadoop
+2046,Java
+2046,Python
+2046,Scala
+2046,Spark
+2048,Airflow
+2048,BigQuery
+2048,GCP
+2048,Java
+2048,Kafka
+2048,Kubernetes
+2048,NoSQL
+2048,Python
+2048,SQL
+2048,Scala
+2048,Spark
+2049,PostgreSQL
+2050,Data Modeling
+2050,ETL
+2050,Hadoop
+2050,Linux
+2050,NoSQL
+2050,Python
+2050,R
+2050,SQL
+2050,Spark
+2050,Tableau
+2053,Airflow
+2053,BigQuery
+2053,Docker
+2053,ETL
+2053,Git
+2053,Hadoop
+2053,Hive
+2053,Kubernetes
+2053,NoSQL
+2053,Python
+2053,R
+2053,SQL
+2053,Spark
+2055,AWS
+2055,Azure
+2055,Java
+2055,Kafka
+2055,Kubernetes
+2055,Linux
+2055,Python
+2056,Airflow
+2056,Docker
+2056,ETL
+2056,Kafka
+2056,Kubernetes
+2056,Python
+2056,SQL
+2058,Data Warehouse
+2059,AWS
+2059,BigQuery
+2059,Docker
+2059,ETL
+2059,GCP
+2059,Hadoop
+2059,Java
+2059,Kafka
+2059,Kubernetes
+2059,NoSQL
+2059,Python
+2059,SQL
+2059,Scala
+2059,Snowflake
+2059,Spark
+2060,Airflow
+2060,BigQuery
+2060,Data Warehouse
+2060,ELT
+2060,ETL
+2060,GCP
+2060,Hadoop
+2060,Hive
+2060,Java
+2060,Machine Learning
+2060,NoSQL
+2060,Python
+2060,Scala
+2060,Snowflake
+2060,Spark
+2062,AWS
+2062,Docker
+2062,Java
+2062,Kafka
+2062,Kubernetes
+2062,Machine Learning
+2062,NoSQL
+2062,Redshift
+2062,Scala
+2062,Spark
+2063,Airflow
+2063,Azure
+2063,Hadoop
+2063,Java
+2063,Kafka
+2063,Machine Learning
+2063,MongoDB
+2063,NoSQL
+2063,Python
+2063,Redshift
+2063,SQL
+2063,Scala
+2063,Spark
+2064,AWS
+2064,Docker
+2064,ETL
+2064,Kubernetes
+2064,MySQL
+2064,NoSQL
+2064,PostgreSQL
+2064,Python
+2064,SQL
+2064,Scala
+2064,Spark
+2065,Azure
+2065,ETL
+2065,Java
+2065,Python
+2065,SQL
+2066,Hadoop
+2066,Tableau
+2069,AWS
+2069,Docker
+2069,Git
+2069,Java
+2069,Kubernetes
+2069,MongoDB
+2069,MySQL
+2069,Oracle
+2070,AWS
+2070,Hadoop
+2070,Machine Learning
+2070,Python
+2070,R
+2070,Redshift
+2070,SQL
+2070,Scala
+2070,Spark
+2071,BigQuery
+2071,Data Modeling
+2071,Data Warehouse
+2071,ETL
+2071,Looker
+2071,Python
+2071,R
+2071,SQL
+2071,Tableau
+2072,Python
+2073,AWS
+2073,Git
+2073,Java
+2073,MySQL
+2073,NoSQL
+2073,PostgreSQL
+2075,AWS
+2075,Kafka
+2075,Kubernetes
+2075,Machine Learning
+2075,MongoDB
+2075,Python
+2076,Python
+2077,ELT
+2077,ETL
+2077,Python
+2077,R
+2077,SQL
+2077,Tableau
+2078,Java
+2078,Python
+2080,Airflow
+2080,Data Modeling
+2080,Docker
+2080,ETL
+2080,Git
+2080,Kafka
+2080,Kubernetes
+2080,Linux
+2080,Oracle
+2080,PostgreSQL
+2080,Python
+2080,Redshift
+2080,SQL
+2080,Spark
+2081,AWS
+2081,Git
+2081,Linux
+2081,NoSQL
+2081,Python
+2082,ELT
+2082,ETL
+2083,Data Warehouse
+2084,AWS
+2084,Data Modeling
+2084,Java
+2084,Machine Learning
+2084,Python
+2084,R
+2084,SQL
+2084,Scala
+2085,BigQuery
+2085,ETL
+2085,GCP
+2085,Python
+2085,SQL
+2088,Oracle
+2088,SQL
+2088,SQL Server
+2089,Data Lake
+2089,ELT
+2089,Hadoop
+2089,Java
+2089,Kafka
+2089,Python
+2089,R
+2089,Spark
+2090,AWS
+2090,ETL
+2090,Java
+2090,Kafka
+2090,Machine Learning
+2090,Python
+2090,Snowflake
+2091,Data Modeling
+2091,ETL
+2091,SQL
+2092,Airflow
+2092,BigQuery
+2092,Data Warehouse
+2092,ELT
+2092,ETL
+2092,GCP
+2092,Hadoop
+2092,Hive
+2092,Java
+2092,Machine Learning
+2092,NoSQL
+2092,Python
+2092,Scala
+2092,Snowflake
+2092,Spark
+2093,AWS
+2093,Docker
+2093,GCP
+2093,MongoDB
+2093,NoSQL
+2093,Pandas
+2093,Python
+2093,SQL
+2094,AWS
+2094,Hadoop
+2094,Hive
+2094,Kafka
+2094,NoSQL
+2094,SQL
+2094,Spark
+2095,AWS
+2095,Machine Learning
+2095,Python
+2096,AWS
+2096,Data Modeling
+2096,Git
+2096,Java
+2097,Looker
+2097,Python
+2097,SQL
+2097,Snowflake
+2097,Tableau
+2097,dbt
+2098,AWS
+2098,Azure
+2098,Docker
+2098,ETL
+2098,Java
+2098,Kubernetes
+2098,Python
+2098,SQL
+2099,BigQuery
+2099,Data Warehouse
+2099,ELT
+2099,ETL
+2099,Hadoop
+2099,Java
+2099,Looker
+2099,Oracle
+2099,Python
+2099,SQL
+2099,SQL Server
+2100,BigQuery
+2100,Data Modeling
+2100,Data Warehouse
+2100,ETL
+2100,Looker
+2100,Python
+2100,R
+2100,SQL
+2100,Tableau
+2101,Docker
+2101,ETL
+2101,Git
+2101,Machine Learning
+2101,Python
+2101,SQL
+2101,Spark
+2103,Hive
+2103,Python
+2103,SQL
+2103,Tableau
+2104,AWS
+2104,Airflow
+2104,Azure
+2104,Data Warehouse
+2104,ETL
+2104,Java
+2104,Machine Learning
+2104,MySQL
+2104,Oracle
+2104,PostgreSQL
+2104,Python
+2104,R
+2104,SQL
+2104,Spark
+2104,Tableau
+2105,Azure
+2105,Data Lake
+2105,Data Modeling
+2105,Data Warehouse
+2105,ELT
+2105,ETL
+2105,Git
+2105,Java
+2105,Kafka
+2105,Machine Learning
+2105,Python
+2105,R
+2105,SQL
+2105,Spark
+2106,Hadoop
+2106,Java
+2106,Kafka
+2106,Linux
+2106,Machine Learning
+2106,MongoDB
+2106,MySQL
+2106,NoSQL
+2106,Python
+2106,Spark
+2107,AWS
+2107,GCP
+2107,MongoDB
+2108,Airflow
+2108,Kafka
+2108,MySQL
+2108,Python
+2108,Spark
+2109,AWS
+2109,Java
+2109,Python
+2109,Spark
+2110,Kubernetes
+2110,Linux
+2110,NoSQL
+2111,AWS
+2111,Airflow
+2111,Data Warehouse
+2111,ETL
+2111,Hive
+2111,Machine Learning
+2111,Python
+2112,Data Warehouse
+2113,Oracle
+2113,Power BI
+2113,Python
+2113,R
+2113,SQL
+2113,SQL Server
+2113,Scala
+2113,Spark
+2113,Tableau
+2114,BigQuery
+2114,Data Modeling
+2114,MySQL
+2114,Redshift
+2114,SQL
+2114,Snowflake
+2117,Azure
+2118,Data Modeling
+2118,ETL
+2118,Python
+2118,SQL
+2120,SQL
+2121,Linux
+2121,Python
+2122,AWS
+2122,MySQL
+2122,Python
+2123,Azure
+2123,Data Lake
+2123,Data Warehouse
+2123,Hadoop
+2123,Hive
+2123,Power BI
+2123,SQL
+2123,SQL Server
+2123,Scala
+2123,Spark
+2123,Tableau
+2124,AWS
+2124,Azure
+2124,Hadoop
+2124,Machine Learning
+2124,Python
+2124,SQL
+2124,Spark
+2125,AWS
+2125,Docker
+2125,ETL
+2125,Hadoop
+2125,Java
+2125,NoSQL
+2125,Oracle
+2125,Redshift
+2125,SQL
+2125,Spark
+2126,Azure
+2126,ETL
+2126,Java
+2126,SQL
+2126,Scala
+2127,Azure
+2127,Power BI
+2127,SQL
+2127,SQL Server
+2128,AWS
+2128,Data Lake
+2128,Python
+2128,Scala
+2129,AWS
+2129,Airflow
+2129,Data Warehouse
+2129,ETL
+2129,Hive
+2129,Machine Learning
+2129,Python
+2130,Oracle
+2130,SQL
+2131,Java
+2131,Machine Learning
+2131,Python
+2132,Airflow
+2132,Docker
+2132,Pandas
+2132,Python
+2132,Redshift
+2132,Snowflake
+2132,Spark
+2133,Airflow
+2133,Data Lake
+2133,Data Modeling
+2133,Data Warehouse
+2133,ETL
+2133,Hadoop
+2133,Hive
+2133,Java
+2133,Machine Learning
+2133,NoSQL
+2133,Python
+2133,SQL
+2133,Spark
+2133,Tableau
+2134,Data Modeling
+2134,Linux
+2135,AWS
+2135,Data Modeling
+2135,ETL
+2135,Machine Learning
+2135,Python
+2135,SQL
+2136,Git
+2136,Python
+2137,Airflow
+2137,BigQuery
+2137,Data Modeling
+2137,ETL
+2137,Looker
+2137,Power BI
+2137,Python
+2137,R
+2137,Redshift
+2137,SQL
+2137,Snowflake
+2137,Tableau
+2138,Hadoop
+2138,Java
+2138,Machine Learning
+2138,Python
+2138,R
+2138,SQL
+2138,Spark
+2139,AWS
+2139,Hadoop
+2139,Hive
+2139,Java
+2139,Python
+2139,Spark
+2140,AWS
+2140,Kafka
+2140,Machine Learning
+2140,NoSQL
+2140,Python
+2140,R
+2140,Spark
+2141,Java
+2141,Oracle
+2141,PostgreSQL
+2141,SQL
+2141,SQL Server
+2142,SQL
+2143,Git
+2143,Java
+2143,Machine Learning
+2144,Data Warehouse
+2144,Hadoop
+2144,Python
+2145,AWS
+2145,Java
+2145,Linux
+2145,MySQL
+2145,Oracle
+2145,PostgreSQL
+2145,Scala
+2147,AWS
+2147,Java
+2148,Java
+2149,Git
+2149,Linux
+2149,Python
+2150,Airflow
+2150,GCP
+2150,Hadoop
+2150,Hive
+2150,Java
+2150,Kafka
+2150,Linux
+2150,Python
+2150,SQL
+2150,Scala
+2150,Spark
+2151,Data Lake
+2151,Hadoop
+2151,MongoDB
+2151,Spark
+2153,Airflow
+2153,GCP
+2153,Hadoop
+2153,Hive
+2153,Java
+2153,Kafka
+2153,Linux
+2153,Python
+2153,SQL
+2153,Scala
+2153,Spark
+2154,Data Warehouse
+2154,ETL
+2154,Hadoop
+2154,Hive
+2154,Java
+2154,Python
+2154,SQL
+2154,Scala
+2154,Spark
+2155,Data Modeling
+2155,ETL
+2155,Python
+2155,SQL
+2156,Git
+2156,Linux
+2156,Python
+2157,AWS
+2157,Git
+2157,Linux
+2157,NoSQL
+2157,Python
+2158,AWS
+2158,Azure
+2158,Data Lake
+2158,Data Warehouse
+2158,Docker
+2158,ETL
+2158,GCP
+2158,Kafka
+2158,Kubernetes
+2158,Linux
+2158,PostgreSQL
+2158,Snowflake
+2159,Linux
+2159,MySQL
+2159,Python
+2160,Hadoop
+2160,Java
+2160,Kafka
+2160,Linux
+2160,Machine Learning
+2160,MongoDB
+2160,MySQL
+2160,NoSQL
+2160,Python
+2160,Spark
+2161,Data Warehouse
+2162,Linux
+2162,Python
+2163,Data Modeling
+2163,ETL
+2163,Hadoop
+2163,Linux
+2163,NoSQL
+2163,Python
+2163,R
+2163,SQL
+2163,Spark
+2163,Tableau
+2164,Git
+2164,Linux
+2164,Python
+2165,Python
+2166,Kafka
+2167,Azure
+2167,BigQuery
+2167,GCP
+2167,Kubernetes
+2167,Linux
+2167,Looker
+2167,Oracle
+2168,BigQuery
+2168,Data Modeling
+2168,Data Warehouse
+2168,Hadoop
+2168,Hive
+2168,Kafka
+2168,Python
+2168,Redshift
+2168,SQL
+2168,Snowflake
+2168,Spark
+2168,Tableau
+2169,AWS
+2169,Azure
+2169,Hadoop
+2169,Java
+2169,Kafka
+2169,NoSQL
+2169,Python
+2169,Redshift
+2169,SQL
+2169,Scala
+2169,Spark
+2171,AWS
+2171,BigQuery
+2171,Docker
+2171,ETL
+2171,GCP
+2171,Hadoop
+2171,Java
+2171,Kafka
+2171,Kubernetes
+2171,NoSQL
+2171,Python
+2171,SQL
+2171,Scala
+2171,Snowflake
+2171,Spark
+2173,Java
+2173,Linux
+2173,Python
+2175,Azure
+2175,GCP
+2176,AWS
+2176,Airflow
+2176,Hadoop
+2176,Kafka
+2176,MySQL
+2176,Oracle
+2176,Python
+2176,SQL
+2176,SQL Server
+2176,Scala
+2176,Snowflake
+2176,Spark
+2177,AWS
+2177,Data Warehouse
+2177,Git
+2177,Python
+2177,SQL
+2177,Snowflake
+2178,PostgreSQL
+2179,Hadoop
+2179,Java
+2179,Machine Learning
+2179,Spark
+2181,Data Warehouse
+2182,Git
+2182,Linux
+2182,Machine Learning
+2182,PostgreSQL
+2182,Python
+2183,Python
+2183,SQL
+2184,Data Warehouse
+2184,Hadoop
+2184,Python
+2185,AWS
+2185,Airflow
+2185,Data Warehouse
+2185,ETL
+2185,Hadoop
+2185,Hive
+2185,Java
+2185,Machine Learning
+2185,MySQL
+2185,Python
+2185,Scala
+2185,Snowflake
+2185,Spark
+2185,Tableau
+2186,AWS
+2186,Airflow
+2186,Hadoop
+2186,Python
+2186,SQL
+2186,Scala
+2186,Snowflake
+2186,Spark
+2187,AWS
+2187,Git
+2187,Linux
+2187,NoSQL
+2187,Python
+2189,Git
+2189,Hadoop
+2189,Java
+2189,MySQL
+2189,NumPy
+2189,Oracle
+2189,Pandas
+2189,PostgreSQL
+2189,Python
+2189,SQL
+2189,Spark
+2190,Git
+2190,Java
+2190,SQL
+2192,AWS
+2192,Airflow
+2192,Docker
+2192,ETL
+2192,Pandas
+2192,Python
+2193,Git
+2193,SQL
+2195,AWS
+2195,Docker
+2195,Git
+2195,Kafka
+2195,Kubernetes
+2195,Linux
+2195,MongoDB
+2195,NoSQL
+2195,Python
+2196,SQL
+2197,Azure
+2197,Git
+2197,MongoDB
+2198,Data Modeling
+2198,ETL
+2198,SQL
+2200,SQL
+2201,SQL
+2203,AWS
+2203,Azure
+2203,Data Warehouse
+2203,GCP
+2203,Python
+2203,SQL
+2203,Tableau
+2204,ETL
+2204,Hadoop
+2204,Machine Learning
+2204,SQL
+2204,SQL Server
+2204,Tableau
+2205,Data Lake
+2205,ETL
+2205,Java
+2205,Oracle
+2205,SQL
+2205,SQL Server
+2206,Java
+2206,Linux
+2206,MySQL
+2206,Oracle
+2206,SQL
+2207,ETL
+2207,Power BI
+2207,SQL
+2207,SQL Server
+2207,Tableau
+2208,Data Lake
+2208,ETL
+2208,Java
+2208,Oracle
+2208,SQL
+2208,SQL Server
+2209,Data Lake
+2209,ETL
+2209,Java
+2209,Oracle
+2209,SQL
+2209,SQL Server
+2210,Git
+2210,Hadoop
+2210,Java
+2210,MySQL
+2210,Oracle
+2212,ETL
+2212,Java
+2212,Oracle
+2212,SQL
+2212,SQL Server
+2213,Data Modeling
+2213,ETL
+2213,Hadoop
+2213,Linux
+2213,Oracle
+2214,SQL
+2214,SQL Server
+2215,Data Modeling
+2215,ETL
+2215,Hadoop
+2215,Linux
+2215,Oracle
+2217,Azure
+2217,MySQL
+2217,Oracle
+2217,SQL
+2217,SQL Server
+2220,Hadoop
+2220,Hive
+2220,Java
+2220,Linux
+2220,Oracle
+2220,Python
+2220,SQL
+2220,Spark
+2220,Tableau
+2222,AWS
+2222,GCP
+2222,Java
+2222,Linux
+2222,MongoDB
+2222,MySQL
+2222,Oracle
+2222,Python
+2222,SQL
+2223,Linux
+2224,Data Modeling
+2224,Git
+2224,Java
+2224,SQL
+2226,AWS
+2226,Java
+2226,MySQL
+2226,Python
+2226,SQL
+2227,AWS
+2227,Azure
+2227,GCP
+2227,Hadoop
+2227,Java
+2227,Kubernetes
+2227,MongoDB
+2227,NoSQL
+2227,Oracle
+2227,Redshift
+2227,SQL
+2227,Snowflake
+2227,Spark
+2230,Azure
+2230,Java
+2230,Kafka
+2230,NoSQL
+2235,Hadoop
+2235,Hive
+2235,Kafka
+2235,Kubernetes
+2235,Linux
+2235,Python
+2235,Spark
+2237,ETL
+2237,Java
+2237,Oracle
+2237,SQL
+2237,SQL Server
+2239,SQL
+2239,SQL Server
+2242,AWS
+2242,Azure
+2242,ETL
+2242,GCP
+2242,Machine Learning
+2242,Python
+2242,SQL
+2243,Linux
+2243,MySQL
+2244,Oracle
+2244,Python
+2247,Java
+2247,SQL
+2249,Data Warehouse
+2249,SQL
+2250,Azure
+2250,Java
+2250,Kafka
+2250,NoSQL
+2252,Linux
+2253,Data Modeling
+2253,Data Warehouse
+2253,SQL
+2254,SQL
+2257,R
+2260,Data Modeling
+2260,Git
+2260,Java
+2262,Data Modeling
+2262,Data Warehouse
+2262,SQL
+2264,Linux
+2266,Oracle
+2271,R
+2271,SQL
+2271,SQL Server
+2273,ETL
+2273,SQL
+2273,Tableau
+2274,Docker
+2274,Kubernetes
+2275,Docker
+2275,Kubernetes
+2277,Oracle
+2277,Python
+2278,AWS
+2278,Azure
+2278,GCP
+2278,Linux
+2282,Python
+2285,Python
+2287,Azure
+2287,SQL
+2289,Oracle
+2290,AWS
+2290,Docker
+2290,Java
+2290,Kubernetes
+2290,Linux
+2290,NoSQL
+2291,SQL
+2293,AWS
+2294,Linux
+2295,Kafka
+2295,MongoDB
+2295,Oracle
+2295,SQL
+2296,AWS
+2296,Docker
+2296,GCP
+2296,Kubernetes
+2296,Linux
+2296,Python
+2296,SQL
+2298,Azure
+2298,Java
+2298,Kafka
+2298,NoSQL
+2298,SQL
+2299,Java
+2301,AWS
+2301,Azure
+2301,Docker
+2301,Linux
+2301,MySQL
+2301,Oracle
+2301,PostgreSQL
+2301,Python
+2301,SQL
+2302,R
+2305,Git
+2310,R
+2311,Linux
+2312,Azure
+2316,Python
+2317,R
+2319,Java
+2319,Machine Learning
+2319,Python
+2319,SQL
+2320,Java
+2321,Kubernetes
+2321,Linux
+2322,AWS
+2322,Azure
+2323,Azure
+2323,SQL
+2323,SQL Server
+2324,AWS
+2324,Data Lake
+2324,ETL
+2324,GCP
+2324,Git
+2324,Hadoop
+2324,Hive
+2324,Java
+2324,Kafka
+2324,Python
+2324,Scala
+2324,Spark
+2325,ETL
+2325,Hadoop
+2325,Java
+2325,Python
+2325,R
+2325,SQL
+2326,AWS
+2326,Data Modeling
+2326,Data Warehouse
+2326,ETL
+2326,Hadoop
+2326,Hive
+2326,MySQL
+2326,Power BI
+2326,Python
+2326,Redshift
+2326,SQL
+2326,SQL Server
+2326,Spark
+2326,Tableau
+2328,R
+2329,Azure
+2329,Data Lake
+2329,Data Modeling
+2329,Data Warehouse
+2329,ETL
+2329,Machine Learning
+2329,Power BI
+2329,R
+2329,SQL
+2329,SQL Server
+2330,Data Modeling
+2330,Git
+2330,Java
+2330,Machine Learning
+2330,Python
+2330,SQL
+2332,Python
+2332,R
+2332,SQL
+2333,Azure
+2333,Power BI
+2333,Python
+2333,SQL
+2333,Spark
+2335,Git
+2335,Hadoop
+2335,Hive
+2335,Java
+2335,NoSQL
+2335,Python
+2335,SQL
+2335,Spark
+2337,Data Modeling
+2337,Git
+2337,Java
+2337,Machine Learning
+2337,Python
+2337,SQL
+2338,Java
+2338,MongoDB
+2338,MySQL
+2338,NoSQL
+2338,Oracle
+2339,Linux
+2340,Data Modeling
+2340,Git
+2340,Java
+2340,Machine Learning
+2340,Python
+2340,SQL
+2341,Java
+2341,Linux
+2341,Oracle
+2342,Data Warehouse
+2342,Git
+2342,Hadoop
+2342,Kafka
+2342,Linux
+2342,Looker
+2342,Python
+2342,SQL
+2342,Scala
+2342,Spark
+2343,Airflow
+2343,ETL
+2343,Git
+2343,Hadoop
+2343,Hive
+2343,Java
+2343,Kafka
+2343,Python
+2343,R
+2343,SQL
+2343,Scala
+2343,Spark
+2343,Tableau
+2344,Data Modeling
+2344,Git
+2344,Java
+2344,Machine Learning
+2344,Python
+2344,SQL
+2345,ETL
+2345,Hadoop
+2345,Hive
+2345,Kafka
+2345,Machine Learning
+2345,Python
+2345,SQL
+2345,Scala
+2345,Spark
+2346,Data Lake
+2346,ELT
+2346,Hadoop
+2346,Java
+2346,Kafka
+2346,Python
+2346,R
+2346,Spark
+2347,Hadoop
+2347,Hive
+2347,Kafka
+2347,Scala
+2347,Spark
+2348,ETL
+2348,Hadoop
+2348,Hive
+2348,Kafka
+2348,Python
+2348,SQL
+2348,Spark
+2349,Data Lake
+2349,Hadoop
+2349,Hive
+2349,Kafka
+2349,Python
+2349,Scala
+2349,Spark
+2350,AWS
+2350,Java
+2350,Linux
+2350,SQL
+2351,AWS
+2351,Azure
+2351,Hadoop
+2351,Hive
+2351,Kafka
+2351,Machine Learning
+2351,MongoDB
+2351,NoSQL
+2351,Python
+2351,Spark
+2353,Hadoop
+2353,Hive
+2353,Java
+2353,Kafka
+2353,Linux
+2353,Python
+2353,SQL
+2353,Spark
+2354,AWS
+2354,Azure
+2354,ETL
+2354,Hadoop
+2354,Java
+2354,Kafka
+2354,Machine Learning
+2354,Python
+2354,R
+2354,SQL
+2354,Scala
+2354,Spark
+2355,Data Modeling
+2355,Git
+2355,Java
+2355,Machine Learning
+2355,Python
+2355,SQL
+2357,Azure
+2357,Data Lake
+2357,Data Warehouse
+2357,ETL
+2357,Power BI
+2357,Python
+2357,SQL
+2357,SQL Server
+2358,Git
+2358,Hadoop
+2358,Hive
+2358,Java
+2358,Machine Learning
+2358,NoSQL
+2358,Python
+2358,SQL
+2358,Spark
+2359,Kafka
+2360,AWS
+2360,Azure
+2360,Docker
+2360,GCP
+2360,Hadoop
+2360,Java
+2360,Kafka
+2360,Kubernetes
+2360,Linux
+2360,Machine Learning
+2360,NoSQL
+2360,Python
+2360,SQL
+2360,Scala
+2360,Spark
+2361,Java
+2361,Python
+2363,AWS
+2363,Data Lake
+2363,Data Warehouse
+2363,ETL
+2363,GCP
+2363,Git
+2363,Hadoop
+2363,Hive
+2363,Java
+2363,Kafka
+2363,NoSQL
+2363,Oracle
+2363,Python
+2363,SQL
+2363,SQL Server
+2363,Scala
+2363,Spark
+2364,Data Modeling
+2364,Git
+2364,Java
+2364,Machine Learning
+2364,Python
+2364,SQL
+2365,AWS
+2365,Docker
+2365,Java
+2365,Oracle
+2365,SQL
+2365,Spark
+2366,Hadoop
+2366,Java
+2366,MongoDB
+2366,Python
+2366,Scala
+2366,Spark
+2368,AWS
+2368,Azure
+2368,GCP
+2369,Data Lake
+2369,Hadoop
+2369,Hive
+2369,Kafka
+2369,Python
+2369,Scala
+2369,Spark
+2370,Java
+2372,Data Warehouse
+2372,Docker
+2372,Kubernetes
+2372,Python
+2372,SQL
+2373,Oracle
+2373,Python
+2373,Redshift
+2373,SQL
+2373,SQL Server
+2374,Git
+2374,Hadoop
+2374,Hive
+2374,Java
+2374,Machine Learning
+2374,NoSQL
+2374,Python
+2374,SQL
+2374,Spark
+2375,Azure
+2375,Snowflake
+2376,AWS
+2376,Git
+2376,Java
+2376,SQL
+2376,SQL Server
+2377,Linux
+2379,Data Modeling
+2379,Git
+2379,Java
+2379,Machine Learning
+2379,Python
+2379,SQL
+2381,Data Modeling
+2381,SQL
+2381,SQL Server
+2382,Oracle
+2382,SQL
+2384,Data Lake
+2384,Hadoop
+2384,Hive
+2384,Kafka
+2384,Python
+2384,Scala
+2384,Spark
+2385,Azure
+2385,Git
+2385,Hive
+2385,Python
+2385,SQL
+2385,Scala
+2385,Spark
+2389,Hadoop
+2389,Hive
+2389,Machine Learning
+2389,Python
+2389,SQL
+2389,Tableau
+2390,Hadoop
+2390,Hive
+2390,Machine Learning
+2390,Python
+2390,SQL
+2390,Tableau
+2391,Hadoop
+2391,Machine Learning
+2391,NoSQL
+2391,Oracle
+2391,Python
+2391,R
+2391,SQL
+2392,Git
+2392,Hadoop
+2392,Hive
+2392,Java
+2392,Machine Learning
+2392,NoSQL
+2392,Python
+2392,SQL
+2392,Spark
+2394,Azure
+2394,Java
+2394,Python
+2395,AWS
+2395,Azure
+2396,Power BI
+2396,SQL
+2397,AWS
+2397,ETL
+2397,GCP
+2397,Hadoop
+2397,Java
+2397,Kafka
+2397,Python
+2397,Scala
+2398,Data Warehouse
+2398,Docker
+2398,Kubernetes
+2398,Python
+2398,SQL
+2399,Azure
+2399,SQL
+2399,SQL Server
+2401,Java
+2401,Python
+2403,AWS
+2403,Git
+2403,Java
+2403,Machine Learning
+2403,Python
+2404,Git
+2404,Hadoop
+2404,Hive
+2404,Java
+2404,Machine Learning
+2404,NoSQL
+2404,Python
+2404,SQL
+2404,Spark
+2405,Git
+2405,Hadoop
+2405,Hive
+2405,Java
+2405,Machine Learning
+2405,NoSQL
+2405,Python
+2405,SQL
+2405,Spark
+2408,R
+2410,R
+2412,AWS
+2412,Airflow
+2412,Hadoop
+2412,Hive
+2412,Java
+2412,Kafka
+2412,Machine Learning
+2412,MongoDB
+2412,NoSQL
+2412,Python
+2412,SQL
+2412,Scala
+2412,Spark
+2412,Tableau
+2413,Git
+2413,Hadoop
+2413,Hive
+2413,Java
+2413,NoSQL
+2413,Python
+2413,SQL
+2413,Spark
+2417,Data Warehouse
+2417,ETL
+2417,SQL
+2418,Azure
+2418,Docker
+2418,Git
+2418,Java
+2418,Kubernetes
+2418,NoSQL
+2418,Oracle
+2418,PostgreSQL
+2421,GCP
+2421,Hadoop
+2421,Hive
+2421,Java
+2421,Kafka
+2421,NoSQL
+2421,Python
+2421,SQL
+2421,Scala
+2421,Spark
+2422,SQL
+2423,AWS
+2423,Data Lake
+2423,Data Warehouse
+2423,Java
+2423,Kafka
+2423,Python
+2423,Spark
+2424,GCP
+2424,Hadoop
+2424,Hive
+2424,Java
+2424,Kafka
+2424,NoSQL
+2424,Python
+2424,SQL
+2424,Scala
+2424,Spark
+2425,AWS
+2425,ETL
+2425,GCP
+2425,Hadoop
+2425,Java
+2425,Kafka
+2425,Python
+2425,Scala
+2426,Hadoop
+2426,Machine Learning
+2426,Python
+2426,R
+2426,Scala
+2426,Spark
+2427,Data Modeling
+2427,Data Warehouse
+2427,ETL
+2427,Hadoop
+2427,Hive
+2427,SQL
+2427,Spark
+2428,Hive
+2428,Python
+2428,SQL
+2428,SQL Server
+2428,Spark
+2429,Data Warehouse
+2429,ETL
+2429,Snowflake
+2431,R
+2431,Tableau
+2433,Kafka
+2433,Spark
+2434,AWS
+2434,GCP
+2434,Hadoop
+2434,Hive
+2434,Java
+2434,Kafka
+2434,NoSQL
+2434,Python
+2434,SQL
+2434,Scala
+2434,Spark
+2437,Azure
+2437,Data Modeling
+2437,Java
+2437,MongoDB
+2437,SQL
+2437,Spark
+2440,R
+2442,R
+2444,Hadoop
+2444,Hive
+2444,Java
+2444,Kafka
+2444,Linux
+2444,Python
+2444,SQL
+2444,Spark
+2448,Data Modeling
+2448,Data Warehouse
+2448,ETL
+2448,Hadoop
+2448,Hive
+2448,SQL
+2448,Spark
+2449,Java
+2449,Python
+2451,Machine Learning
+2451,NoSQL
+2451,Python
+2451,Spark
+2453,Azure
+2453,Data Lake
+2453,ETL
+2453,SQL
+2454,Azure
+2454,Data Lake
+2454,ETL
+2454,SQL
+2455,Data Modeling
+2455,Kafka
+2455,SQL
+2461,AWS
+2462,Hadoop
+2462,Hive
+2462,Kafka
+2462,Scala
+2462,Spark
+2463,Hadoop
+2463,Hive
+2463,Kafka
+2463,Scala
+2463,Spark
+2464,Tableau
+2465,Linux
+2469,AWS
+2469,Data Lake
+2469,Data Warehouse
+2469,Java
+2469,Kafka
+2469,Python
+2469,Spark
+2470,Java
+2470,Oracle
+2470,SQL
+2470,SQL Server
+2474,Hadoop
+2474,Java
+2474,Linux
+2474,Machine Learning
+2474,Python
+2474,R
+2474,Scala
+2474,Tableau
+2475,AWS
+2475,Docker
+2475,Java
+2475,Oracle
+2475,SQL
+2475,Spark
+2477,AWS
+2477,Docker
+2477,Java
+2477,Oracle
+2477,SQL
+2477,Spark
+2478,AWS
+2478,Docker
+2478,Java
+2478,Oracle
+2478,SQL
+2478,Spark
+2479,R
+2480,AWS
+2480,Airflow
+2480,Hadoop
+2480,Hive
+2480,Java
+2480,Kafka
+2480,Machine Learning
+2480,MongoDB
+2480,NoSQL
+2480,Python
+2480,SQL
+2480,Scala
+2480,Spark
+2480,Tableau
+2482,AWS
+2482,Data Lake
+2482,ETL
+2482,GCP
+2482,Git
+2482,Hadoop
+2482,Hive
+2482,Java
+2482,Kafka
+2482,NoSQL
+2482,Python
+2482,SQL
+2482,Scala
+2482,Spark
+2482,Tableau
+2484,SQL
+2485,Data Warehouse
+2485,Docker
+2485,Kubernetes
+2485,Python
+2485,SQL
+2489,Hadoop
+2489,Kafka
+2489,MongoDB
+2489,NoSQL
+2489,Python
+2493,Azure
+2493,Hadoop
+2493,Hive
+2493,MongoDB
+2493,NoSQL
+2493,Python
+2493,SQL
+2493,Scala
+2493,Spark
+2494,AWS
+2494,Data Lake
+2494,ETL
+2494,GCP
+2494,Git
+2494,Hadoop
+2494,Hive
+2494,Java
+2494,Kafka
+2494,Python
+2494,Scala
+2494,Spark
+2496,AWS
+2496,ETL
+2496,GCP
+2496,Hadoop
+2496,Java
+2496,Kafka
+2496,Python
+2496,Scala
+2498,AWS
+2498,Azure
+2498,Docker
+2498,Git
+2498,Java
+2498,Oracle
+2498,SQL
+2500,AWS
+2500,Git
+2500,Java
+2500,SQL
+2500,SQL Server
+2501,Data Modeling
+2501,Data Warehouse
+2501,SQL
+2501,SQL Server
+2501,Tableau
+2504,AWS
+2504,Azure
+2504,Docker
+2504,ETL
+2504,GCP
+2504,Hadoop
+2504,Hive
+2504,Java
+2504,Kafka
+2504,Kubernetes
+2504,NoSQL
+2504,Python
+2504,Spark
+2506,Linux
+2507,Java
+2507,SQL
+2508,Java
+2508,Linux
+2508,Oracle
+2511,AWS
+2511,Azure
+2511,GCP
+2511,Git
+2511,Java
+2511,Linux
+2511,Python
+2512,AWS
+2512,Docker
+2512,Java
+2512,Oracle
+2512,SQL
+2512,Spark
+2514,Java
+2514,Machine Learning
+2514,Python
+2515,AWS
+2515,Data Lake
+2515,Data Warehouse
+2515,ETL
+2515,GCP
+2515,Git
+2515,Hadoop
+2515,Hive
+2515,Java
+2515,Kafka
+2515,NoSQL
+2515,Oracle
+2515,Python
+2515,SQL
+2515,SQL Server
+2515,Scala
+2515,Spark
+2516,AWS
+2516,Docker
+2516,Java
+2516,Oracle
+2516,SQL
+2516,Spark
