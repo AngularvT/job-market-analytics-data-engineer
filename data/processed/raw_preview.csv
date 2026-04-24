@@ -1,0 +1,842 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,Easy Apply
+Data Engineer,$80K-$150K (Glassdoor est.),"Company Description
+Sagence is a management advisory firm dedicated to helping our clients optimize the value of their data assets. From thinking to doing, Sagence works with leading institutions in the acquisition, evaluation, development and management of their critical data assets and in the application of analytics to discover new insights, shorten time-to-value, and drive competitive advantage.
+**All candidates must be currently authorized to work in the US on a full-time basis. Sagence does not provide sponsorship for work visas upon hire or once on board.**
+Job Overview
+Sagence is looking for experienced, client-facing Data Engineers to help us build and sustain our client’s data capabilities and our competitive advantage. Along with the requirements below, candidates must possess deep, practical experience in one or more of the following Data Management competencies; data warehousing, data lakes, reference data or master data management, data architecture, data modeling, data governance, data analysis, business intelligence.
+Skills & Requirements:
+MUST BE HANDS ON. Candidates should have system development experience and proficiency with system development methodologies and possess the following skills and knowledge:
+Must have significant hands-on experience with various IT concepts of data management/engineering (ETL, data modeling, data warehousing, etc.)
+Must have significant hands-on experience with SQL, data profiling, and data discovery
+Experience building business intelligence, analytics, or reporting solutions - either front-end consumption mechanisms (e.g., Microsoft, Tableau & Qlik) or supply of data for these purposes
+Familiarity with data architecture principles/approaches, data environment infrastructure considerations, and data modeling principles/approaches
+Ability to drive out technical requirements with business and IT stakeholders for implementations of data solutions
+Hands-on experience with Agile delivery methodology
+Prior professional experience in an IT management, management consulting, or client facing role is preferred
+Knowledge of the Financial Services, Insurance, Healthcare or Retail industries is preferred
+Demonstrated ability in engaging, communicating, and presenting to stakeholders across both business and technology functions
+Tools and Technology:
+Proficient at leveraging tools and technology to drive value for clients. Examples include the following;
+Database Management Tools:
+Relational – e.g. Oracle, MySQL, Microsoft SQL Server, PostgreSQL, DB, or similar
+NoSQL – e.g. MongoDB, Couchbase, DataStax, Redix, MarkLogic, or similar
+Cloud – e.g. AWS, Azure, xxx, xxx, xxx
+ETL Tools - e.g. Informatica, Talend, Microsoft SSIS, or similar
+Data Modeling tools - e.g., Toad, ERWin, ER/Studio, PowerDesigner, IBM Data Architect, or similar
+Industry Leading BI tools - e.g., Business Objects, Microsoft, Cognos, Tableau, OBIEE, Qlickview, or similar
+General:
+Must be currently authorized to work in the US on a full-time basis. Sagence does not provide sponsorship for work visas
+3+ years of professional experience working in a related role
+Must be collaborative, innovative, curious, and resourceful, and exhibit a positive attitude
+Strong desire to work on interesting projects with smart and creative people
+Willingness to travel up to 80% of the week (M-Th)
+Chicago or New York area candidates preferred, but will consider candidates in other parts of U.S.
+Our Culture
+Passionate, diverse, creative, genuine, flexible, hands-on…these are just a few of the words that describe our culture. Our Partners are deeply involved in the client work on a daily basis. We have a high-energy workplace with a focus on producing high-quality, impactful results. We are committed to equality of opportunity, fairness, work and lifestyle balance, and mutual respect. We promote an entrepreneurial spirit by encouraging individual initiative and foster a collaborative culture and work environment which includes open communication and on-going learning. We build teamwork through small, dedicated teams who continuously teach each other and learn from one another. We strongly believe these characteristics enable our employees to develop to their fullest potential. To learn more, please visit us at www.sagenceconsulting.com",4.5,"Sagence
+4.5","New York, NY","Chicago, IL",1 to 50 employees,2009,Company - Private,Consulting,Business Services,$10 to $25 million (USD),"WCI Consulting, PwC",-1
+Senior Data Engineer (Healthcare Domain experience required),$80K-$150K (Glassdoor est.),"Key Responsibilities
+
+- Architect, build, and maintain efficient data pipelines, utilizing a variety of data access technologies (REST APIs, FTP, SQL, S3)
+
+- Work with analytics team to help with automating reporting needs leveraging various solutions like REST APIs or BI tools
+
+- End-to-end development, starting from requirements gathering with stakeholders to deployment to production systems
+
+- Lead greenfield development of innovative applications, analysis, and systems
+
+- Contribute to development of a rapidly growing, integrated datawarehouse that will provide a complete vision of the entire healthcare landscape
+
+- Work with large, alternative datasets (100s of millions of data points) to extract insights and proactively monitor trends
+
+Minimum Qualifications
+
+· Advanced SQL Knowledge
+
+· Proficient in object-oriented development (C#, Java, etc)
+
+· Proficient in creating REST Web Services using C#/Python/Node
+
+· Experience working with large data sets (50+ million rows)
+
+· Ability to architect end-to-end ETL pipelines
+
+· Comfortable writing unit/integration tests, implementing logging/monitoring, and maintaining reliability of internal processes
+
+· Familiarity with software development best practices: Dependency Injection, ORMs, Test-Driven Development, Modular design, etc.
+
+Preferred Skills
+
+· Architect-level experience with development using Cloud tools (ideally Azure)
+
+· Experience with distributed datastores such as Databricks, Spark/Hadoop, Snowflake NoSql, etc.
+
+· Web development in a full-stack capacity (ideally Angular)
+
+· Business Intelligence Experience (Power BI, Tableau, etc.)
+
+· Experience working with EMR or Claims data
+
+Benefits
+
+· Top-of-the-line, company sponsored healthcare insurance
+
+· Unlimited meals
+
+· Full-floor, state-of-the-art gym only for employees with showers, protein shakes, etc
+
+· Always-stocked kitchens/resource rooms
+
+· Monthly happy hours
+
+· Great work-life balance
+
+· Data driven culture at all levels of the firm",3.4,"Enterprise Integration
+3.4","New York, NY","Jacksonville, FL",51 to 200 employees,1998,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),-1,-1
+Data Engineers,$80K-$150K (Glassdoor est.),"Overview
+
+Job description
+
+Position Overview:
+
+Seeking a highly qualified Data Engineer with a track record of managing and architecting complex data platforms. As a member of the Data Engineering and Operations Team, the Data Engineer will work on data management projects for a wide variety of companies including Cerberus portfolio companies. This person will be responsible to creating programs for loading, transforming, and validating data. This person will also be responsible to lead small teams responsible for the end to end implementation of data platforms for our clients. We are seeking a “player/coach” with the adaptability and flexibility to develop strategies but also get into the weeds and write code. As such, a successful candidate will have deep technical and management expertise across a variety of methodologies as well as have demonstrated management skills.
+
+Responsibilities:
+Design and build data management platforms
+Design and build scalable data platforms to securely ingest, process, validate, analyze and publish data
+Perform POC (proof of concepts), choose the right tools and technologies to be used
+Manage large & complex data and analytical projects: data transformation, exploration, performance evaluation & testing
+Move existing ETL jobs from traditional data warehouse processing to the big data processing platform, ensure that the jobs are designed to scale
+Manage and lead data engineering projects
+Collaborate with internal and portfolio company stakeholders in a broad range of sectors to identify business use cases and develop solutions in driving impact through data and analytics
+Manage and execute the successful delivery of the data (ETL/ELT) pipelines, analytics platforms and reporting tools to meet business needs
+Perform analyses of large structured and unstructured data to solve multiple and complex business problems utilizing advanced statistical techniques, and specialized expertise in the organization and/or industry
+Assess data management platforms
+Assess the complete landscape of a data refinery (data discovery, data loading, data transformation, data validation and data publish)
+Business Knowledge/Technical Skills:
+5+ years professional work experience as a data engineer
+Extensive experience building highly optimized and scalable data infrastructures using traditional, open sources and cloud computing technologies
+Deep experience in data warehousing, data architecture, data quality processes, data warehousing design and implementation, table structure, fact and dimension tables, logical and physical database design, data modeling, reporting process metadata, and ETL processes
+Proven experience in developing analytics strategy, roadmap and delivering major change initiatives
+Proven experience in negotiating contracts, license optimization, service levels & managing vendors
+Ability to set and manage priorities judiciously
+Knowledge of: data processing platforms like Hadoop, Spark, Hive, AWS (EMR, Kinesis, lambda, glue) Azure (HDInsight, data factory); airflow; coding best practices (git/stash usage); python, R; Java/Scala; writing production and modular code
+Other:
+Bachelor's degree required
+Master’s degree in in Computer Science, Statistics, Economics, Physics, Engineering, Mathematics, or other closely related field is preferred
+This position will be based out of New York City and will require travel
+Job description Position Overview: Seeking a highly qualified Data Engineer with a track record of managing and architecting complex data platforms. As a member of the Data Engineering and Operations Team, the Data Engineer will work on data management projects for a wide variety of companies including Cerberus portfolio companies. This person will be responsible to creating programs for loading, transforming, and validating data. This person will also be responsible to lead small teams responsible for the end to end implementation of data platforms for our clients. We are seeking a “player/coach” with the adaptability and flexibility to develop strategies but also get into the weeds and write code. As such, a successful candidate will have deep technical and management expertise across a variety of methodologies as well as have demonstrated management skills. Responsibilities: Design and build data management platforms Design and build scalable data platforms to securely ingest, process, validate, analyze and publish data Perform POC (proof of concepts), choose the right tools and technologies to be used Manage large & complex data and analytical projects: data transformation, exploration, performance evaluation & testing Move existing ETL jobs from traditional data warehouse processing to the big data processing platform, ensure that the jobs are designed to scale Manage and lead data engineering projects Collaborate with internal and portfolio company stakeholders in a broad range of sectors to identify business use cases and develop solutions in driving impact through data and analytics Manage and execute the successful delivery of the data (ETL/ELT) pipelines, analytics platforms and reporting tools to meet business needs Perform analyses of large structured and unstructured data to solve multiple and complex business problems utilizing advanced statistical techniques, and specialized expertise in the organization and/or industry Assess data management platforms Assess the complete landscape of a data refinery (data discovery, data loading, data transformation, data validation and data publish) Business Knowledge/Technical Skills: 5+ years professional work experience as a data engineer Extensive experience building highly optimized and scalable data infrastructures using traditional, open sources and cloud computing technologies Deep experience in data warehousing, data architecture, data quality processes, data warehousing design and implementation, table structure, fact and dimension tables, logical and physical database design, data modeling, reporting process metadata, and ETL processes Proven experience in developing analytics strategy, roadmap and delivering major change initiatives Proven experience in negotiating contracts, license optimization, service levels & managing vendors Ability to set and manage priorities judiciously Knowledge of: data processing platforms like Hadoop, Spark, Hive, AWS (EMR, Kinesis, lambda, glue) Azure (HDInsight, data factory); airflow; coding best practices (git/stash usage); python, R; Java/Scala; writing production and modular code Other: Bachelor's degree required Master’s degree in in Computer Science, Statistics, Economics, Physics, Engineering, Mathematics, or other closely related field is preferred This position will be based out of New York City and will require travel
+This is Company overview ...
+
+Which company? Recruiting Company or Client Company???",5.0,"Maestro Technologies
+5.0","New York, NY","Trenton, NJ",51 to 200 employees,2003,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),-1,-1
+Client Trade Support Engineer,$80K-$150K (Glassdoor est.),"About the Position
+
+
+This position will support Jane Street’s client-facing trading business, and consists of a mix of operational and project-oriented work.
+
+The operational side of the job is focused on monitoring the health of Jane Street’s client-facing trading infrastructure, and working with the trading desks and technology groups to understand and react to issues as they arise during the trading day. Additionally, the person in this role will assist external clients by acting as a first point of contact for technical questions, data queries, and troubleshooting. Quick thinking and effective communication are important parts of this job.
+
+About You
+
+
+When not on the support rotation, engineers will work on projects to improve the trading infrastructure, such as:
+Writing code to improve the stack of tools and systems for managing, monitoring, and configuring Jane Street’s trading infrastructure.
+Working with Trading Systems developers to improve Jane Street's client-facing trading infrastructure.
+Onboarding new clients onto Jane Street's trading systems.",4.8,"Jane Street
+4.8","New York, NY","New York, NY",501 to 1000 employees,2000,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1,-1
+Data Engineer,$80K-$150K (Glassdoor est.),"Data Engineer
+
+Job Details
+Level
+Experienced
+Job Location
+New York (Home Office) - New York, NY
+Position Type
+Full Time
+Education Level
+4 Year Degree
+Salary Range
+Undisclosed
+Travel Percentage
+Undisclosed
+Job Shift
+Day
+Job Category
+Information Technology
+Description
+Greater New York Mutual Insurance Company (""GNY"") is an A+ rated, financially stable and growing property casualty insurance company with locations throughout the Northeast. We are currently looking for a dynamic and highly motivated Data Engineer for our New York office.
+
+Responsibilities:
+Develop, construct, test, and maintain architectures, such as databases and analytic environments and platform required for structured, semi-structured and unstructured data
+Design and develop data pipelines that deliver accurate, consistent, and traceable datasets for data science projects
+Support regular and ad-hoc data needs for data scientists
+Provide recommendations and implement ways to improve data reliability, efficiency, and quality
+Qualifications
+Bachelor’s or Master’s degree obtained from an accredited institution preferably in Computer Science, Computer Engineering, and Software Engineering, Data Science, or a related field
+3-5 years of professional experience in data science or related field
+Experience in database deployment and management and proficient in SQL
+Experience in data warehousing and ETL (Extract, Transform, and Load)
+Proficient in R, Python, VBA, Excel and Word
+Excellent oral and written communication skills",3.7,"GNY Insurance Companies
+3.7","New York, NY","New York, NY",201 to 500 employees,1914,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),"Travelers, Chubb, Crum & Forster",True
+Operations Engineer,$80K-$150K (Glassdoor est.),"Hi, we're Oscar. We're hiring an Operations Engineer to join our Insurance Operations team in our New York City office.
+
+Oscar is a technology-driven, consumer-focused health insurance startup founded in 2012 and headquartered in New York City. Our goal is to make health insurance simple, transparent, and human. We need your help to do so.
+
+What is the Position?
+
+You'll work within Oscar's Operations organization to improve upon Oscar's adjudication infrastructure and underlying logic, playing an essential role in the transition to a next-generation technology platform for core insurance functions. You will design the rules that determine when and how to pay claims, for establishing data integrations to promote Oscar's entry into new markets and products, and will work closely alongside Oscar's Tech and Data teams to connect your work into the broader Oscar ecosystem. Finally, you will be the owner of projects to contribute to a unique provider and member experience and will be necessary to supporting Oscar's growing membership.
+
+You'll collaborate with the Insurance Operations team, Claims and Member Engineering, data scientists, and business leads. We'll expect you to understand complexity, distill it, and explain it in simple, structured terms.
+
+You will report to the Associate Director, Insurance Operations
+
+Deliverables: What you have to achieve
+
+During the first 6 weeks you have:
+Developed a thoughtful understanding of the operations ecosystem (including the underlying technology) and its current strengths, weaknesses, and gaps.
+Internalized the coding languages and data structures used in both older health industry systems and the next generation tech platform that Oscar is building.
+Begun to form a working relationship with all partners.
+During the first 6 months you have:
+Build scripts and tools to ensure seamless data integrations between Oscar's external partners and its new insurance technology stack.
+Become an expert on the primary member and provider data models used in health insurance operations.
+Partnered closely with the Claims Engineering and Data teams to structure and operationalize the next generation of claim adjudication and payment.
+On an ongoing basis you will:
+Build and oversee Claims and Member data integrations and accompanying technical projects for Oscar's entrance into Medicare Advantage.
+Distill the requirements of new product and market expansions and design automated workflows to reduce manual work requirements.
+Support the Claims and Member configuration operations team to resolve provider and member escalations through issue investigation, training, and technical tooling.
+What leads to your success?
+
+Must-have qualities include:
+A bachelor's degree
+A technical bend and the ability to use tools to answer questions (e.g. SQL/Python)
+Outstanding structured, systematic thinking
+A passion for distilling complex concepts and workflows into clear content
+2 or more years experience in a technical role (QA analyst, PM, operations analyst, finance, consulting, industrial engineering)
+We think it will make a big (positive) difference if you have...
+An academic and professional background in coding, math, statistics, or data science
+Knowledge and passion of healthcare or health insurance
+Are naturally curious and desire to seek the truth
+Knowledge management, training, or content development experience
+A willingness to master the detail but also zoom out to understand the big picture
+Start-up experience
+An enjoyment experimenting and iterating on ways to solve a problem
+Life at Oscar
+
+At Oscar, being an Equal Opportunity Employer means more than upholding discrimination-free hiring practices. It means that we cultivate an environment where people can be their most authentic selves and find both belonging and support. We're on a mission to change health care -- an experience made whole by our unique backgrounds and perspectives.
+
+We encourage our members to care for their whole selves, and we encourage our employees to do the same with comprehensive medical benefits, generous paid-time off, paid parental leave, retirement plans, company social events, stocked kitchens, wellness programs, and volunteer opportunities.
+
+Reasonable Accommodation
+
+Oscar applicants are considered solely based on their qualifications, without regard to applicant's disability or need for accommodation. Any Oscar applicant who requires reasonable accommodations during the application process should contact the Oscar Benefits Team (accommodations@hioscar.com) to make the need for an accommodation known.
+
+Pay Transparency Policy
+
+Oscar ensures that you won't be discharged or discriminated against based on whether you've inquired about, discussed, or disclosed your pay. Read the full policy here.",3.7,"Oscar Health
+3.7","New York, NY","New York, NY",1001 to 5000 employees,2012,Company - Private,Insurance Agencies & Brokerages,Insurance,$2 to $5 billion (USD),-1,True
+Senior Data Engineer,$80K-$150K (Glassdoor est.),"Senior Data Engineer
+
+Master’s degree in Information Technology, Computer Science with 2 years experience.
+
+Design, build, & maintain Consumer Identity Management System to match Affinity consumer database using frameworks such MD5 & SHA512.
+
+Build & maintain Analytical Data Platforms using appropriate SQL, NoSQL and NewSQL technologies like MapR, Spark, Hadoop, & Python.
+
+Lead engineering processes to ensure data quality & meta data documentation using tools like Python, Amazon RedShift, Tableau & Confluence.
+
+Perform quantitative analysis of customer data using tools like SaaS & machine learning. Monitor tag transactions to correctly reward consumers based on merchant reward program offerings.
+
+Skills: SQL, NoSQL, NewSQL, MapR, Spark, Hadoop, Python, Amazon RedShift, Tableau, Confluence, SaaS & machine learning.
+
+Send resume to Affinity Solutions, Inc, Attn: HR Department, 875 Avenue of the Americas, 21st Floor, New York, NY 10001.",3.0,"Affinity Solutions
+3.0","New York, NY","New York, NY",51 to 200 employees,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,"Commerce Signals, Cardlytics, Yodlee",True
+Data Engineer,$80K-$150K (Glassdoor est.),"Our client is a leading hedge fund looking to hire a Data Engineer for their Macro Strategies business unit.
+
+Responsibilities:
+Driving innovation through product and platform development
+Helping to facilitate bespoke custom basket trades for clients in a scalable infrastructure
+Developing infrastructure and tools to administer basket rebalances for external clients and internal trading teams
+Automation of corporate action adjustments and improvement of work-flow
+Providing metrics for basket trades, to drive sales and trading decisions and to grow the business
+Both independent and collaborative work, involving several sales/strat/trading teams globally
+
+Requirements:
+Expertise in Python
+Strong SQL skills
+Web scraping experience
+Experience with Linux and Windows platform
+Strong communication skills, both written and verbal
+Exposure to non-relational databases
+Exposure to web UI technologies
+Data Warehousing and Modeling expertise
+Financial knowledge
+
+
+If you would like to be considered for the position of Data Engineer or wish to discuss the role further then please leave your details below. Your resume will be held in confidence until you connect with a member of our team
+Email: info@njfsearch.com or call London (0207 604 4444,) New York (212 400 4845) or Chicago (312 204 72176) to speak to a member of our team. Thank you",4.2,"NJF Global Holdings
+4.2","New York, NY","London, United Kingdom",51 to 200 employees,2003,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),-1,True
+Data Research Developer,$80K-$150K (Glassdoor est.),"About Us
+
+Teza is a quantitative asset management firm that strives to develop innovative, high-Sharpe investment products for its clients. Originally founded in 2009 as a science and technology-driven global quantitative trading business, Teza derives its unique edge in asset management from its high-frequency trading past and science-based investment approaches. Under the leadership of CEO Misha Malyshev, Teza's innovative approaches to quantitative research and platform engineering distinguish us from other quant trading firms. We have successfully attracted and assembled a group of top talent, including widely recognized experts in quantitative trading. Teza has over 50 professionals worldwide with offices in Austin, Chicago, New York, and Shanghai.
+
+About the Role
+
+Teza Technologies is looking for a data engineer to join our quantitative development team who will be a close partner to our Equities Statistical Arbitrage trading team . This role can be based in New York, NY or Austin, TX. Data drives systematic trading and is critical to all aspects of the firm's business. This is a hands-on position with significant growth potential. The firm is looking for outstanding technical skills, strong attention to detail, and experience with both systems development and data modeling.
+
+Responsibilities
+Communicate with quantitative researchers and other end-users to understand their requirements and potential future requests
+Investigate vendor data thoroughly to become a subject matter expert on its characteristics and irregularities
+Develop ETL processing components using cutting edge technologies, and write robust tests for on-going quality control
+Support developed transformations and ETL frameworks in production trading as well as backtest research
+Build flexible data API components in iterations with research peers to ensure their needs are met
+Optimize data IO and load balancing for distributed, grid computation
+Analyze a variety of large data sets to develop and implement alpha signals
+Requirements
+Detail oriented
+Strong programming skills, preference for Python, Java is a plus
+Experience with the scientific Python stack, Numpy, Scipy, Pandas, Matplotlib
+Ability to find practical solutions and successfully make trade-offs between long-term goals and short-term deliverables
+Ability to troubleshoot difficult problems, both numerically and technically
+Proficient with SQL, experience with Postgres is a plus
+Experience with Hadoop, Spark, and Docker is a plus
+Preferred Education and Experience
+Computer Science/Math or similar degree
+2-5 years of professional experience, ideally exposure to work with complex data sets and all stages of cleaning, preparing data to be used in specific format",4.3,"Teza Technologies
+4.3","New York, NY","Chicago, IL",51 to 200 employees,2009,Company - Private,Financial Analytics & Research,Finance,Unknown / Non-Applicable,-1,-1
+Data Engineer (Python),$80K-$150K (Glassdoor est.),"What we're looking for
+
+We are looking for a motivated data engineer who is passionate about building reliable and scalable data pipelines to make data sets available for analysis. The ideal candidate is entrepreneurial, motivated to grow, and has a passion for Python development.
+Our Engineering Values
+Collaboration: We believe that engineers do their best work when working together in cohesive teams.
+Excellence: We believe in doing things the ""right way"" rather than the ""fast way"", and holding ourselves to a high standard of excellence.
+Growth: We believe engineers do their best work when they are constantly growing, learning, and changing.
+Communication: We believe in combining empathy with openness and honesty to set clear expectations and hold each other accountable.
+Impact: We believe we're making the world a better place by empowering marketers to really help their customers rather than just sell stuff.
+
+What you'll be doing
+Developing and enhancing multiple ETL pipelines
+Designing and implementing data storage structures and ETL pipelines, keeping long-term impacts in mind
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Working knowledge of message queuing, stream processing, and highly scalable 'big data' data stores.
+Strong project management and organizational skills.
+Identifying and improving upon current internal processes through automation and optimization
+
+Who you are:
+
+
+Bachelor's degree in Computer Science, Mathematics, or related field/equivalent experience
+3+ years of experience with Python, Java, Scala, R, Go or similar language
+3+ years of experience in working with cloud computing technology (AWS, Google Cloud Platform, etc.)
+3+ years experience working on data warehouse systems such as Snowflake
+Have developed systems based on key principles (consistency and availability, liveness and safety, durability, reliability, fault-tolerance, consensus algorithms)
+Comfortable using version control and working in a collaborative environment
+Experienced with CI/CD tools for testing and deployment
+Self-starter with the ability to work independently or in a team
+Able to manage one's schedule and prioritize tasks independently
+Why You Should Join
+
+
+At Conductor, we are looking for engaged and passionate engineers that can raise the bar. There is a tremendous opportunity here to have immediate impact in the day-to-day and affect the company's success and growth. We all share in the same values and push each other to meet these standards.
+
+We are made up of a diverse group of people from all backgrounds and include a team of exceptional engineers in Kyiv as well. Wherever you are from, you will find a common ground here for continuing to push forward your career and make a difference in this industry.
+
+Conductor, Inc. is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+About Conductor
+
+
+Conductor's search and content intelligence platform helps marketers create and optimize content to improve visibility online.
+
+The technology generates customer intent insights that lead to compelling content, increased traffic, and higher organic marketing ROI. Customizable dashboards and workflows guide marketers through the content creation process, empowering them to measure, refine, and demonstrate the effectiveness of their SEO and content marketing efforts.
+
+In addition to its SaaS platform, Conductor offers a suite of services and support including site audits, site migrations, and managed services that empower in-house marketing teams and digital marketing agencies to drive results and put their customers' needs first.
+
+Conductor's forward-thinking customers include global and emerging enterprise brands like Citibank, Salesforce, ClassPass, and WeWork.",4.4,"Conductor
+4.4","New York, NY","New York, NY",201 to 500 employees,2010,Company - Private,Internet,Information Technology,$25 to $50 million (USD),"Brightedge Technologies, Moz, seoClarity",True
+Data Center Engineer,$80K-$150K (Glassdoor est.),"About the Position
+
+
+We are seeking a motivated, intelligent individual to work with our networking and systems administration teams in our Data Centers in the borough of Manhattan in NYC. The position is a combination of rack and stack, networking and systems administration in a Data Center environment. This is a hands-on position where the individual will be challenged to deliver high quality work in a dynamic environment, with the following responsibilities:
+Work as a support resource for different groups within technology, including the systems administration, software development and network engineering groups.
+Travel to different data centers to install, configure, monitor, and troubleshoot new and existing equipment.
+Maintain responsibility for the overall security, organization, documentation, safety, cleanliness and supplying of the data center
+Suggest improvements to current processes when there are better alternatives.
+Coordinate logistics of shipping/receiving server, network and telecommunications equipment.
+Rack, cable and provision servers and networking equipment.
+Maintain inventory for cabling, optics and network equipment.
+Perform hardware maintenance on rack-mounted servers.
+Measure, install, dress and label copper and fiber cabling.
+Work with carriers on installation of services.
+Troubleshoot server issues with the guidance of senior SysAdmins.
+Troubleshoot network issues with senior network engineers.
+Help to troubleshoot equipment failures, then install and configure replacements.
+Supervise vendors and trades when they are working in the data center on behalf of Jane Street
+About You
+Self-driven, independent individual.
+1-2 years of experience working in a Data Center environment; racking & stacking equipment and cable management.
+Ability to work evenings and occasional weekends.
+Strong written and verbal communication skills.
+Demonstrated ability of analytical and interpersonal skills.
+Basic knowledge of network operating systems would be nice to have
+Basic knowledge of data center best practices and cabling methodology.
+Ability to lift up to 50 pounds and climb ladders to install cabling and equipment.
+Not required, but nice to have:
+Ability to terminate copper/fiber cabling.
+Experience Upgrading firmware and BIOS settings of servers.
+Ability to test and troubleshoot dark fiber connectivity.
+Basic Bash/Python scripting experience.
+Familiarity with Dell, Cisco, Arista, Ciena, Corning, and/or Ortronics products.",4.8,"Jane Street
+4.8","New York, NY","New York, NY",501 to 1000 employees,2000,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1,-1
+Data Engineer - Health Data Engineering,$80K-$150K (Glassdoor est.),"By applying for this role, you could choose to work in the following locations:
+New York City
+San Francisco
+
+DATA ENGINEER - HEALTH DATA ENGINEERING TEAM
+
+Are you an engineer who’s passionate about defending online users against abuse, spam, and manipulation? Will you be proud to work on a real-time, scalable pipelines that process terabytes of data to enable training and analysis of Machine Learning models, product analysis, and experimentation? If so, you should join us. Health is Twitter’s top priority and we need your help!
+
+Who We Are
+
+
+The mission of the Health organization at Twitter is to keep our users safe from negative experiences in a highly adversarial environment. This aligns with our company's #1 priority: growing the collective health, openness, and civility of public conversation.
+
+The Health Data Engineering team is responsible for designing, implementing, and maintaining data pipelines powering the most fundamental datasets used by the entire Health organization at Twitter. This team is also in charge of the best practices around building scalable, production-ready data processing solutions, as well as researching and implementing the most efficient mechanisms for data access. Health Data Engineering team will be partnering closely with all the engineering teams in the Health org to understand and improve its data production and consumption needs. We work on some of the world’s most highly-scaled distributed systems, handling hundreds of millions of tweets, engagements, and model-driven decisions each day. This team is foundational to making the most out of the data we have.
+
+What You’ll Do
+
+
+Here are some examples of what you’ll find yourself doing daily:
+Directly contribute to the design and code of the data pipelines operating on production data
+Improve approaches to efficiently handle ever-increasing volumes of data
+Lead end-to-end design and implementation of common components that accelerate and improve our ability to write efficient and reliable data pipelines
+Maintain efficiency and reliability of production of the critical datasets
+Evaluate and propose the best tooling and processes for data access and analysis
+Provide design and review support to the engineering teams working on data processing
+Continuously evaluate team’s processes to maintain a positive and efficient engineering culture
+Who You Are
+You have experience working in an environment that supports data analysis, experimentation, and Machine Learning modeling or its integration into a product.
+You have a solid understanding of backend and distributed systems and strong experience working with MapReduce-based architectures.
+You have experience in working with large volumes of data.
+You have a broad knowledge of the data infrastructure ecosystem.
+You are familiar with standard software engineering methodology, e.g. unit testing, code reviews, design documentation.
+You enjoy working in a collaborative environment and interact effectively with others.
+You ground your decisions with data and reasoning and can adapt to new information to make informed choices.
+You bring thoughtful perspectives, empathy, creativity, and a positive attitude to solve problems at scale.
+Here’s all the legal good stuff:
+
+We are committed to an inclusive and diverse Twitter. Twitter is an equal opportunity employer. We do not discriminate based on race, ethnicity, color, ancestry, national origin, religion, sex, sexual orientation, gender identity, age, disability, veteran, genetic information, marital status or any other legally protected status.
+
+San Francisco applicants: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",4.0,"Twitter
+4.0","New York, NY","San Francisco, CA",1001 to 5000 employees,2006,Company - Public,Internet,Information Technology,$2 to $5 billion (USD),"Facebook, Google, Pinterest",-1
+Software Engineer,$80K-$150K (Glassdoor est.),"Who we are...
+
+
+Verra Mobility is a global leader in smart mobility. We develop technology-enabled solutions that help the world move safely and easily. We are fostering the development of Smart Cities, working with municipalities, counties and school districts to install over 5,000 red-light, speed, and school bus stop arm safety cameras across North America that leverage computer vision analytics to deliver unprecedented outcomes. We are also creating smart roadways, serving the world's largest commercial fleets and rental car companies to manage tolling transactions and violations for over 8.5 million vehicles. And we are a leading provider of connected payment systems, processing nearly 200 million transactions each year.
+
+Position Overview
+
+
+Software Engineer for VM Consolidated Inc., d/b/a Verra Mobility (Mesa, AZ)
+
+Essential Responsibilities
+
+
+Software Engineer for VM Consolidated Inc., d/b/a Verra Mobility (Mesa, AZ) - Work with scrum team to ensure that all functionality is properly designed, developed, tested, and delivered per the requirements documented by product team. Develop low-level design document to be used by team members for development. Actively participate in code reviews to ensure coding standards are enforced and adequate code coverage is maintained. Develop and document test plans, automated test cases, regression tests, integration tests, and end-to-end tests. Integrate automated testing into Azure Pipelines to ensure quality at build and deployment. Utilize Azure templates and Coded Infrastructure to create and update environments on demand. Work with product teams, scrum teams, and internal groups to ensure customer requirements are being developed and adequately tested. Create and follow design documentation to develop and enhance applications. Create, update, and enhance Stored Procedures, SSRS reports, and SSIS packages. Diagnose and resolve issues in our dev, test, and production environments. Provide technical assistance to end users by responding to inquiries regarding errors, problems, or technical questions. Develop and maintain technical documentation. Provide mentoring and leadership to associate level team members.
+
+Qualifications
+
+
+Requirements include Bachelor’s degree in Computer Science, Computer Engineering, or related; and 3 years of experience (or 5 years with NO Bachelor’s degree) as a Technology Analyst, or related software engineering occupation, which must include some experience with .Net development, SDLC, testing and implementation of web-based business solutions using OOPS, SOA based applications, N-tier applications, Test-Driven Development and Agile Methodologies.; C#, ASP.Net, MVC, Web-API, IIS, Ajax, XML Web Services, WCF, HTML, XML, SOAP, Angular, JavaScript and jQuery; Object Oriented Design/Development, MVC/Unity design pattern, Threading, Parallel and Asynchronous programming; Entity Framework, Data Adapter, Data Reader and Dataset in ADO.NET and LINQ providers for data manipulation and CRUD operations; Database Design, Normalization, T-SQL, PL-SQL, DML & DDL Queries, Stored Procedures, Views and Functions; Data extraction, cleansing/data integration and loading from different data sources by creating complex SSIS packages; and Windows Azure Cloud hosting platform, Azure DevOps, version control tools (Git, TFS, Azure DevOps, Perforce and SVN).",3.9,"Verra Mobility
+3.9","Jersey City, NJ","Mesa, AZ",501 to 1000 employees,1987,Company - Public,Transportation Management,Transportation & Logistics,Unknown / Non-Applicable,-1,-1
+Senior BI Engineer,$80K-$150K (Glassdoor est.),"The Senior BI Engineer will be joining a team of entrepreneurial software and data engineers who share a common goal to provide our clients with our must-have data products. The Senior BI Engineer will be responsible for building, scaling, and executing on our dashboarding and visualization roadmap while ensuring accurate and timely launch and delivery of our data products. We need you to be constantly on the lookout for opportunities to improve our existing BI dashboards, processes and workflows and craft a transformative vision for the future of our BI platforms and execute on it and effectively communicate its impact across the board. This is a fully hands-on role!Our technologies and data power the insights for financial services and corporations.
+
+The compensation package includes a competitive salary and incentive structure, generous benefits, and valuable business experiences, challenges, and excitement of contributing to the success of a fast-growing technology startup company.
+
+Ideal candidates are those who are excited by big data challenges and enjoy using new technologies to make large data sets feel small.
+
+This position reports to the VP, Data Products Engineering
+
+Responsibilities:
+Work closely with product management teams in implementing and executing on our dashboard and visualization roadmap
+Build compelling dashboard visualizations with a knack of storytelling
+Develop dashboard POCs for validating business use cases that map to unique customer requirements
+Lead troubleshooting of live dashboards and data issues and effectively and proactively communicate any business impact to the various stakeholders
+Collaborate with cross-functional teams of data scientists, engineers, research and data analysts and integrate with established practices
+Establish dashboard build and design standards - Follow data visualization best practices, performance tuning, create/maintain related templates and artifacts
+Help ensure we meet or exceed the high standards we set for ourselves for adherence to our customer obligations
+Requirements:
+Bachelor’s degree required in Computer Science, Engineering, Math, Physics, or similar
+6+ years’ experience in building and managing BI solutions at scale with deep expertise in building and deploying dashboards on Tableau
+Expertise in designing compelling dashboards that deliver a differentiated user experience
+Experience with enterprise scale tableau roll outs will be a plus.
+Knowledge of Tableau Server best practices: including architecting (cluster config), administration and security will be a plus
+Knowledge and familiarity of building dashboards with AWS Redshift and Google Big Query will be preferred
+Experience and knowledge of data modeling and data warehousing best practices will be preferred
+Experience with multiple BI Tools and solutions will be a plus
+Results driven attitude with a strong desire to build data platforms that enable 7Park Data’s insights across a massive and diverse set of data
+Fearlessness in the pursuit of process improvement, implementation, and change
+Flexibility and willingness to adapt to the changing demands of a fast-paced, startup environment
+Solutions oriented approach and multi-dimensional problem solving
+Highly self-motivated and results oriented, proven track record of exceeding goals
+Commitment to success and willingness to put forth the effort to achieve it
+Strong written and verbal English communication skills",3.9,"7Park Data
+3.9","New York, NY","New York, NY",51 to 200 employees,2012,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,-1,-1
+Principal Software Engineer - Data Cloud,$80K-$150K (Glassdoor est.),"At Veeva, we build enterprise cloud technology that powers the biggest names in the pharmaceutical, biotech, consumer goods, chemical & cosmetics industries. Our customers make vaccines, life-saving medicines, and life-enhancing products that make a difference in everyday lives. Our technology has transformed these industries; enabling them to get critical products and services to market faster. Our core values, Do the Right Thing, Customer Success, Employee Success, and Speed, guide us as we make our customers more efficient and effective in everything they do.
+
+The Role
+
+As a Principal Software Engineer on the Veeva Data Cloud development team, you will be responsible for building out the systems and processes from the ground up for our product launch. You’ll continue to be focused on building software that can scale and continue to evolve with new features and capabilities over time. You’ll be a part of a small team focused on building Veeva Data Cloud from the ground up.
+What You’ll Do
+Design and develop platform capabilities for a set of new scalable data products to support enterprise customers
+Collaborate with Product Management and Development team members on the technical design and development for core product capabilities
+Process large amounts of structured and unstructured data to extract value from it
+Focus on bringing automation to scale and identifying where software can proactively solve problems in an automated way
+Builds the job scheduler and execution capability, focusing on resource scalability
+Requirements
+10+ years of hands on software development experience
+Proven experience building products in Big Data, distributed computing and cloud
+Proficient in Java/Scala
+Proficient in Spark/EMR
+Proficient in Linux, SQL, relational databases
+Experience working with AWS
+Modern data storage, messaging, and processing tools and demonstrated experience designing and coding in big-data components
+NoSQL databases, such as MongoDB, ElasticSearch, Cassandra, etc.
+RESTful interfaces
+Experience working in an agile environment on enterprise products
+Experience in hiring and developing high-performing engineers
+College degree in math, computer science, systems engineering or a similar technical field
+Nice to Have
+Exposure to data and code security (Encryption, SSL, Hashing, Masking) is an advantage
+Understanding of machine learning algorithms and computational modeling
+Perks & Benefits
+Office conveniently located in midtown Manhattan and close to several major transportation hubs
+Fully stocked kitchen with snacks and beverages
+Fitness/wellness reimbursement
+Allocation for continuous learning and development
+Weekly happy hours and other social activities
+Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
+
+Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances.",3.5,"Veeva Systems
+3.5","New York, NY","Pleasanton, CA",1001 to 5000 employees,2007,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),-1,-1
+Data Engineer,$80K-$150K (Glassdoor est.),"Job Description
+
+Data Engineer
+
+At Citadel, data is the core of the investment process. Data Engineers architect and build our data platforms which drive how we source, enrich, and store data that integrates into the investment process. These Data Engineers own the entire data pipeline starting with how we ingest data from the outside world, transforming that information into actionable insights, and ultimately designing the interfaces and APIs that our investment professionals and quantitative researchers use to monetize ideas. Throughout the process, our Data Engineers partner with top investment professionals and data scientists to design systems that solve our most critical problems and answer the most challenging questions in finance.
+
+YOUR OPPORTUNITY:
+
+Develop solutions that enable investment professionals to efficiently extract insights from data. This includes owning the ingestion (web scrapes, S3/FTP sync, sensor collection), transformations (Spark, SQL, Kafka, Python/C++/Java), and interface (API, schema design, events)
+Partner with the industry’s top investment professionals, quantitative researchers, and data scientists to design, develop, and deploy solutions that answer fundamental questions about financial markets
+Build tools and automation capabilities for data pipelines that improve the efficiency, quality and resiliency of our data platform
+Drive the evolution of our data strategy by challenging the status quo and identifying opportunities to enhance our platform
+YOUR SKILLS & TALENTS:
+
+Passion for working with data in order to accurately model and analyze complex systems such as a publicly traded company, commodity market, economy, or financial instruments
+Strong interest in financial markets and a desire to work directly with investment professionals
+Proficiency with one or more programming languages such as Java or C++ or Python
+Proficiency with RDBMS, NoSQL, distributed compute platforms such as Spark, Dask or Hadoop
+Experience with any of the following systems: Apache Airflow, AWS/GCE/Azure, Jupyter, Kafka, Docker, Kubernetes, or Snowflake
+Strong written and verbal communications skills
+Bachelor’s, Master’s or PhD degree in Computer Science or equivalent experience
+About Citadel
+
+
+Citadel is a global investment firm built around world-class talent, sound risk management, and innovative leading-edge technology. For a quarter of a century, Citadel’s hedge funds have delivered meaningful and measurable results to top-tier investors around the world, including sovereign wealth funds, public institutions, corporate pensions, endowments and foundations.
+
+With an unparalleled ability to identify and execute on great ideas, Citadel’s team of more than 675 investment professionals, operating from offices including Chicago, New York, San Francisco, London, Hong Kong and Shanghai, deploy capital across all major asset classes, in all major financial markets.",3.8,"Citadel
+3.8","New York, NY","Chicago, IL",1001 to 5000 employees,1990,Company - Private,-1,-1,$50 to $100 million (USD),"Soros Fund Management, D. E. Shaw & Co. - Investment Firm, Fortress Investment Group",-1
+Data Engineer,$80K-$150K (Glassdoor est.),"PulsePoint Data Engineering team plays a key role in our technology company that's experiencing exponential growth. Our data pipeline processes over 80 billion impressions a day (> 20TB of data, 220 TB uncompressed). This data is used to generate reports, update budgets, and drive our optimization engines. We do all this while running against extremely tight SLAs and provide stats and reports as close to real-time as possible.
+
+The most exciting part about working at PulsePoint is the enormous potential for personal and professional growth. We are always seeking new and better tools to help us meet challenges such as adopting proven open-source technologies to make our data infrastructure more nimble, scalable and robust. Some of the cutting edge technologies we have recently implemented are Kafka, Spark Streaming, Presto, Airflow, and Kubernetes.
+
+What you'll be doing:
+Design, build and maintain reliable and scalable enterprise level distributed transactional data processing systems for scaling the existing business and supporting new business initiatives
+Optimize jobs to utilize Kafka, Hadoop, Presto, Spark Streaming and Kubernetes resources in the most efficient way
+Monitor and provide transparency into data quality across systems (accuracy, consistency, completeness, etc)
+Increase accessibility and effectiveness of data (work with analysts, data scientists, and developers to build/deploy tools and datasets that fit their use cases)
+Collaborate within a small team with diverse technology backgrounds
+Provide mentorship and guidance to junior team members
+Team Responsibilities:
+Installation, upkeep, maintenance and monitoring of Kafka, Hadoop, Presto, RDBMS
+Ingest, validate and process internal & third party data
+Create, maintain and monitor data flows in Hive, SQL and Presto for consistency, accuracy and lag time
+Maintain and enhance framework for jobs(primarily aggregate jobs in Hive)
+Create different consumers for data in Kafka using Spark Streaming for near time aggregation
+Train Developers/Analysts on tools to pull data
+Tool evaluation/selection/implementation
+Backups/Retention/High Availability/Capacity Planning
+Review/Approval - DDL for database, Hive Framework jobs and Spark Streaming to make sure they meet our standards
+24*7 On call rotation for Production support
+Technologies We Use:
+Airflow - for job scheduling
+Docker - Packaged container image with all dependencies
+Graphite/Beacon - for monitoring data flows
+Hive - SQL data warehouse layer for data in HDFS
+Impala- faster SQL layer on top of Hive
+Kafka- distributed commit log storage
+Kubernetes - Distributed cluster resource manager
+Presto - fast parallel data warehouse and data federation layer
+Spark Streaming - Near time aggregation
+SQL Server - Reliable OLTP RDBMS
+Sqoop - Import/Export data to RDBMS
+Required Skills:
+BA/BS degree in Computer science or related field
+5+ years of software engineering experience
+Knowledge and exposure to distributed production systems i.e Hadoop is a huge plus
+Knowledge and exposure to Cloud migration is a plus
+Proficiency in Linux
+Fluency in Python, Experience in Scala/Java is a huge plus
+Strong understanding of RDBMS, SQL;
+Passion for engineering and computer science around data
+Willingness to participate in 24x7 on-call rotation
+What we offer:
+401(k) Match and free access to a financial advisor
+Generous paid vacation/company holidays
+Vacation reimbursement (we give you $500 to take vacation), sabbatical, pawternity leave, marriage leave, honeymoon bonus
+Comprehensive healthcare with 100%-paid medical, vision, life & disability insurance
+$2,000 annual training and development budget
+Complimentary annual memberships to One Medical, NY Citi Bike and SF Ford GoBike
+Monthly chair massages
+Free fitness classes (spin, yoga, boxing)
+Gym reimbursement, local gym membership discounts
+Onsite flu shots, dental cleanings and vision exams
+Annual company retreat
+Paid parental leave and a lot of new parent perks
+Emergency childcare credits
+Volunteer Time Off and Donation Matching, ongoing group volunteer opportunities
+Team lunches, Sip & Social Thursdays, Game Nights, Movie Nights
+Healthy snacks and drinks
+And there's a lot more!",4.4,"PulsePoint
+4.4","New York, NY","New York, NY",51 to 200 employees,2011,Company - Private,Internet,Information Technology,$100 to $500 million (USD),"Crossix Solutions Inc., AppNexus, The Trade Desk",-1
+Service Engineer / Appliance Tech (Bi-lingual English/Korean Preferred),$80K-$150K (Glassdoor est.),"Company Profile
+
+CEF Solutions Inc. is a Consulting Services, and Business Process Outsourcing (BPO) company specialized in providing BPO operations, operations management, process engineering/ innovation, and cost optimization solutions to clients in the customer services industry. We service some of the largest multinational companies in the world and are expanding quickly by delivering an unmatched end-to-end client experience.
+
+Company Website: www.cem-lab.com
+
+Job Description:
+
+Regional Service Engineer is responsible for supporting accounts in the designated markets to ensure high level of performance for both Home Appliance and TV repairs. Offers consistent support (both Technical and Administrative) to technicians ensuring end user customers needs are fulfilled and KPIs are achieved. Responsibilities include providing technical support to the service centers, ride-alongs with the technicians to ensure correct policies are being followed and providing in-depth reporting on in-field performance of all assigned products. The RSE will work closely with the Regional Service Manager (RSM) for the zone providing valuable feedback from the field to help drive performance in the field.
+
+Responsibilities:
+Provide technical support to the service companies in the designated markets.
+Technician management to insure qualifications and appearance.
+Assist with Parts management.
+Build solid relationships with RSMs & Service Centers and have a comprehensive working knowledge of their Service Center accounts, operating issues, competitive landscape, and strategic outlook.
+The RSE will compile, edit, and gather accurate data and information to develop technical, operational and strategic reports, assuring they are legible and delivered on time.
+RSE reports showing regional performance of Service Centers (SVC) and assist in maintaining Key Performance Indicators (KPIs). When needed or requested, Develops/Implements action plans for improvements, with clear root cause analysis, reporting and follow up.
+Ensures Service Partners in designated markets are fully supported in all technical and procedural areas and that these partners are satisfied with the companys service and support.
+Use targeted reporting tools and processes to prioritize actions and field on-site visits.
+Regular meetings with RSMs, Service Centers and Field Leadership to go over reporting related to process improvement tasks, KPIs improvement tasks, SVC support tasks and Ad-Hoc Leadership requests.
+Creates detailed reports which include: Surveying service partners, researching databases, performing on-site visits and ride-alongs, obtaining samples of issues raised in the field, and researching potential solutions.
+Escalates operational issues and reports pertinent data to head office management, and HQ service operations.
+Assist and engages in professional feedback, development plans and corrective actions.
+Performs other duties as directed by Head Office leadership.
+Qualifications:
+
+EDUCATION
+Bachelor's Degree or Associates Degree or GED
+EXPERIENCE
+Minimum 5+ years home appliance or television service or consumer electronics industry related experience
+Minimum 2 years high volume account management experience in a customer service industry
+Minimum 2 years managing a team within a service industry.
+LANGUAGES
+Bi-lingual English and Korean preferred
+KNOWLEDGE, SKILLS, AND ABILITIES
+Experience gathering reports, KPIs and providing data analytics around the performance of our service partners.
+Ability to travel by car 50-75% in-state and up to 5% out-of-state
+Ability to identify gaps in procedures, policies and/or processes and create/manage improvement plans
+Comfortable presenting regular updates to senior Leadership on status of business and/or projects
+Analytical capabilities to understand operational impact to customers, business and P&L of different projects, and speak to and demonstrate ROI.
+Thinking in a disciplined,strategic, analytical, and logical manner.
+Advanced Microsoft Excel,Power Point, & Word skills required
+Ability to analyze large data sets to arrive at actionable conclusions
+Adapting the leadership style most appropriate for each solution
+Ability to communicate with both internal and external customers
+Ability to both take strategic direction and deliver direction to team for action
+Other Qualifications:
+Eligible to work in the United States with no restrictions
+Must pass background check
+Benefits/Compensation:
+Health insurance including dental and vision
+Paid vacation and sick days
+Salary is negotiable
+Job Type: Full-time
+
+Pay: $0.00 per hour
+
+Schedule:
+8 Hour Shift
+Monday to Friday
+Experience:
+home appliance repair: 5 years (Preferred)
+repair: 5 years (Preferred)
+Language:
+Korean (Preferred)
+Company's website:
+www.cem-lab.com",3.0,"CEF Solutions Inc.
+3.0","Hackensack, NJ","Fort Lee, NJ",1 to 50 employees,-1,Company - Public,-1,-1,Unknown / Non-Applicable,-1,-1
+Software Engineer (Python),$80K-$150K (Glassdoor est.),"AddThis Sharing Buttons
+Share to FacebookFacebookFacebookShare to TwitterTwitterTwitterShare to LinkedInLinkedInLinkedIn
+
+We’re looking for experienced Python engineers who would enjoy the challenge of designing and building applications to provide insights into a highly dynamic and expansive data set. Working with user-generated content at scale poses some unique problems so we highly value creative technical minds that can imagine solutions and bring them to reality.
+
+Responsibilities:
+Designing and building scalable systems that can collect, store, retrieve and transform data coming from a variety of different sources including APIs, Postgres, Solr, S3 and Cassandra.
+Designing and implementing maintainable API’s that support our end-user applications.
+Selecting appropriate data storage and retrieval methods and technologies.
+Designing data-structures and optimizing queries that deal with millions of rows of data.
+Creating reusable and maintainable code, automated tests and clear documentation.
+Optimizing your code to run in a high-performance real-time environment that generates billions of events a day.
+Supporting the software and systems you write and deploy in our production environment.
+Collaborating across engineering, product and data teams to solve technical and business issues.
+About You:
+5+ years experience building non-trivial, data-centric python applications and API’s in a Linux environment
+Experience designing and implementing scalable systems processing large amounts of data
+2+ years building back-end services and APIs in Django or Flask
+Thorough understanding of common internet networking technologies, including TCP, HTTP, DNS.
+Expertise working with RDBMS, including schema design, writing SQL for complex multi-table queries and optimizing query performance
+Expertise in using Git and Git branching models
+You enjoy working as a part of a collaborative team and demonstrate an open mindset.
+Strong communication skills: able to clearly articulate, defend and document design decisions and work with a cross-discipline team
+A love of problem-solving and a sense of imagination
+AddThis Sharing Buttons
+Share to FacebookFacebookFacebookShare to TwitterTwitterTwitterShare to LinkedInLinkedInLinkedIn",5.0,"OpenSlate
+5.0","New York, NY","New York, NY",51 to 200 employees,2012,Company - Private,Publishing,Media,Unknown / Non-Applicable,-1,-1
+Data Scientist/ML Engineer,$80K-$150K (Glassdoor est.),"Data Scientist/ML Engineer
+
+Apply Now
+
+Become part of the team
+
+Do you crave a collaborative organization where your contributions will make a strong impact?
+
+Do you want to develop products in the latest cloud-based technologies building ecosystems rather than creating client-facing slides?
+
+Are you ready to roll up your sleeves and embrace a work culture that’s insanely passionate and committed to bringing the latest advanced analytics to life?
+
+The Data Science & AI group at PA Consulting is your dream community. As part of the fastest growing innovation practice within PA Consulting, you will work with the latest advanced analytics, machine learning, and big data technologies to generate actionable insights from data and develop innovative data products. We focus on Life Science, Healthcare, Energy & Utilities and CPG sectors and work with various data sets, from social media to public health data. Our domain focus is broad and covers everything from computer vision and NLP, recommender engines, classification and clustering algorithms, linear programming and optimization.
+
+What we're looking for
+
+• 2-5 years professional experience as a data scientist, software engineer or statistical modeler
+• Master’s degree from top tier university in Computer Science, Statistics, Economics, Physics, Engineering, Mathematics, etc.
+• Expertise in machine learning algorithms and methods
+• Strong understanding and application of statistical methods
+• Experience writing production level code in one of the following: Python, Java, C++, C
+Preferred:
+• Experience working with database systems (e.g. SQL, NoSQL, MongoDB, Postgres, ect.)
+• Experience working with big data distributed programming languages, and ecosystems (e.g. S3, EC2, Hadoop/MapReduce, Pig, Hive, Spark, etc)
+• Experience building scalable data pipelines and with data engineering/ feature engineering.
+• Webscraping leveraging Beautifulsoup, Selenium, Scrapy, etc
+• Experience with front end (UI), HTML5, JavaScript, CSS, R Shiny, Tableau
+• Experience leveraging ML techniques to build recommender systems, NLP engines, computer vision algorithms, etc..
+
+Benefits
+
+
+We offer a compelling benefits package that is competitive with the market and designed to reward you for achieving success.
+
+About us
+
+
+We believe in the power of ingenuity to build a positive human future in a technology-driven world.
+
+As strategies, technologies and innovation collide, we create opportunity from complexity.
+
+Our diverse teams of experts combine innovative thinking and breakthrough use of technologies to progress further, faster. Our clients adapt and transform, and together we achieve enduring results.
+
+An innovation and transformation consultancy, we are over 3,200 specialists in consumer, defence and security, energy and utilities, financial services, government, health and life sciences, manufacturing, and transport. Our people are strategists, innovators, designers, consultants, digital experts, scientists, engineers and technologists. We operate globally from offices across the UK, US, Europe, and the Nordics.
+
+PA. Bringing Ingenuity to Life.
+
+Diversity Statement
+
+
+We believe that diversity makes us a stronger firm and look to employ people with different ideas, styles and skill sets. This diversity stimulates a rich, creative environment – one in which our people develop, and our clients enjoy enduring results. We’re committed to recruiting, promoting and rewarding our people solely based on their ability to contribute to PA’s goals, without regard to their sex, race, disability, religion, national origin, ethnicity, sexual orientation, age or marital status.
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. VEVRAA Federal Contractor.
+
+Country
+
+
+United States
+
+
+Location
+
+
+New York
+
+
+Contract Type
+
+
+Permanent
+
+
+Working Pattern
+
+
+Full Time
+
+Become part of the team
+
+Do you crave a collaborative organization where your contributions will make a strong impact?
+
+Do you want to develop products in the latest cloud-based technologies building ecosystems rather than creating client-facing slides?
+
+Are you ready to roll up your sleeves and embrace a work culture that’s insanely passionate and committed to bringing the latest advanced analytics to life?
+
+The Data Science & AI group at PA Consulting is your dream community. As part of the fastest growing innovation practice within PA Consulting, you will work with the latest advanced analytics, machine learning, and big data technologies to generate actionable insights from data and develop innovative data products. We focus on Life Science, Healthcare, Energy & Utilities and CPG sectors and work with various data sets, from social media to public health data. Our domain focus is broad and covers everything from computer vision and NLP, recommender engines, classification and clustering algorithms, linear programming and optimization.
+
+What we're looking for
+
+• 2-5 years professional experience as a data scientist, software engineer or statistical modeler
+• Master’s degree from top tier university in Computer Science, Statistics, Economics, Physics, Engineering, Mathematics, etc.
+• Expertise in machine learning algorithms and methods
+• Strong understanding and application of statistical methods
+• Experience writing production level code in one of the following: Python, Java, C++, C
+Preferred:
+• Experience working with database systems (e.g. SQL, NoSQL, MongoDB, Postgres, ect.)
+• Experience working with big data distributed programming languages, and ecosystems (e.g. S3, EC2, Hadoop/MapReduce, Pig, Hive, Spark, etc)
+• Experience building scalable data pipelines and with data engineering/ feature engineering.
+• Webscraping leveraging Beautifulsoup, Selenium, Scrapy, etc
+• Experience with front end (UI), HTML5, JavaScript, CSS, R Shiny, Tableau
+• Experience leveraging ML techniques to build recommender systems, NLP engines, computer vision algorithms, etc..
+
+Benefits
+
+
+We offer a compelling benefits package that is competitive with the market and designed to reward you for achieving success.
+
+About us
+
+
+We believe in the power of ingenuity to build a positive human future in a technology-driven world.
+
+As strategies, technologies and innovation collide, we create opportunity from complexity.
+
+Our diverse teams of experts combine innovative thinking and breakthrough use of technologies to progress further, faster. Our clients adapt and transform, and together we achieve enduring results.
+
+An innovation and transformation consultancy, we are over 3,200 specialists in consumer, defence and security, energy and utilities, financial services, government, health and life sciences, manufacturing, and transport. Our people are strategists, innovators, designers, consultants, digital experts, scientists, engineers and technologists. We operate globally from offices across the UK, US, Europe, and the Nordics.
+
+PA. Bringing Ingenuity to Life.
+
+Diversity Statement
+
+
+We believe that diversity makes us a stronger firm and look to employ people with different ideas, styles and skill sets. This diversity stimulates a rich, creative environment – one in which our people develop, and our clients enjoy enduring results. We’re committed to recruiting, promoting and rewarding our people solely based on their ability to contribute to PA’s goals, without regard to their sex, race, disability, religion, national origin, ethnicity, sexual orientation, age or marital status.
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. VEVRAA Federal Contractor.
+
+Back to list
+
+Send job to a friend
+
+Print this page
+
+Apply Now",3.3,"PA Consulting
+3.3","New York, NY","London, United Kingdom",1001 to 5000 employees,1943,Company - Private,Consulting,Business Services,$100 to $500 million (USD),"McKinsey & Company, Accenture, Deloitte",-1
