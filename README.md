@@ -367,9 +367,4 @@ Potential next steps include:
 - Add remote job detection
 - Deploy the dashboard to a cloud server
 
----
 
-## Resume Summary
-
-**Job Market Analytics Data Pipeline**  
-Built a PostgreSQL-backed ETL pipeline processing **2,528 Data Engineer job postings** into structured analytics tables; implemented Python/Pandas transformations, data quality checks, SQL analytics, and a Streamlit + Plotly dashboard for analyzing skill demand, salary trends, hiring locations, and company posting patterns.
